@@ -7,4 +7,4 @@
 
 ## Table of Contents
 <kbd></kbd> &nbsp;&nbsp; [First Hour of UE4]() <br>
-<kbd></kbd> &nbsp;&nbsp; [Chapter 2 - Setting Up Unreal & Github]()
+<kbd></kbd> &nbsp;&nbsp; [Setting Up Unreal & Github]()
