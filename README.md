@@ -15,4 +15,8 @@
 [//]: # (This comment will not be seen)
 
 ## Resize and position image
-<img src="https://placeholder.com/wp-content/uploads/2018/10/placeholder.com-logo1.jpg" width=100 align=middle>
+<img src="https://placeholder.com/wp-content/uploads/2018/10/placeholder.com-logo1.jpg" width=100 align=left>
+<img src="https://placeholder.com/wp-content/uploads/2018/10/placeholder.com-logo1.jpg" width=100 align=right>
+<p align=center>
+<img src="https://placeholder.com/wp-content/uploads/2018/10/placeholder.com-logo1.jpg" width=100>
+</p>
