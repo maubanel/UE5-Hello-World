@@ -2,11 +2,10 @@
 
 * Walk through for an introduction to Unreal Engine
 
-## YouTube Links:
-https://user-images.githubusercontent.com/5504953/120218419-53b31a80-c1ff-11eb-9377-3e96a42359a5.mp4
+## Video Embed:
+Drag and drop .mp4 and it creates an embedded link!
 
-
-https://youtube.com/embed/JHHQWEkpn9A
+https://user-images.githubusercontent.com/5504953/124366609-e3385880-dc05-11eb-9092-2f218c1ea813.mp4
 
 
 ## Reusable links
