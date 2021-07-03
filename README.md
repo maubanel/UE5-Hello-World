@@ -30,6 +30,6 @@
 ## Hide Content
 <details>
   <summary>HINT</summary>
-  * This is a HUGE hint!
-  * THis is a <sup>small</sup> hint!
+   This is a HUGE hint!<br>
+   THis is a <sup>small</sup> hint!
 ]</details>
