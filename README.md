@@ -22,4 +22,5 @@
 </p>
 
 ## Color using placeholder.com
-* [#ff000](https://placeolder.com/12/ff000?text=+) red!
+* ![#ff000](hhttps://via.placeholder.com/150/0000FF/808080 ?Text=Digital.com]
+*  red!
