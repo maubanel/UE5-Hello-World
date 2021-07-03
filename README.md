@@ -168,15 +168,3 @@ term
 + 20 GOTO 10
 ```
 
-<style>
-.pclass{
-background-color: yellow;
-color: blue;
-}
-</style>
-<p class=”pclass”>
-Hello Markdown….
-</p>
-<button >
-Markdown Button
-</button>
