@@ -10,7 +10,9 @@
 
 ## Hidden Comment
 * Below comment is hidden
+
+
 [//]: # (This comment will not be seen)
 
 ## Resize image
-<img src="https://placeholder.com/wp-content/uploads/2018/10/placeholder.com-logo1.jpg" widt=100 align=right>
+<img src="https://placeholder.com/wp-content/uploads/2018/10/placeholder.com-logo1.jpg" width=100 align=right>
