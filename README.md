@@ -2,9 +2,6 @@
 
 * Walk through for an introduction to Unreal Engine
 
-{% highlight html %}
-Hello
-{% endhighlight %}
 
 ## Reusable links
 [test]: https://marcaubanel.com
