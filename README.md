@@ -2,8 +2,8 @@
 
 * Walk through for an introduction to Unreal Engine
 
-## REusable links
+## Reusable links
 [test]: https://marcaubanel.com
 
 * Got to [mauby's website][test].
-
+* You can do the same thing with images ```[text]: link ![text]```
