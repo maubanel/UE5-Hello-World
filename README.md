@@ -21,8 +21,8 @@
 <img src="https://placeholder.com/wp-content/uploads/2018/10/placeholder.com-logo1.jpg" width=100>
 </p>
 
-## Color Background using placeholder.com
+## Color Background and Swatch using placeholder.com
 
-![](https://via.placeholder.com/150/0000FF/FFFFFF?Text=Mauby)
-* ![#ff0000](https://via.placeholder.com/15/0000FF/0000FF?Text=+) Blue!
-* <img src="https://via.placeholder.com/150/000000/FFFFFF/?text=Mauby">
+<img src="https://via.placeholder.com/150/0000FF/FFFFFF/?text=Mauby">
+* ![#ff0000](https://via.placeholder.com/15/0000FF/0000FF) Blue!
+
