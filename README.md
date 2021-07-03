@@ -77,5 +77,9 @@ function fancyAlert(arg) {
 - [ ] this is an incomplete item
 
 ## Emojis
-Get all at https://www.webfx.com/tools/emoji-cheat-sheet/
-:exclamation:
+Get all at https://www.webfx.com/tools/emoji-cheat-sheet/* 
+* :exclamation:
+* :musical_note:
+* :speech_balloon:
+* * :thought_balloon:
+* * :busts_in_silhouette:
