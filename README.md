@@ -21,7 +21,7 @@
 <img src="https://placeholder.com/wp-content/uploads/2018/10/placeholder.com-logo1.jpg" width=100>
 </p>
 
-## Color using placeholder.com
+## Color Background using placeholder.com
 
 ![](https://via.placeholder.com/150/0000FF/FFFFFF?Text=Digital.com)
-*  red!
+* ![#ff0000]https://via.placeholder.com/150/0000FF/FFFFFF?Text=+) Red!
