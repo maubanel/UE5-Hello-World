@@ -33,4 +33,8 @@ Content does not support markdown :-(
   <summary>HINT</summary>
    This is a HUGE hint!<br>
    This is a <sub>small</sub> hint!
+  
+  ```md
+  some **markdown** content that *needs* to be `displayed`
+  ```
 ]</details>
