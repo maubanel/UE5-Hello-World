@@ -81,5 +81,18 @@ Get all at https://www.webfx.com/tools/emoji-cheat-sheet/*
 * :exclamation:
 * :musical_note:
 * :speech_balloon:
-* * :thought_balloon:
-* * :busts_in_silhouette:
+* :thought_balloon:
+* :busts_in_silhouette:
+* :cop:
+* :angel:
+* :point_up_2:
+* :clap:
+* :muscle:
+* :raised_hands:
+* :point_right:
+* :point_left:
+* :point_down:
+* :ok_hand:
+* :raised_hand:
+* :+1:
+* :-1:
