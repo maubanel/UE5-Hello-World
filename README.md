@@ -3,9 +3,7 @@
 * Walk through for an introduction to Unreal Engine
 
 ## YouTube Links:
-<p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JHHQWEkpn9A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-</p>
+https://user-images.githubusercontent.com/5504953/120218419-53b31a80-c1ff-11eb-9377-3e96a42359a5.mp4
 
 ## Reusable links
 [test]: https://marcaubanel.com
