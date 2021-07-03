@@ -33,12 +33,8 @@ Content does not support markdown :-(
   <summary>HINT</summary>
    This is a HUGE hint!<br>
    This is a <sub>small</sub> hint!
-  
-## Combined Format
-
-* Italic-bold -> __*" sss"*__
-]</details>
-
+</summary>
+</details>
 
 ## Button using Tables
 | [Mauby](https://marcaubanel.com)|
@@ -54,4 +50,7 @@ Content does not support markdown :-(
 
 ---
 
+## Combined Format
 
+* Italic-bold -> __*" sss"*__
+]</details>
