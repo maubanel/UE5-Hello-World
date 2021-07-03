@@ -53,3 +53,4 @@ Content does not support markdown :-(
 
 * Italic-bold -> __*Mauby*__
 * superscript -italic -> Mauby<sup>*tm*</sup>
+* italic-bold-strikethrough -> ~~__*Cancelled*__~~
