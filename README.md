@@ -153,3 +153,6 @@ Get all at https://www.webfx.com/tools/emoji-cheat-sheet/*
 * :large_blue_diamond:
 * :small_orange_diamond:
 * 🖱️
+
+## Keyboard Markup
+<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Space</kbd>
