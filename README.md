@@ -28,6 +28,7 @@
 * ![#ff0000](https://via.placeholder.com/15/0000FF/0000FF) Blue!
 
 ## Hide Content
+Content does not support markdown :-(
 <details>
   <summary>HINT</summary>
    This is a HUGE hint!<br>
