@@ -159,3 +159,6 @@ Get all at https://www.webfx.com/tools/emoji-cheat-sheet/*
 
 term
 : definition
+
+## Visualizing Hex Code
+GitHub contribution graph colors: `#C6E48B` `#7AC96F` `#249A3C` `#196127`
