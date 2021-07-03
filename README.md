@@ -23,5 +23,5 @@
 
 ## Color Background using placeholder.com
 
-![](https://via.placeholder.com/150/0000FF/FFFFFF?Text=Mauby)
+![](https://via.placeholder.com/150/0000FF/FFFFFF?Text="Mauby")
 * ![#ff0000](https://via.placeholder.com/15/0000FF/FFFFFF?Text=+) Blue!
