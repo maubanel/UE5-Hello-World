@@ -36,15 +36,6 @@ Content does not support markdown :-(
 ]</details>
 
 
-  
-  ```md
-  some **markdown** content that *needs* to be `displayed`
-  
-  ```language 
-  some code or syntax
-  ```
-  
-  
-  
-  end
-  ```
+## Button using Tables
+| [Mauby](marcaubanel.com)|
+|---|
