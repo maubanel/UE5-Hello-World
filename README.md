@@ -20,3 +20,6 @@
 <p align=center>
 <img src="https://placeholder.com/wp-content/uploads/2018/10/placeholder.com-logo1.jpg" width=100>
 </p>
+
+## Color using placeholder.com
+* [#ff000](https://placeolder.com/12/ff000?text=+) red!
