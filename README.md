@@ -51,5 +51,5 @@ Content does not support markdown :-(
 
 ## Combined Format
 
-* Italic-bold -> __*" sss"*__
-]</details>
+* Italic-bold -> __*Mauby*__
+* superscript -italic -> Mauby<sup>*tm*</sup>
