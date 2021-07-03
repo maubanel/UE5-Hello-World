@@ -24,4 +24,4 @@
 ## Color Background using placeholder.com
 
 ![](https://via.placeholder.com/150/0000FF/FFFFFF?Text=Digital.com)
-* ![#ff0000]https://via.placeholder.com/150/0000FF/FFFFFF?Text=+) Red!
+* ![#ff0000](https://via.placeholder.com/150/0000FF/FFFFFF?Text=+) Blue!
