@@ -169,7 +169,7 @@ term
 + 20 GOTO 10
 ```
 ## Diff inline in code block
-```c
+```c++
 int c = 10;
 + c += 10;
 - c = c + 10;
