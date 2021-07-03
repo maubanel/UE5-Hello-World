@@ -156,3 +156,7 @@ Get all at https://www.webfx.com/tools/emoji-cheat-sheet/*
 
 ## Keyboard Markup
 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Space</kbd>
+
+Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote.
