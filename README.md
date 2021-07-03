@@ -25,3 +25,4 @@
 
 ![](https://via.placeholder.com/150/0000FF/FFFFFF?Text=Mauby)
 * ![#ff0000](https://via.placeholder.com/15/0000FF/0000FF?Text=+) Blue!
+* <img src="https://via.placeholder.com/150/000000/FFFFFF/?text=Mauby">
