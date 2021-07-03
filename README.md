@@ -54,3 +54,6 @@ Content does not support markdown :-(
 * Italic-bold -> __*Mauby*__
 * superscript -italic -> Mauby<sup>*tm*</sup>
 * italic-bold-strikethrough -> ~~__*Cancelled*__~~
+
+## Stringed Together Links
+[Website](http://www.serverless.com) • [Email Updates](http://eepurl.com/b8dv4P) • [Gitter](https://gitter.im/serverless/serverless) • [Forum](http://forum.serverless.com) • [Meetups](https://github.com/serverless-meetups/main) • [Twitter](https://twitter.com/goserverless) • [Facebook](https://www.facebook.com/serverless) • [Contact Us](mailto:hello@serverless.com)
