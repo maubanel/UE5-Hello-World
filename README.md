@@ -23,5 +23,5 @@
 
 ## Color using placeholder.com
 
-![](https://via.placeholder.com/150/0000FF/000000?Text=Digital.com)
+![](https://via.placeholder.com/150/0000FF/FFFFFF?Text=Digital.com)
 *  red!
