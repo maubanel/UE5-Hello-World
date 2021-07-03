@@ -33,7 +33,6 @@ Content does not support markdown :-(
   <summary>HINT</summary>
    This is a HUGE hint!<br>
    This is a <sub>small</sub> hint!
-</summary>
 </details>
 
 ## Button using Tables
