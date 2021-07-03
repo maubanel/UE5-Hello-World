@@ -40,7 +40,9 @@ Content does not support markdown :-(
   ```md
   some **markdown** content that *needs* to be `displayed`
   
-  language some code or syntax
+  ```language 
+  some code or syntax
+  ```
   
   
   
