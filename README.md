@@ -4,5 +4,5 @@
 * Simple introductory walk through for your first week in Unreal
 * Accompanies UE4 video ....
 
-[First Hour of UE4]()
-[Chapter 2 - Setting Up Unreal & Github]()
+:black_circle: [First Hour of UE4]() <br>
+:black_circle: [Chapter 2 - Setting Up Unreal & Github]()
