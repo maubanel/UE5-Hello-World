@@ -32,25 +32,25 @@ ___
 
 ___
 
-3. If you do not see the Unreal letter in the icon, the PC is not configured to load the project. You need to <kbd>Right Mouse</kbd><kbd>Open With</kbd>. If **UE 4 Editor** shows up select it, if not go to step 4.
+3. If you do not see the Unreal letter in the icon, the PC is not configured to load the project. You need to <kbd>RMB</kbd><kbd>Open With</kbd>. If **UE 4 Editor** shows up select it, if not go to step 4.
 
 ![.uproject not linked](images/UProjectNotLinked.jpg)
 
 ___
 
-4.  Click on the `More Apps` button and we will locate it manually.
+4.  Click on the `More Apps` link and we will locate it manually.
 
 ![.uproject not linked](images/MoreApps.jpg)
 
 ___
 
-5. Scroll to the bottom and select `Look for another app on this PC`.
+5. Scroll to the bottom and select the `Look for another app on this PC` link.
 
 ![.uproject not linked](images/LookForAnotherApp.jpg)
 
 ___
 
-6. Now locate the folder where you installed this version of Unreal.  By default it will be in `Program Files | Epic Games | UE_4.2X | Engine | Binaries | Win64 | ` and look for the `UE4Editor.exe` and press the **Open** button.  This links the Unreal Editor to the`.uproject` file type.  This way when you double click any `.uproject` file it should load it in editor like you want!
+6. Now locate the folder where you installed this version of Unreal.  By default it will be in `Program Files | Epic Games | UE_4.2X | Engine | Binaries | Win64 | ` and look for the `UE4Editor.exe` and select the <kbd>Open</kbd> button.  This links the Unreal Editor to the`.uproject` file type.  This way when you double click any `.uproject` file it should load it in editor like you want!
 
 ![.uproject not linked](images/EpicGamesFolder.jpg)
 
@@ -58,7 +58,7 @@ ___
 
 ___
 
-7. Now you should be able to <kbd>RMB</kbd> <kbd>click</kbd> and select the <kbd>Properties</kbd> button.
+7. Now you should be able to <kbd>RMB</kbd> and select the <kbd>Properties</kbd> button.
 
 ![Select uproject properties](images/UE4EdtiorInProps.jpg)
 
