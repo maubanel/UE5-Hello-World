@@ -58,7 +58,11 @@ ___
 
 ___
 
-7. Now you should be able to <kbd>right mouse click</kbd> and select <kbd>Properties</kbd> 
+7. Now you should be able to <kbd>right mouse button</kbd> <kbd>click</kbd> and select the <kbd>Properties</kbd> button.
+
+![Select uproject properties](images/UE4EdtiorInProps.jpg)
+
+___
 
 | [home](../README.md) | [next](#)|
 |---|---|
