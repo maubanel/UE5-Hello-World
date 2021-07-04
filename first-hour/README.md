@@ -39,6 +39,8 @@ ___
 
 <img src="images/UProjectNotLinked.jpg" width="50%" align=right alt = ".uproject not linked">
 </p>
+<br>
+
 ___
 
 4.  Click on the `More Apps` link and we will locate it manually.
