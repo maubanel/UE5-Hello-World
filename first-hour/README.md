@@ -50,7 +50,7 @@ ___
 
 ___
 
-6. Now locate the folder where you installed this version of Unreal.  By default it will be in `Program Files | Epic | UE_4.2X | Engine | Binaries | Win64 | ` and look for the `UE4Editor.exe` which is the Unreal Editor that we want to use when double clicking a `.uproject` file.
+6. Now locate the folder where you installed this version of Unreal.  By default it will be in `Program Files | Epic Games | UE_4.2X | Engine | Binaries | Win64 | ` and look for the `UE4Editor.exe` which is the Unreal Editor that we want to use when double clicking a `.uproject` file.
 
 ![.uproject not linked](images/EpicGamesFolder.jpg)
 
