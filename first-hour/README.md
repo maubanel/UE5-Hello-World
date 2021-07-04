@@ -58,6 +58,7 @@ ___
 
 ___
 
+7. Now you should be able to <kbd>right mouse click</kbd> and select <kbd>Properties</kbd> 
 
 | [home](../README.md) | [next](#)|
 |---|---|
