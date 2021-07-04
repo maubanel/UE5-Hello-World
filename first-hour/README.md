@@ -21,6 +21,7 @@ This is a follow up to the introductory Unreal tutorial *Your First Hour in Unre
 <br>
 
 1. Complete the [Your First Hour in Unreal Engine 4](https://www.unrealengine.com/en-US/onlinelearning-courses/your-first-hour-in-unreal-engine-4) tutorial.
+![First Hour Tutorial by Unreal](images/UE4Tutorial.png)
 
 
 
