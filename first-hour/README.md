@@ -26,16 +26,17 @@ This is a follow up to the introductory Unreal tutorial *Your First Hour in Unre
 
 ___
 
-2.  Now that you have finished the tutorial, there is one additional piece of information I would like to add.  I prefer to use the native **File Explorer** in both mac & pc's to launch my projects.  This way if I have multiple versions of the same project I know exactly which one I am working on.  Going through their interface abstracts the location and I have seen people save it to a cloud service, or a duplicate version somewhere else on their hard drive.  Navigate to where you have the .
+2.  Now that you have finished the tutorial, there is one additional piece of information I would like to add.  I prefer to use the native **File Explorer** in both mac & pc's to launch my projects.  This way if I have multiple versions of the same project I know exactly which one I am working on.  Going through their interface abstracts the location and I have seen people save it to a cloud service, or a duplicate version somewhere else on their hard drive.  Navigate to where you have the stored the **Our First Project** folder.  Look for the *.uproject* file with the project name `OurFirstProject`.  If it has the **Unreal** logo you can double click on it and it will load.
 
-![First Hour Tutorial by Unreal](images/OurFirstProjectFolder.jpg)
+![Our first project folder](images/OurFirstProjectFolder.jpg)
 
 ___
 
 3. If you do not see the Unreal letter in the icon, the PC is not configured to load the project. You need to <kbd>Right Mouse</kbd><kbd>Open With</kbd>.
 
-![First Hour Tutorial by Unreal](images/OurFirstProjectFolder.jpg)
+![.uproject not linked](images/UProjectNotLinked.jpg)
 
+___
 
 
 | [home](../README.md) | [next](#)|
