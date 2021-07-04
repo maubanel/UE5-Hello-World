@@ -38,6 +38,14 @@ ___
 
 ___
 
+4.  Click on the `More Apps` button and we will locate it manually.
+
+![.uproject not linked](images/MoreApps.jpg)
+
+___
+
+
+
 
 | [home](../README.md) | [next](#)|
 |---|---|
