@@ -34,7 +34,7 @@ ___
 ![Our first project folder](images/OurFirstProjectFolder.jpg)
 
 ___
-<p>
+<p float="left">
 3. If you do not see the Unreal letter in the icon, the PC is not configured to load the project. You need to <kbd>RMB</kbd><kbd>Open With</kbd>. If **UE 4 Editor** shows up select it, if not go to step 4.
 
 <img src="images/UProjectNotLinked.jpg" width="50%" align=right alt = ".uproject not linked">
