@@ -35,7 +35,7 @@ ___
 
 ___
 
-| <img src="https://via.placeholder.com/500x25/2eb35d/FFFFFF/?text=Step 3."> ||
+| <img src="https://via.placeholder.com/500x35/2eb35d/FFFFFF/?text=Step 3."> ||
 |:---|---|
 | If you do not see the Unreal letter in the icon, the PC is not configured to load the project. You need to <kbd>RMB</kbd><kbd>Open With</kbd>. If **UE 4 Editor** shows up select it, if not go to step 4. |![.uproject not linked](images/UProjectNotLinked.jpg) |
 
