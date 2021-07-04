@@ -24,6 +24,7 @@ This is a follow up to the introductory Unreal tutorial *Your First Hour in Unre
 
 1. Complete the [Your First Hour in Unreal Engine 4](https://www.unrealengine.com/en-US/onlinelearning-courses/your-first-hour-in-unreal-engine-4) tutorial.
 
+
 ![First Hour Tutorial by Unreal](images/UE4Tutorial.png)
 
 ___
@@ -36,7 +37,7 @@ ___
 
 3. If you do not see the Unreal letter in the icon, the PC is not configured to load the project. You need to <kbd>RMB</kbd><kbd>Open With</kbd>. If **UE 4 Editor** shows up select it, if not go to step 4.
 
-![.uproject not linked](images/UProjectNotLinked.jpg)
+<img src="images/UProjectNotLinked.jpg" width="50%" align=right alt = ".uproject not linked">
 
 ___
 
