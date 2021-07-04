@@ -44,7 +44,7 @@ ___
 
 ___
 
-5. Scroll to the bottom and select `Look For Another App`.
+5. Scroll to the bottom and select `Look For Another App On This PC`.
 
 ![.uproject not linked](images/LookForAnotherApp.jpg)
 
