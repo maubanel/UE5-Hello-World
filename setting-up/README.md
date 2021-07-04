@@ -14,7 +14,7 @@ This is a twist on the usual **Hello World** tutorial which is printing words to
 </p>
 <br>
 
-| |
+| <td>Required Software</td>|
 | --- |
 | balh **blah** blah |
 <table><tr><td>
