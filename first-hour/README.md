@@ -58,7 +58,7 @@ ___
 
 ___
 
-7. Now you should be able to <kbd>RMB</kbd> and select the <kbd>Properties</kbd> button.
+7. Now you should be able to <kbd>RMB</kbd> and select the <kbd>Properties</kbd> button. If you see that it opens with Unreal engine it will work from now on with any new project moving forward!
 
 ![Select uproject properties](images/UE4EdtiorInProps.jpg)
 
