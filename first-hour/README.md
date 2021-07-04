@@ -44,6 +44,11 @@ ___
 
 ___
 
+5. Scroll to the bottom and select `Look For Another App`.
+
+![.uproject not linked](images/LookForAnotherApp.jpg)
+
+___
 
 
 
