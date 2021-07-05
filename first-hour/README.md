@@ -31,7 +31,7 @@ Complete the [Your First Hour in Unreal Engine 4](https://www.unrealengine.com/e
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px"/>
 
-`Step 2.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: 
+##### `Step 2.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: 
 
 Now that you have finished the tutorial, there is one additional piece of information I would like to add.  I prefer to use the native **File Explorer** in both mac & pc's to launch my projects.  This way if I have multiple versions of the same project I know exactly which one I am working on.  Going through their interface abstracts the location and I have seen people save it to a cloud service, or a duplicate version somewhere else on their hard drive.  Navigate to where you have the stored the **Our First Project** folder.  Look for the *.uproject* file with the project name `OurFirstProject`.  If it has the **Unreal** logo you can double click on it and it will load. If you are on a mac this should be setup from default.  In **Windows 10** it often is not setup.
 
@@ -39,35 +39,41 @@ Now that you have finished the tutorial, there is one additional piece of inform
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px"/>
 
- `Step 3.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 3.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 If you do not see the Unreal letter in the icon, the PC is not configured to load the project. You need to <kbd>RMB</kbd><kbd>Open With</kbd>. If **UE 4 Editor** shows up select it, if not go to step 4. |![.uproject not linked](images/UProjectNotLinked.jpg) 
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px"/>
 
- `Step 4.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 4.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Click on the `More Apps` link and we will locate it manually.
 
 ![.uproject not linked](images/MoreApps.jpg)
 
-___
+<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px"/>
 
-5. Scroll to the bottom and select the `Look for another app on this PC` link.
+##### `Step 5.`\|`FHIU`| :small_orange_diamond:
+ 
+Scroll to the bottom and select the `Look for another app on this PC` link.
 
 ![.uproject not linked](images/LookForAnotherApp.jpg)
 
-___
+<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px"/>
 
-6. Now locate the folder where you installed this version of Unreal.  By default it will be in `Program Files | Epic Games | UE_4.2X | Engine | Binaries | Win64 | ` and look for the `UE4Editor.exe` and select the <kbd>Open</kbd> button.  This links the Unreal Editor to the`.uproject` file type.  This way when you double click any `.uproject` file it should load it in editor like you want!
+##### `Step 6.`\|`FHIU`| :small_orange_diamond: :small_blue_diamond:
+
+Now locate the folder where you installed this version of Unreal.  By default it will be in `Program Files | Epic Games | UE_4.2X | Engine | Binaries | Win64 | ` and look for the `UE4Editor.exe` and select the <kbd>Open</kbd> button.  This links the Unreal Editor to the`.uproject` file type.  This way when you double click any `.uproject` file it should load it in editor like you want!
 
 ![.uproject not linked](images/EpicGamesFolder.jpg)
 
 ![.uproject not linked](images/UE4Editor.jpg)
 
-___
+<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px"/>
 
-7. Now you should be able to <kbd>RMB</kbd> and select the <kbd>Properties</kbd> button. If you see that it opens with Unreal engine it will work from now on with any new project moving forward!
+##### `Step 7.`\|`FHIU`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Now you should be able to <kbd>RMB</kbd> and select the <kbd>Properties</kbd> button. If you see that it opens with Unreal engine it will work from now on with any new project moving forward!
 
 ![Select uproject properties](images/UE4EdtiorInProps.jpg)
 
