@@ -6,7 +6,7 @@
 
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
-Before we can start we want to set up our development environment. This includes downloading Unreal as well as setting up **GitHub** as our version control so we can backup and maintain our project safely. Make sure you have lots of hard drive space as the engine and various downloads can take a lot of room. I recommend around 100 gigabytes free would be suitable.
+Before we can start we want to set up our development environment. This includes setting up **GitHub** as our version control so we can backup and maintain our project safely. Make sure you have lots of hard drive space as the engine and various downloads can take a lot of room. I recommend around 100 gigabytes free would be suitable.
 
 <br>
 
