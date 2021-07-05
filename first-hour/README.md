@@ -42,13 +42,16 @@ Now that you have finished the tutorial, there is one additional piece of inform
 
 If you do not see the Unreal letter in the icon, the PC is not configured to load the project. You need to <kbd>RMB</kbd><kbd>Open With</kbd>. If **UE 4 Editor** shows up select it and go to [step 7](#user-content-step-7fhiu-small_orange_diamond-small_blue_diamond-small_blue_diamond). If not [go to step 4](#user-content-step-4fhiusmall_blue_diamond-small_blue_diamond-small_blue_diamond-small_blue_diamond).
 
+![.uproject not linked](images/UProjectNotLinked.jpg)
+
+
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 4.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Click on the `More Apps` link and we will locate it manually.
 
-![.uproject not linked](images/MoreApps.jpg)
+![click on more apps](images/MoreApps.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
@@ -56,7 +59,7 @@ Click on the `More Apps` link and we will locate it manually.
  
 Scroll to the bottom and select the `Look for another app on this PC` link.
 
-![.uproject not linked](images/LookForAnotherApp.jpg)
+![select look for another app on this pc](images/LookForAnotherApp.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
@@ -64,9 +67,9 @@ Scroll to the bottom and select the `Look for another app on this PC` link.
 
 Now locate the folder where you installed this version of Unreal.  By default it will be in `Program Files | Epic Games | UE_4.2X | Engine | Binaries | Win64 | ` and look for the `UE4Editor.exe` and select the <kbd>Open</kbd> button.  This links the Unreal Editor to the`.uproject` file type.  This way when you double click any `.uproject` file it should load it in editor like you want!
 
-![.uproject not linked](images/EpicGamesFolder.jpg)
+![Go to Epic Games Folder and find UE4Editor.exe and select](images/EpicGamesFolder.jpg)
 
-![.uproject not linked](images/UE4Editor.jpg)
+![Uproject has a U icon](images/UE4Editor.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
@@ -86,7 +89,7 @@ Lets now go back to the test level.  Go to **Content Browser** and press the <kb
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 8.`\|`FHIU`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 9.`\|`FHIU`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 
 ___
