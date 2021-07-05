@@ -97,6 +97,7 @@ Now you should see a level that looks like this:
 
 <img src="https://via.placeholder.com/500x6/dba81a/dba81a" alt="drawing" height="6px" alt = ""/>
 
+<img src="https://via.placeholder.com/150/0000FF/FFFFFF/?text=Next Up - Setting up Github">
 ___
 
 | [home](../README.md#user-content-ue4-hello-world) | [next](#)|
