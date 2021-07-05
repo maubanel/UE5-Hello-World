@@ -47,9 +47,11 @@ Now that you have finished the tutorial, there is one additional piece of inform
 
 If you do not see the Unreal letter in the icon, the PC is not configured to load the project. You need to <kbd>RMB</kbd><kbd>Open With</kbd>. If **UE 4 Editor** shows up select it, if not go to step 4. |![.uproject not linked](images/UProjectNotLinked.jpg) 
 
-___
+<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px"/>
 
-4.  Click on the `More Apps` link and we will locate it manually.
+ `Step 4.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Click on the `More Apps` link and we will locate it manually.
 
 ![.uproject not linked](images/MoreApps.jpg)
 
