@@ -24,7 +24,9 @@ All of these problems can be avoided if we use **version control** to back up ou
 
 ##### `Step 1.`\|`FHIU`|:small_blue_diamond:
 
-![First Hour Tutorial by Unreal](images/.png)
+If you are on a mac git comes ready to go (it might need to install xcode when first running the command).  On a PC you will need to install [git](https://git-scm.com/downloads).  Double click and keep all the default suggestions
+
+![screenshot from git website download page](images/.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
