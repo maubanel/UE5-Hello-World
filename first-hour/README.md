@@ -91,6 +91,11 @@ Lets now go back to the test level.  Go to **Content Browser** and press the <kb
 
 ##### `Step 9.`\|`FHIU`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Now you should see a level that looks like this:
+
+![Reload test level](images/StartingPointTestLevel.jpg)
+
+<img src="https://via.placeholder.com/500x6/dba81a/dba81a" alt="drawing" height="6px" alt = ""/>
 
 ___
 
