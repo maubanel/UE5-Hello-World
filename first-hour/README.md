@@ -24,8 +24,6 @@ This is a follow up to the introductory Unreal tutorial *Your First Hour in Unre
 
 <br>
 
-##### Complete the Tutorial
-
 ##### `Step 1.`\|`FHIU`|:small_blue_diamond:
 
 Complete the [Your First Hour in Unreal Engine 4](https://www.unrealengine.com/en-US/onlinelearning-courses/your-first-hour-in-unreal-engine-4) tutorial.
