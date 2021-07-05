@@ -1,8 +1,8 @@
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
-### First Hour in UE4
+### Setting Up
 
-<sub>[home](../README.md#user-content-ue4-hello-world) • [next](#)</sub>
+<sub>[previous](../) • [home](../README.md#user-content-ue4-hello-world) • [next](#)</sub>
 
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
