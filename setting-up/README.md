@@ -2,7 +2,7 @@
 
 ### Setting Up
 
-<sub>[previous](../first-hour/README.md) • [home](../README.md#user-content-ue4-hello-world) • [next](#)</sub>
+<sub>[previous](../first-hour/README.md#user-content-first-hour-in-ue4) • [home](../README.md#user-content-ue4-hello-world) • [next](#)</sub>
 
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
@@ -86,5 +86,5 @@ Lets get setup with git and with Unreal to start our next project phase.
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 
-| [previous](../first-hour/README.md)| [home](../README.md#user-content-ue4-hello-world) | [next](#)|
+| [previous](../first-hour/README.md#user-content-first-hour-in-ue4)| [home](../README.md#user-content-ue4-hello-world) | [next](#)|
 |---|---|---|
