@@ -85,7 +85,7 @@ Now you should be able to <kbd>RMB</kbd> and select the <kbd>Properties</kbd> bu
 
 Lets now go back to the test level.  Go to **Content Browser** and press the <kbd>Filters</kbd> dropdown and select `Level`.  Double click the **TestLevel** (empty level you created in the above walk through with just a floor and atmosphere.
 
-![Reload test level](images/ReloadTestLevel.jpg.jpg)
+![Reload test level](images/ReloadTestLevel.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
