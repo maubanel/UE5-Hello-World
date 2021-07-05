@@ -54,7 +54,7 @@ Now since game projects can get very large and graphics, and 3-D models can take
 
 ##### `Step 5.`\|`SUU&G`| :small_orange_diamond:
 
-![select look for another app on this pc](images/GithubLFS.jpg)
+![select look for another app on this pc](images/.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
