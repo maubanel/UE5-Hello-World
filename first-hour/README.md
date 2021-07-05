@@ -95,11 +95,11 @@ Now you should see a level that looks like this:
 
 ![Reload test level](images/StartingPointTestLevel.jpg)
 
-<img src="https://via.placeholder.com/1000x6/dba81a/dba81a" alt="drawing" height="6px" alt = ""/>
+<img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 
 <img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - Setting up Github">
 
-___
+<img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 
 | [home](../README.md#user-content-ue4-hello-world) | [next](#)|
 |---|---|
