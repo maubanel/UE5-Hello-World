@@ -40,7 +40,7 @@ Now so you don't have to use command line prompts for git it is a good idea to i
 
 ##### `Step 3.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now since game projects can get very large and graphics, and 3-D models can take a lot of space it is best to use the [Git LFS (Large File System)](https://git-lfs.github.com) extension for games.  This way only assets that are currently being used are downloaded to your system speeding up your workflow and allowing you to hold larger files in GitHub.
+Now since game projects can get very large and graphics, and 3-D models can take a lot of space it is best to use the [Git LFS](Large File System)](https://git-lfs.github.com) extension for games.  This way only assets that are currently being used are downloaded to your system speeding up your workflow and allowing you to hold larger files in GitHub.
 
 ![GitHub LFS webpage](images/.jpg)
 
