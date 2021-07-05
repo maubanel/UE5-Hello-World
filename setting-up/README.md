@@ -24,7 +24,7 @@ All of these problems can be avoided if we use **version control** to back up ou
 
 ##### `Step 1.`\|`SUU&G`|:small_blue_diamond:
 
-If you are on a mac git comes ready to go (it might need to install xcode when first running the command).  On a PC you will need to install [git](https://git-scm.com/downloads).  Double click and keep all the default suggestions.  Follow the directions on the website for installing it on PC & Mac.
+If you are on a mac git comes ready to go (it might need to install xcode when first running the command).  On a PC you will need to install [git](https://git-scm.com/downloads).  Double click and keep all the default suggestions.  Follow the directions on the website for installing it on PC.
 
 ![screenshot from git website download page](images/GitForPC.jpg)
 
