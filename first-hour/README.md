@@ -26,7 +26,7 @@ This is a follow up to the introductory Unreal tutorial *Your First Hour in Unre
 Complete the [Your First Hour in Unreal Engine 4](https://www.unrealengine.com/en-US/onlinelearning-courses/your-first-hour-in-unreal-engine-4) tutorial. For the **Building you Fist Level** module we will be taking on from here.  You do not need to do anything else beyond building the floor as shown in the video.
 
 
-![First Hour Tutorial by Unreal](images/UE4Tutorial.png)
+![First Hour Tutorial by Unreal](images/UE4Tutorial.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
