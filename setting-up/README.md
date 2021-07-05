@@ -26,7 +26,7 @@ All of these problems can be avoided if we use **version control** to back up ou
 
 If you are on a mac git comes ready to go (it might need to install xcode when first running the command).  On a PC you will need to install [git](https://git-scm.com/downloads).  Double click and keep all the default suggestions
 
-![screenshot from git website download page](images/.png)
+![screenshot from git website download page](images/GitForPC.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
@@ -34,7 +34,7 @@ If you are on a mac git comes ready to go (it might need to install xcode when f
 
 Now so you don't have to use command line prompts for git it is a good idea to install a GUI and the one I like best is [Github Desktop](https://desktop.github.com) as it integrates with GitHub perfectly.  Download and install the software.
 
-![GitHub desktop download webpage](images/.jpg)
+![GitHub desktop download webpage](images/GitHubDesktop.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
@@ -54,7 +54,7 @@ Now since game projects can get very large and graphics, and 3-D models can take
 
 ##### `Step 5.`\|`SUU&G`| :small_orange_diamond:
 
-![select look for another app on this pc](images/.jpg)
+![select look for another app on this pc](images/GithubLFS.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
