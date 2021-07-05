@@ -32,7 +32,7 @@ If you are on a mac git comes ready to go (it might need to install xcode when f
 
 ##### `Step 2.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: 
 
-Now so you don't have to use command line prompts for git it is a good idea to install a GUI and the one I like best is Github Desktop](https://desktop.github.com) as it integrates with GitHub perfectly.  Download and install the software.
+Now so you don't have to use command line prompts for git it is a good idea to install a GUI and the one I like best is [Github Desktop](https://desktop.github.com) as it integrates with GitHub perfectly.  Download and install the software.
 
 ![GitHub desktop download webpage](images/.jpg)
 
