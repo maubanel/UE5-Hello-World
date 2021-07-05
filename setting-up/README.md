@@ -15,11 +15,9 @@ Before we can start we want to set up our development environment. This includes
 | `important.concept`\|`Version Control`| 
 | :--- |
 | There are some potential problems developing with a complex engine:
-
 * The engine can crash and you can lose your work
 * You can forget the data on another computer\n* Your hard drive can die and all the data can be lost
- 
-* All of these problems can be avoided if we use **version control** to back up our data.  This way we can recover lost work, *clone* the data on another computer and collaborate as a team.  It is a good idea to get used to using version control as all large projects use them. The good news is that you have the tools integrated right in Unreal. |
+ * All of these problems can be avoided if we use **version control** to back up our data.  This way we can recover lost work, *clone* the data on another computer and collaborate as a team.  It is a good idea to get used to using version control as all large projects use them. The good news is that you have the tools integrated right in Unreal. |
 
 ---
 
