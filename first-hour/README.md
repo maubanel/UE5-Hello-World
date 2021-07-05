@@ -1,4 +1,4 @@
-<sub>[home](../README.md) • [next](#)</sub>
+<sub>[home](../README.md#user-content-ue4-hello-world) • [next](#)</sub>
 
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
@@ -83,5 +83,5 @@ Now you should be able to <kbd>RMB</kbd> and select the <kbd>Properties</kbd> bu
 
 ___
 
-| [home](../README.md) | [next](#)|
+| [home](../README.md#user-content-ue4-hello-world) | [next](#)|
 |---|---|
