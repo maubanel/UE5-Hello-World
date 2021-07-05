@@ -2,7 +2,7 @@
 
 ### First Hour in UE4
 
-<sub>[home](../README.md#user-content-ue4-hello-world) • [next](#)</sub>
+<sub>[home](../README.md#user-content-ue4-hello-world) • [next](../setting-up/README.md#user-content-setting-up)</sub>
 
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
@@ -26,7 +26,7 @@ This is a follow up to the introductory Unreal tutorial *Your First Hour in Unre
 Complete the [Your First Hour in Unreal Engine 4](https://www.unrealengine.com/en-US/onlinelearning-courses/your-first-hour-in-unreal-engine-4) tutorial. For the **Building you Fist Level** module we will be taking on from here.  You do not need to do anything else beyond building the floor as shown in the video.
 
 
-![First Hour Tutorial by Unreal](images/UE4Tutorial.png)
+![First Hour Tutorial by Unreal](images/UE4Tutorial.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
@@ -101,5 +101,5 @@ Now you should see a level that looks like this:
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 
-| [home](../README.md#user-content-ue4-hello-world) | [next](#)|
+| [home](../README.md#user-content-ue4-hello-world) | [next](../setting-up/README.md#user-content-setting-up)|
 |---|---|
