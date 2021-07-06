@@ -56,7 +56,7 @@ https://user-images.githubusercontent.com/5504953/124603352-b3b06880-de1e-11eb-9
 
 ##### `Step 5.`\|`SUU&G`| :small_orange_diamond:
 
-Click on [GitHub Classroom Hello World Link] to clone the project. Now we just need to include our **Unreal** project in this which we will do next.",
+Click on [GitHub Classroom Hello World Link](https://classroom.github.com/a/z7lsXBo4) to clone the project. Now we just need to include our **Unreal** project in this which we will do next.",
 
 ![New project website in Git](images/AcceptGitHubClassroomLink.jpg)
 
