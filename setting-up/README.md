@@ -90,6 +90,10 @@ Now our server has no files on it. We will be using command line (**Terminal** o
 
 Lets start by copying the link to the clipboard so we can add it to Unreal, and use UE4 to **Initialze** the project.
 
+![Copy repository link](images/CopyRepositoryLink.jpg)
+
+<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+
 ##### `Step 10.`\|`SUU&G`| :large_blue_diamond:
 
 Go back to **Unreal Engine** and press the <kbd>Source Control</kbd> button and select the **Prodiders** `None` dropdown.
@@ -100,7 +104,6 @@ Go back to **Unreal Engine** and press the <kbd>Source Control</kbd> button and 
 
 
 
-![Copy repository link](images/CopyRepositoryLink.jpg)
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 
