@@ -72,9 +72,9 @@ You will get a message saying the repository is geing setup.  Refresh/Reload you
 
 ##### `Step 7.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Eventually you will get a link for the repository.  Click on this link:
 
-
-![Select uproject properties](images/.jpg)
+![link to new repository for assignment](images/NewHelloWorldRepository.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
