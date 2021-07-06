@@ -24,7 +24,7 @@ All of these problems can be avoided if we use **version control** to back up ou
 
 ##### `Step 1.`\|`SUU&G`|:small_blue_diamond:
 
-If you are on a mac git comes ready to go (it might need to install xcode when first running the command).  On a PC you will need to install [git](https://git-scm.com/downloads).  Double click and keep all the default suggestions
+If you are on a mac git comes ready to go (it might need to install xcode when first running the command).  On a PC you will need to install [git](https://git-scm.com/downloads).  Double click and keep all the default suggestions.  Follow the directions on the website for installing it on PC.
 
 ![screenshot from git website download page](images/GitForPC.jpg)
 
@@ -40,21 +40,25 @@ Now so you don't have to use command line prompts for git it is a good idea to i
 
 ##### `Step 3.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now since game projects can get very large and graphics, and 3-D models can take a lot of space it is best to use the [Git LFSn (Large File System)](https://git-lfs.github.com) extension for games.  This way only assets that are currently being used are downloaded to your system speeding up your workflow and allowing you to hold larger files in GitHub.
+Now since game projects can get very large and graphics, and 3-D models can take a lot of space it is best to use the [Git LFSn (Large File System)](https://git-lfs.github.com) extension for games.  This way only assets that are currently being used are downloaded to your system speeding up your workflow and allowing you to hold larger files in GitHub. Install it on your computers per the directions on the website.
 
-![GitHub LFS webpage](images/.jpg)
+![GitHub LFS webpage](images/GithubLFS.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 4.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![click on more apps](images/.jpg)
+In the editor select the **Edit** menu item then from the drop down menu select **Editor Preferences**. Select **Loading & Saving** tab from the left hand side.  Go to *Source Control* and set **Prompt for Checkout on Asset Modification** to `true` and **Add New Files when Modified** to `true`.  Leave the other two settings at `false` and accept their default editor to deal with merge conflicts. 
+
+https://user-images.githubusercontent.com/5504953/124603352-b3b06880-de1e-11eb-926e-a913b741c38b.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 5.`\|`SUU&G`| :small_orange_diamond:
 
-![select look for another app on this pc](images/GithubLFS.jpg)
+Click on [GitHub Classroom Hello World Link] to clone the project. Now we just need to include our **Unreal** project in this which we will do next.",
+
+![New project website in Git](images/image_10.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
