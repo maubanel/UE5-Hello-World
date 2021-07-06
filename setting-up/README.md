@@ -58,17 +58,15 @@ https://user-images.githubusercontent.com/5504953/124603352-b3b06880-de1e-11eb-9
 
 Make sure you have a **GitHub** account and that you are logged into it.  Click on [GitHub Classroom Hello World Link](https://classroom.github.com/a/z7lsXBo4).  Accept the prompt if it asks you go join the class and you should get to a **Accept the Assignment – UE4-Hello-World-FA21**.  Press the <kbd>Accept this assignment</kbd> button.
 
-![New project website in Git](images/AcceptThisAssignment.jpg)
+![Accept GitHub Classroom Assignment](images/AcceptThisAssignment.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 6.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond:
 
+You will get a message saying the repository is geing setup.  Press refresh on your web browser as instructed.
 
-
-![Go to Epic Games Folder and find UE4Editor.exe and select](images/EpicGamesFolder.jpg)
-
-![Uproject has a U icon](images/.jpg)
+![refresh web browser](images/RefreshBrowser.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
