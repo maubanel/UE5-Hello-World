@@ -56,7 +56,7 @@ https://user-images.githubusercontent.com/5504953/124603352-b3b06880-de1e-11eb-9
 
 ##### `Step 5.`\|`SUU&G`| :small_orange_diamond:
 
-Make sure you have a **GitHub** account and that you are logged into it.  Click on [GitHub Classroom Hello World Link](https://classroom.github.com/a/z7lsXBo4).  Accept the prompt if it asks you go join the class and you should get to a **Accept the Assignment – UE4-Hello-World**.  Press
+Make sure you have a **GitHub** account and that you are logged into it.  Click on [GitHub Classroom Hello World Link](https://classroom.github.com/a/z7lsXBo4).  Accept the prompt if it asks you go join the class and you should get to a **Accept the Assignment – UE4-Hello-World-FA21**.  Press <kbd>Accept this Assignment</kbd> button.
 
 ![New project website in Git](images/AcceptThisAssignment.jpg)
 
