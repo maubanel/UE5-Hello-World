@@ -88,9 +88,9 @@ Now our server has no files on it. We will be using command line (**Terminal** o
 
 ##### `Step 9.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Lets start by copying the link to the clipboard so we can add it to Unreal, and use UE4 to **Initialze** the project.
 
-
-![Reload test level](images/.jpg)
+![Copy repository link](images/CopyRepositoryLink.jpg)
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 
