@@ -80,7 +80,7 @@ Eventually you will get a link for the repository.  Click on this link:
 
 ##### `Step 8.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now our server has no files on it.
+Now our server has no files on it. We will be using command line (**Terminal** on the mac Or **Git Bash** on the PC). You can see the commands below.  We are creating a **main** branch and making it our default branch (`-M` switch).  We are then taking the content we **Already Have** in our folder and pushing it to the server.
 
 ![empty github repository](images/PushToExistingRepository.jpg)
 
