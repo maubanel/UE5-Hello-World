@@ -64,7 +64,7 @@ Make sure you have a **GitHub** account and that you are logged into it.  Click 
 
 ##### `Step 6.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond:
 
-You will get a message saying the repository is geing setup.  Press refresh on your web browser as instructed.
+You will get a message saying the repository is geing setup.  Refresh/Reload your web browser as instructed.
 
 ![refresh web browser](images/RefreshBrowser.jpg)
 
