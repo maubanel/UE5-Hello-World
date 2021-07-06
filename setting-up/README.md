@@ -58,7 +58,7 @@ https://user-images.githubusercontent.com/5504953/124603352-b3b06880-de1e-11eb-9
 
 Click on [GitHub Classroom Hello World Link] to clone the project. Now we just need to include our **Unreal** project in this which we will do next.",
 
-![New project website in Git](images/image_10.png)
+![New project website in Git](images/AcceptGitHubClassroomLink.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
