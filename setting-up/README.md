@@ -151,14 +151,20 @@ git checkout main
 Now lets take all the work we have done to date on our computer and **Push** it to the server.  This will ensure that all the files are safely stored on the server.
 
 ```
-
+git push -u origin main
 ```
 
 ![checkout main branch and push](images/GitCheckoutPush.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
+##### `Step 16.`\|`SUU&G`| :large_blue_diamond: ::small_orange_diamond:   :small_blue_diamond: 
 
+Go back to **GitHub** on the web and refesh the folder.  If you did the above correctly you should now see all the folders on **GitHub**:
+
+![all files now on github](images/FirstGitHubPush.jpg)
+
+<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 
 
