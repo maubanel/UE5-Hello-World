@@ -96,7 +96,7 @@ Lets start by copying the link to the clipboard so we can add it to Unreal, and 
 
 ##### `Step 10.`\|`SUU&G`| :large_blue_diamond:
 
-Go back to **Unreal Engine** and press the <kbd>Source Control</kbd> button and select the **Prodiders** `None` dropdown.
+Go back to **Unreal Engine** and press the <kbd>Source Control</kbd> button and select the **Providers** `None` dropdown.
 
 ![select github for source control](images/SelectGitHubForSourceControl.jpg)
 
