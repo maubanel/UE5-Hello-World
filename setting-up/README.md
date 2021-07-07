@@ -123,13 +123,26 @@ Lets make sure it installed GitHub in our project.  First we need to turn on hid
 
 Now we are going to use the **Command Line** tools just once.  On a **PC**, right click and run [Git Bash](https://www.windowscentral.com/how-launch-bash-shell-right-click-context-menu-windows-10).  This should have been installed with **Git** when you installed it above.  On a mac, it is a little more involved as you will see by this [website description](https://www.groovypost.com/howto/open-command-window-terminal-window-specific-folder-windows-mac-linux/).  The trick is to navigate to your working Directory (typically `Documents | Unreal Projects | Our First Project`).
 
-
 ![open up terminal or bash](images/OpenUpTerminal.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
+##### `Step 14.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-![turn on hidden folders and confirm .git](images/ConfirmDotGitLoder.jpg)
+TYpe in:
+
+```
+git branch -M main
+```
+in either **Terminal** or **Git Bash**.  This will create a new **Default** branch called `Main`.
+
+![create a main default branch](images/GitBranchMain.jpg)
+
+<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+
+
+
+
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 
