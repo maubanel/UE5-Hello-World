@@ -129,7 +129,7 @@ Now we are going to use the **Command Line** tools just once.  On a **PC**, righ
 
 ##### `Step 14.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-TYpe in:
+Type in:
 
 ```
 git branch -M main
@@ -139,6 +139,25 @@ in either **Terminal** or **Git Bash**.  This will create a new **Default** bran
 ![create a main default branch](images/GitBranchMain.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+
+##### `Step 15.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond: 
+
+Now lets switch to the **Main** branch by typing
+
+```
+git checkout main
+```
+
+Now lets take all the work we have done to date on our computer and **Push** it to the server.  This will ensure that all the files are safely stored on the server.
+
+```
+
+```
+
+![checkout main branch and push](images/GitCheckoutPush.jpg)
+
+<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+
 
 
 
