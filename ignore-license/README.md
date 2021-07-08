@@ -57,7 +57,7 @@ Call the file `LICENSE` (all caps).  Press the **Choose a license template** but
 
 I selected the MIT license and would appreciate it reciprocally. This would allow me to use some of your assets to improve these exercises for future particpants.  But you are welcome to put any license of your choice.  If you want to maintain full copytight you can just put `copyright Jane Doe 2020` and that will give you full copyright over yoru work.
 
-Please note that this is just for assets you created and not ones supplied by Unreal or by downlaoding from the internet.  When you are done press the **Review and submit.
+Please note that this is just for assets you created and not ones supplied by Unreal or by downlaoding from the internet.  When you are done press the <kbd>Review and submit</kbd> button.
 
 ![Select license and submit](images/AssignLicenseType.jpg)
 
