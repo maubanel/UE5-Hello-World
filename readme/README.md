@@ -60,22 +60,25 @@ Normally we would write a change comment in the commit - but we did just update 
 
 ##### `Step 6.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond:
 
+We have just commited updates the database on our local computer.  This is great, but it is not backed up to the server yet.  If we lose our computer we lose our project.  We can push all these changes to the server.  Press the **Publish Branch** button and this will then take all the changes you commited and send them to the server. This will also have to be done when working in ***Unreal** as it does not have the ability to **Publish** (`push`) in **editor**.
 
-![refresh web browser](images/.jpg)
+![Push to GitHu](images/FirstPublishPush.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 7.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
+If it pushed the change to the server you should get some text that says **No local changes**.  This means you are all up to date.  Now to double check that you actually did update the server with the change press the **View on GitHub** button to see it online. You might have to refresh your **GitHub** web page.
 
-![link to new repository for assignment](images/.jpg)
+![No more changes in GitHub Desktop](images/NoLocalChanges.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 8.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Now this takes us online and one thing is clear.  The **README.md** file is rendered as **HTML** at the bottom of the screen and it contains our changes!  The `#` and `*` are replaced with a heading and bullets (unordered list). The powerful part is that the old version still exists as **Git** does not delete anything.  We could always go back and revert to the old version of any file at any point in time.  So not only do we have a backup but unlimed undos to go back in time and recover any old data that we may need.",
 
-![empty github repository](images/.jpg)
+![Updated project on github.com](images/ViewUpdatedReadme.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
