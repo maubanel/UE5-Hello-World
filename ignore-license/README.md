@@ -73,7 +73,7 @@ Again, normally we would type a commit message but the placeholder one will do. 
 
 ##### `Step 7.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Create a pull request and merge the change.  This will add this new file to your repository on the **server**. Then go back to your main GitHub repository page and press the **Merge pull request** button.  This will add this change to your server but not to your local computer.
+Create a pull request and merge the change.  This will add this new file to your repository on the **server**. Then go back to your main GitHub repository page and press the <kbd>Merge pull request</kbd> button.  Then press the <kbd>Confirm merge</kbd> button.This will add this change to your server but not to your local computer.
 
 ![Create pull request in GitHub for above change](images/PullRequest.jpg)
 
