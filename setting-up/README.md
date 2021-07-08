@@ -195,7 +195,9 @@ Locate the root folder of your project.  This is the folder that contains the `.
 Press the <kbd>Add Repository</kbd> button to select this project. Then press the <kbd>Fetch origin</kbd> button to make sure that the permissions all work.
 
 ![add repository](images/AddRepository.jpg)
+
 ![fetch data from repository](images/FetchFromOrigin.jpg)
+
 ![data set from repository](images/GithubDesktopSetUp.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
