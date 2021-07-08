@@ -32,7 +32,9 @@ Open up the **README.md** file in your favorite text editor.  I use **Visual Stu
 
 ##### `Step 3.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![GitHub LFS webpage](images/.jpg)
+Let's add our name with a `*` start and space in front.  This will make it an unordered list (bullet point) and add yourself as the author.  Then on the next bullet type in a description of the project, feel free to use mine: `Quick introduction to Unreal Engine 4 and its basic toolsets`. Save this change.
+    
+![Edited README.md file with author and project description](images/EditReadMe.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
