@@ -202,15 +202,13 @@ Press the <kbd>Add Repository</kbd> button to select this project. Then press th
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 20.`\|`SUU&G`| :large_blue_diamond: :large_blue_diamond:
+##### `Step 21.`\|`SUU&G`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
 
 Now we will be making changes and commiting them to the locql repository on your computer using **JE4**.  When you are done working you will **push** the work using **GitHub Desktop**.  There is no way of sending content to the **GitHub** cloud in Unreal.  The most important thing to remember is that if you push to the server it is backed up.  You can lose the data on your computer but it on the cloud and can be recovered.  It is important to push as often as you can.  The most work you will lose is between your current state and the last time you pushed.
 
 ![github in ue4 flowchart A](images/GitHubFLowA.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
-
-
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 
