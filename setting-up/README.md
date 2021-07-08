@@ -192,7 +192,7 @@ Locate the root folder of your project.  This is the folder that contains the `.
 
 ##### `Step 20.`\|`SUU&G`| :large_blue_diamond: :large_blue_diamond:
 
-Press the <kbd>Add Repository</kbd> button to select this project. Then press the <kbd>Fetch origin</kbd> button to make sure that the permissions all work.
+Press the <kbd>Add Repository</kbd> button to select this project. Then press the <kbd>Fetch origin</kbd> button to make sure that the permissions all work. You should see the message ``.
 
 ![add repository](images/AddRepository.jpg)
 
