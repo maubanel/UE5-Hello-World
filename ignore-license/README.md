@@ -81,13 +81,15 @@ Create a pull request and merge the change.  This will add this new file to your
 
 ##### `Step 8.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt text](images/.jpg)
+Now lets go back to **GitHub Dekstop**.  Notice that there is no notice that the server has changes you don't have.  If you are working in a team, some other team member might have pushed a change to the server.  All you see is a message \"Last fetched 3 minutes ago\".  You need to press this button and it will look to see if there are updates available to integrate into the project on your computer.
+
+![Check GitHub desktop for local changes](images/.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 9.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt text](images/.jpg)
+![alt text](images/FetchLicenseChange.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
