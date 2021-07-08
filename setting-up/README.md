@@ -160,7 +160,7 @@ git push -u origin main
 
 ##### `Step 16.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-Go back to **GitHub** on the web and refesh the folder.  If you did the above correctly you should now see all the folders on **GitHub**:
+Go back to **GitHub** on the web and refesh your browser.  If you did the above correctly you should now see all the folders on **GitHub**:
 
 ![all files now on github](images/FirstGitHubPush.jpg)
 
