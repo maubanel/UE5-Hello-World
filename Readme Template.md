@@ -15,13 +15,13 @@ Chapter introduction here.
 
 ##### `Step 1.`\|`SUU&G`|:small_blue_diamond:
 
-![alt text](images/GitForPC.jpg)
+![alt text](images/.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 2.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: 
 
-![alt text](images/GitHubDesktop.jpg)
+![alt text](images/.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
