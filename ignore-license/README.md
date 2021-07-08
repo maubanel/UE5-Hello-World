@@ -97,7 +97,9 @@ Now it reaches out to the server and notices there are changes.  Click the <kbd>
 
 ##### `Step 10.`\|`SUU&G`| :large_blue_diamond:
 
-![alt text](images/.jpg)
+Now go to the project in your **Finder** and look to see the **LICENSE** file you created on **GitHub**.  WHen you pulled from the server it added it locally.  This is how we work in teams.  We can pull work from other team members to integrate their changes.
+
+![LICENSE file now local](images/LocalLicenseFIle.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
