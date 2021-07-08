@@ -97,7 +97,7 @@ Now it reaches out to the server and notices there are changes.  Click the <kbd>
 
 ##### `Step 10.`\|`SUU&G`| :large_blue_diamond:
 
-Now go to the project in your **Finder** and look to see the **LICENSE** file you created on **GitHub**.  WHen you pulled from the server it added it locally.  This is how we work in teams.  We can pull work from other team members to integrate their changes.
+Now go to the project in your **Finder** and look to see the **LICENSE** file you created on **GitHub**.  When you pulled from the server it added it locally.  This is how we work in teams.  We can pull work from other team members to integrate their changes.
 
 ![LICENSE file now local](images/LocalLicenseFIle.jpg)
 
@@ -105,68 +105,18 @@ Now go to the project in your **Finder** and look to see the **LICENSE** file yo
 
 ##### `Step 11.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: 
 
-![alt text](images/.jpg)
+Now compare what we have on **GitHub** versus what we have on our hard drive.  Notice that the three folders that are **NOT** on **Github** were in the **.gitignore** file and are **DerivedDataCache**, **Intermediate** and **Saved**.
+
+![Compare folder on hard drive to github](images/GitIgnoreInAction.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 
-##### `Step 12.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
+| `ue4.generated.folders`\|`Intermediate & Saved Folders`| 
+| :--- |
+|> Intermediate - Contains temporary files generated during building the engine or game. In game directories, Shaders are stored in the Intermediate directory. - [Unreal Docs](https://docs.unrealengine.com/en-us/Engine/Basics/DirectoryStructure)\n\n > Saved - Contains autosaves, configuration (.ini) files, and log files. Additionally, the Engine > Saved directory contains crash logs, hardware information, and Swarm options and data. - [Unreal Docs](https://docs.unrealengine.com/en-us/Engine/Basics/DirectoryStructure)\n\nThe intermediate folder allows developers to be developing on Mac and PC's with different versions of operating systems where these compiled files will be different.  So it allows the parts of the game that are unique to our machine be only located on our machine and the common files that we all share in the git server.  Don't worry if you accidentally delete these files Unreal will automatically regenerate them when you run (it might take longer to boot up though). |
 
-![alt text](images/.jpg)
-
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
-
-##### `Step 13.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
-
-![alt text](images/.jpg)
-
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
-
-##### `Step 14.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
-
-![alt text](images/.jpg)
-
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
-
-##### `Step 15.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond: 
-
-![alt text](images/.jpg)
-
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
-
-##### `Step 16.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
-
-![alt text](images/.jpg)
-
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
-
-##### `Step 17.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
-
-![alt text](images/.jpg)
-
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
-
-##### `Step 18.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-![alt text](images/.jpg)
-
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
-
-##### `Step 19.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-![alt text](images/.jpg)
-
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
-
-##### `Step 20.`\|`SUU&G`| :large_blue_diamond: :large_blue_diamond:
-
-![alt text](images/.jpg)
-
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
-
-##### `Step 21.`\|`SUU&G`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
-
-![alt text](images/.jpg)
+---
 
 ___
 
