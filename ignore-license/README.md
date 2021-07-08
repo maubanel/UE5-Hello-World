@@ -39,25 +39,35 @@ So rather than number files like `BoatTexture01.png`, `BoatTexture01.png` & `Boa
 
 ##### `Step 3.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt text](images/.jpg)
+Go back to **github.com** and lets add a **License** file to the project.  I release all the exercises I have created under the open source [MIT](https://opensource.org/licenses/MIT) license. This allows you to use any of these assets in any project you would like, personal or commercial.  All you have to do is credit the work.  Press the **Add file | Create new file** button.
+
+![GitHub Add File](images/.AddLicenseFilejpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 4.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt text](images/.jpg)
+Call the file `LICENSE` (all caps).  Press the **Choose a license template** button.
+
+![GitHub name file LICNESE](images/AddLicenseName.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 5.`\|`SUU&G`| :small_orange_diamond:
 
-![alt text](images/.jpg)
+I selected the MIT license and would appreciate it reciprocally. This would allow me to use some of your assets to improve these exercises for future particpants.  But you are welcome to put any license of your choice.  If you want to maintain full copytight you can just put `copyright Jane Doe 2020` and that will give you full copyright over yoru work.
+
+Please note that this is just for assets you created and not ones supplied by Unreal or by downlaoding from the internet.  When you are done press the **Review and submit.
+
+![Select license and submit](images/AssignLicenseType.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 6.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond:
 
-![alt text](images/.jpg)
+Again, normally we would type a commit message but the placeholder one will do.  Lets press the **Commit** button to check in the change.
+
+![Commit file change of added LICENSE file](images/CommitLicenseFIle.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
