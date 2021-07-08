@@ -33,7 +33,7 @@ So rather than number files like `BoatTexture01.png`, `BoatTexture01.png` & `Boa
 
 ![Contents of UE4 .gitattributes file](images/GitAttributes.jpg)
 
-![git lfs diagram](images/GitLFSDiagram.jpg)
+![git lfs diagram](images/GitLFSDiagram.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
