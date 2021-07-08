@@ -24,8 +24,9 @@ Every **GitHub** repository has a file called **README.md**.  This is a [Markdow
 
 ##### `Step 2.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: 
 
+Open up the **README.md** file in your favorite text editor.  I use **Visual Studio** or **Visual Studio Code** which are both freely available.  You can see that it includes on line 1 `# HelloWorld`. A single pound sign (#) makes that line the equivalent in **HTML** of `<h1>Hello World</h1>`. This if you don't know HTML is a heading (larger font).  Under it is a paragraph with a single line `Developed with Unreal Engine 4`.
 
-![GitHub desktop download webpage](images/.jpg)
+![Show README.md file default content in visual studio code](images/ShowDefaultReadmeInEditor.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
