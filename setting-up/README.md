@@ -158,7 +158,7 @@ git push -u origin main
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 16.`\|`SUU&G`| :large_blue_diamond: ::small_orange_diamond:   :small_blue_diamond: 
+##### `Step 16.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
 Go back to **GitHub** on the web and refesh the folder.  If you did the above correctly you should now see all the folders on **GitHub**:
 
@@ -166,11 +166,27 @@ Go back to **GitHub** on the web and refesh the folder.  If you did the above co
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 17.`\|`SUU&G`| :large_blue_diamond: ::small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 17.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Now I tried doing the above step in **GitHub Desktop** but got some errors.  So now we need to link it to **GitHub Desktop** as we can use this moving forward to push data to the server.  Open up **GitHub Desktop** and select `File | Add local repository`.  Select the <kbd>Choose</kbd> button.
 
-![aadd repository to github desktop](images/AddRepositoryToGithubDesktop.jpg)
+![add repository to github desktop](images/AddRepositoryToGithubDesktop.jpg)
+
+<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+
+##### `Step 18.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Locate the root folder of your project.  This is the folder that contains the `.git` folder.  This is the topmost folder of your Unreal project.
+
+![find root of project](images/FindRootOfProject.jpg)
+
+<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+
+##### `Step 19.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Locate the root folder of your project.  This is the folder that contains the `.git` folder.  This is the topmost folder of your Unreal project.
+
+![find root of project](images/FindRootOfProject.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
