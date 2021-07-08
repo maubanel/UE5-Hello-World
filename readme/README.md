@@ -15,9 +15,10 @@ Lets create a change on to a single file then update it on **GitHub** with that 
 
 ##### `Step 1.`\|`SUU&G`|:small_blue_diamond:
 
+Every **GitHub** repository has a file called **README.md**.  This is a [Markdown](https://www.markdownguide.org) file which is a simple markup language (like HTML but even simpler).  It is used in many web apps and in all Git repositories.  Look in your project folder and you will see that **Unreal** created a starter file for you.
 
 
-![screenshot from git website download page](images/.jpg)
+![Show README.md file from GitHub in windows explorer](images/ReadmeInFolder.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
