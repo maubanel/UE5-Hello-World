@@ -212,7 +212,7 @@ Now we will be making changes and commiting them to the locql repository on your
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 
-<img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - ???">
+<img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - README.md File">
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 
