@@ -10,6 +10,9 @@
 ## Table of Contents
 <kbd></kbd> &nbsp;&nbsp; [First Hour of UE4](first-hour/README.md#user-content-first-hour-in-ue4) <br>
 <kbd></kbd> &nbsp;&nbsp; [Setting Up Unreal & Github](setting-up/README.md#user-content-setting-up-unreal--github)
+<kbd></kbd> &nbsp;&nbsp; [README.md File](setting-up/README.md#user-content-setting-up-unreal--github)
+<kbd></kbd> &nbsp;&nbsp; [.gitignore & LICENSE files](setting-up/README.md#user-content-setting-up-unreal--github)
+<kbd></kbd> &nbsp;&nbsp; [Setting up the Map](setting-up/README.md#user-content-setting-up-unreal--github)
 
 <!-- LICENSE -->
 ## License
