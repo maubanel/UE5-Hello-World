@@ -1,6 +1,6 @@
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
-### .gitignore & LICENSE files
+### Remaining GitHub Related Files
 
 <sub>[previous](../readme/README.md#user-content-readmemd-file) • [home](../README.md#user-content-ue4-hello-world) • [next](../ignore-license/README.md#user-content-gitignore--license-files)</sub>
 
