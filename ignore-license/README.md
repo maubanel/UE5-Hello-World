@@ -89,7 +89,9 @@ Now lets go back to **GitHub Dekstop**.  Notice that there is no notice that the
 
 ##### `Step 9.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt text](images/.jpg)
+Now it reaches out to the server and notices there are changes.  Click the <kbd>Pull origin</kbd> button to get the latest from the server.
+
+![alt text](images/PullOriginDesktop.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
