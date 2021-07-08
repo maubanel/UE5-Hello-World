@@ -6,7 +6,7 @@
 
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
-Lets create a change on our desktop then updated **GitHub** with that change.  We will look at editing a single file, commiting it, pushing it to the server then **CHECKING** that it worked.
+Lets create a change on to a single file then update it on **GitHub** with that change.  We will look at editing a single file, commiting it, pushing it to the server then **CHECKING** that it worked.
 
 <br>
 
