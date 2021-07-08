@@ -39,7 +39,7 @@ So rather than number files like `BoatTexture01.png`, `BoatTexture01.png` & `Boa
 
 ##### `Step 3.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Go back to **github.com** and lets add a **License** file to the project.  I release all the exercises I have created under the open source [MIT](https://opensource.org/licenses/MIT) license. This allows you to use any of these assets in any project you would like, personal or commercial.  All you have to do is credit the work.  Press the **Add file | Create new file** button.
+Go back to **github.com** and lets add a **License** file to the project.  Make sure you are at the root folder that contains the **OurFirstProject.uprojet** file. I release all the exercises I have created under the open source [MIT](https://opensource.org/licenses/MIT) license. This allows you to use any of these assets in any project you would like, personal or commercial.  All you have to do is credit the work.  Press the **Add file | Create new file** button.
 
 ![GitHub Add File](images/AddLicenseFile.jpg)
 
