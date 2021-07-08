@@ -52,7 +52,7 @@ Notice the yellow square next to the file name.  This means the file has changed
 
 Now GitHub gives you a default commit message, in this case saying it updated **HelloWorld**.  Normally we would be working in Unreal and doing this step in Unreal.  Since we are editing a non game file, we will perform the staging (`git add`) and commiting (`git commit`) in **GitHub Desktop**.  
 
-Normally we would write a change comment in the commit - but we did just update the one file, a trivial change.  The default message is specific enough. So we can leave it as is and press the **Commit to Master** button.  This brings up an overlay asking to **Initialize Git LFS**.  We agree to this and press the **Update Git LFS** button.
+Normally we would write a change comment in the commit - but we did just update the one file, a trivial change.  The default message is specific enough. So we can leave it as is and press the <btn>Commit to Master</btn> button.
 
 ![Commit to master in GitHub Desktop](images/CommitToMaster.jpg)
 
