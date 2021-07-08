@@ -40,7 +40,9 @@ Let's add our name with a `*` start and space in front.  This will make it an un
 
 ##### `Step 4.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Now what **GitHub** does is keep track of all changes to the project.  Now since UE4 did an initial **commit** when you created the project the only item to change since then is the **README.md** file which we altered.  Now in the interface we can see all the changes and we can click on the file and see what changed.\n\nNotice the yellow square next to the file name.  This means the file has changed.  It shows in red on the right what we deleted and in green what was added.
 
+![GitHub shows diff in README.md](images/ReadMeDiff.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
