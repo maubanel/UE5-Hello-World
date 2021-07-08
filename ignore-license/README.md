@@ -41,7 +41,7 @@ So rather than number files like `BoatTexture01.png`, `BoatTexture01.png` & `Boa
 
 Go back to **github.com** and lets add a **License** file to the project.  I release all the exercises I have created under the open source [MIT](https://opensource.org/licenses/MIT) license. This allows you to use any of these assets in any project you would like, personal or commercial.  All you have to do is credit the work.  Press the **Add file | Create new file** button.
 
-![GitHub Add File](images/.AddLicenseFilejpg)
+![GitHub Add File](images/.AddLicenseFile.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
