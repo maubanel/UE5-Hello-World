@@ -166,6 +166,13 @@ Go back to **GitHub** on the web and refesh the folder.  If you did the above co
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
+##### `Step 17.`\|`SUU&G`| :large_blue_diamond: ::small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Now I tried doing the above step in **GitHub Desktop** but got some errors.  So now we need to link it to **GitHub Desktop** as we can use this moving forward to push data to the server.  Open up **GitHub Desktop** and select `File | Add local repository`.  Select the <kbd>Choose</kbd> button.
+
+![aadd repository to github desktop](images/AddRepositoryToGithubDesktop.jpg)
+
+<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 
 
