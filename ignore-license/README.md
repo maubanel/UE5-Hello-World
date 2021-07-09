@@ -114,17 +114,18 @@ Now compare what we have on **GitHub** versus what we have on our hard drive.  N
 
 | `ue4.generated.folders`\|`Intermediate & Saved Folders`| 
 | :--- |
-|> Intermediate - Contains temporary files generated during building the engine or game. In game directories, Shaders are stored in the Intermediate directory. - [Unreal Docs](https://docs.unrealengine.com/en-us/Engine/Basics/DirectoryStructure)\n\n > Saved - Contains autosaves, configuration (.ini) files, and log files. Additionally, the Engine > Saved directory contains crash logs, hardware information, and Swarm options and data. - [Unreal Docs](https://docs.unrealengine.com/en-us/Engine/Basics/DirectoryStructure)\n\nThe intermediate folder allows developers to be developing on Mac and PC's with different versions of operating systems where these compiled files will be different.  So it allows the parts of the game that are unique to our machine be only located on our machine and the common files that we all share in the git server.  Don't worry if you accidentally delete these files Unreal will automatically regenerate them when you run (it might take longer to boot up though). |
+| *Intermediate - Contains temporary files generated during building the engine or game. In game directories, Shaders are stored in the Intermediate directory.* - [Unreal Docs](https://docs.unrealengine.com/en-us/Engine/Basics/DirectoryStructure)|
+|*Saved - Contains autosaves, configuration (.ini) files, and log files. Additionally, the Engine > Saved directory contains crash logs, hardware information, and Swarm options and data.* - [Unreal Docs](https://docs.unrealengine.com/en-us/Engine/Basics/DirectoryStructure)|
+|*Intermediate-Contains temporary files generated during building the engine or game. In game directories, Shaders are stored in the Intermediate directory.* - [Unreal Docs](https://docs.unrealengine.com/en-us/Engine/Basics/DirectoryStructure) |
 
 ---
 
-___
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 
-<img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - README.md File">
+<img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - Setting Up the Map">
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 
