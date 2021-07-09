@@ -25,7 +25,7 @@ OK, lets open Unreal again.  Got to the **Levels** folder and open up **TestLeve
 
 Now we currently don't load to this map when we run **Unreal**.  Lets set this level as the default level to load.  Press the <kbd>Settings</kbd> button and select **Project Settings**.
 
-![alt text](images/OpenProjectSettings.jpg)
+![open project settings](images/OpenProjectSettings.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
@@ -40,13 +40,15 @@ Go to **Maps & Modes** and change both the **Editor Startup Map** and **Game Def
 
 In this exercise you will be spelling out **Hello World**.  So right click on the **TestLevel** in **Content** browser.  Name it `HelloWorld`.
 
-![alt text](images/RenameTestLevel.jpg)
+![rename testlevel to helloworld](images/RenameTestLevel.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 5.`\|`SUU&G`| :small_orange_diamond:
 
-![alt text](images/.jpg)
+Now it is critical that you rename all files and folder **INSIDE** of **UE4**.  Never use the operating system to rename.  If you go back to **Project Settings** you will see that the new level is **Hello World**.  UE4 keeps track of the names so you can rename any object and it will rename all instances of them.
+
+![all files linked look at new name in project settings](images/AllFilesLinked.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
