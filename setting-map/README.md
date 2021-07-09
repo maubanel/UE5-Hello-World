@@ -62,7 +62,7 @@ Now if you saved your work you can see in **GitHub Desktop** what has changed in
 
 ##### `Step 7.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Go back to **Unrea** and press the <kbd>Source Control</kbd> button and select **Submit to Source Control**. 
+Go back to **Unreal** and press the <kbd>Source Control</kbd> button and select **Submit to Source Control**. 
 
 ![submit to source control](images/SubmitToSourceControlFirstTime.jpg)
 
@@ -70,7 +70,13 @@ Go back to **Unrea** and press the <kbd>Source Control</kbd> button and select *
 
 ##### `Step 8.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt text](images/.jpg)
+Now you should always include a message in your commits so you know what was done.  **Unreal** forces you to before you can submit the change.  It is a good idea to descrbie what was done a succinctly as possible.
+
+You will see in the bottom right corner a pop up that says the changes have been commited to the **main** branch.
+
+![commit and submit](images/CommitAndSubmit.jpg)
+![commited to main branch](images/CommitedToMainBranch.jpg)
+
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
