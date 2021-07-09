@@ -32,7 +32,7 @@ Now we currently don't load to this map when we run **Unreal**.  Lets set this l
 ##### `Step 3.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Go to **Maps & Modes** and change both the **Editor Startup Map** and **Game Default Default Map** to `Test Level`.  Since this is a single level we will be building we can set both to the same.  Normally you would have your first level in the **Game Default** then the level you are currently working on in the **Editor Startup**,
-![alt text](images/.jpg)
+![alt text](images/SetDefaultLevel.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
