@@ -46,7 +46,7 @@ In this exercise you will be spelling out **Hello World**.  So right click on th
 
 ##### `Step 5.`\|`SUU&G`| :small_orange_diamond:
 
-Now it is critical that you rename all files and folder **INSIDE** of **UE4**.  Never use the operating system to rename.  If you go back to **Project Settings** you will see that the new level is **Hello World**.  UE4 keeps track of the names so you can rename any object and it will rename all instances of them.
+Now it is critical that you rename all files and folder **INSIDE** of **UE4**.  Never use the operating system to rename.  If you go back to **Project Settings** you will see that the new level is **Hello World**.  UE4 keeps track of the names so you can rename any object and it will rename all instances of them. Press **File | Save Current** to save your work.
 
 ![all files linked look at new name in project settings](images/AllFilesLinked.jpg)
 
@@ -54,13 +54,17 @@ Now it is critical that you rename all files and folder **INSIDE** of **UE4**.  
 
 ##### `Step 6.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond:
 
-![alt text](images/.jpg)
+Now if you saved your work you can see in **GitHub Desktop** what has changed in the game.  Now we will **NOT** use this app to `add` and `commit` these changes.
+
+![files show changes in github desktop](images/FirstChangeInDesktop.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 7.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt text](images/.jpg)
+Go back to **Unrea** and press the <kbd>Source Control</kbd> button and select **Submit to Source Control**. 
+
+![submit to source control](images/SubmitToSourceControlFirstTime.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
