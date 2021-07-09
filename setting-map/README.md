@@ -38,7 +38,9 @@ Go to **Maps & Modes** and change both the **Editor Startup Map** and **Game Def
 
 ##### `Step 4.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt text](images/.jpg)
+In this exercise you will be spelling out **Hello World**.  So right click on the **TestLevel** in **Content** browser.  Name it `HelloWorld`.
+
+![alt text](images/RenameTestLevel.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
