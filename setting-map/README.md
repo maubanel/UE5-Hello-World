@@ -23,7 +23,7 @@ OK, lets open Unreal again.  Got to the **Levels** folder and open up **TestLeve
 
 ##### `Step 2.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: 
 
-Now we currently don't load to this map when we run **Unreal**.  Lets set this level as the default level to load.  Press the <kb>Settings</kbd> button and select **Project Settings**.
+Now we currently don't load to this map when we run **Unreal**.  Lets set this level as the default level to load.  Press the <kbd>Settings</kbd> button and select **Project Settings**.
 
 ![alt text](images/OpenProjectSettings.jpg)
 
