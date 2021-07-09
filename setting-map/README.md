@@ -72,7 +72,7 @@ Go back to **Unreal** and press the <kbd>Source Control</kbd> button and select 
 
 Now you should always include a message in your commits so you know what was done.  **Unreal** forces you to before you can submit the change.  It is a good idea to descrbie what was done a succinctly as possible.
 
-You will see in the bottom right corner a pop up that says the changes have been commited to the **main** branch.
+You will see in the bottom right corner a pop up that says the changes have been commited to the **main** branch. Notice that it also saves our commit message.
 
 ![commit and submit](images/CommitAndSubmit.jpg)
 ![commited to main branch](images/CommitedToMainBranch.jpg)
@@ -82,7 +82,9 @@ You will see in the bottom right corner a pop up that says the changes have been
 
 ##### `Step 9.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt text](images/.jpg)
+Now this has updated **git** on your local computer.  To make sure it is backed up and on the cloud server you need to **push** this commit (or multiple commits).  I always push when I end a session working in **Unreal** and sometimes throughout the day if it is a long session.  You cannot do this in **Unreal** but have to go back to **GitHub Desktop**.  Notice that it is no longer needing to commit but is one **push** commit behind.  Press the <kbd>push</kdb> button.
+
+![push change to server in github desktop](images/PushUE4ChangeToOrigin.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
