@@ -82,7 +82,7 @@ You will see in the bottom right corner a pop up that says the changes have been
 
 ##### `Step 9.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now this has updated **git** on your local computer.  To make sure it is backed up and on the cloud server you need to **push** this commit (or multiple commits).  I always push when I end a session working in **Unreal** and sometimes throughout the day if it is a long session.  You cannot do this in **Unreal** but have to go back to **GitHub Desktop**.  Notice that it is no longer needing to commit but is one **push** commit behind.  Press the <kbd>push</kdb> button.
+Now this has updated **git** on your local computer.  To make sure it is backed up and on the cloud server you need to **push** this commit (or multiple commits).  I always push when I end a session working in **Unreal** and sometimes throughout the day if it is a long session.  You cannot do this in **Unreal** but have to go back to **GitHub Desktop**.  Notice that it is no longer needing to commit but is one **push** commit behind.  Press the <kbd>Push origin</kdb> button.
 
 ![push change to server in github desktop](images/PushUE4ChangeToOrigin.jpg)
 
@@ -90,7 +90,9 @@ Now this has updated **git** on your local computer.  To make sure it is backed 
 
 ##### `Step 10.`\|`SUU&G`| :large_blue_diamond:
 
-![alt text](images/.jpg)
+For me, errors pop up and I just don't notice them using git.  I always check to make sure that my commit made it to the server.  Go to **GitHub** in your web browser and press on the <kbd>003 commits</kdb>.  Make sure you see your last commit message and if so, it is now safe on the server.
+
+![confirm that git pushed to server](images/CheckPush.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
