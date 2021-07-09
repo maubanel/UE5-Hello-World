@@ -23,7 +23,9 @@ OK, lets open Unreal again.  Got to the **Levels** folder and open up **TestLeve
 
 ##### `Step 2.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: 
 
-![alt text](images/.jpg)
+Now we currently don't load to this map when we run **Unreal**.  Lets set this level as the default level to load.  Press the <kb>Settings</kbd> button and select **Project Settings**.
+
+![alt text](images/OpenProjectSettings.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
