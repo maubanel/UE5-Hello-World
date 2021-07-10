@@ -23,13 +23,19 @@ Lets start by <kbd>Right Mouse Button</kbd> press on the top folder of **World O
 
 ##### `Step 2.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: 
 Drag the **directional light** and **sky atmosphere** into this newly created lighting folder.
+
 ![drag light and atmosphere into above folder](images/DragLightingFIlesInFolder.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 3.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt text](images/DragLightingFIlesInFolder.jpg)
+Create another folder called `Floor`.  Drag all your floor pieces into it.  You can also hide and show the content of the folders with the small arrow.  Now look at how much better organized your world outliner is.
+
+![add floor folder](images/SecondFolderFloor.jpg)
+
+![aorganized world outliner](images/ClearnWorldOutliner.jpg)
+
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
