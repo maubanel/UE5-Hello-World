@@ -99,8 +99,9 @@ We also need to go to **Lighting | Cast Shadow** and turn this off.  The sky wil
 
 ##### `Step 10.`\|`SUU&G`| :large_blue_diamond:
 
+Now these clouds are just a texture on a sphere and not very realistic.  It cannot have any effects of the sun passing over it affecting the shadows in the scene.  **Unreal** has added a new 3-D set of clouds we can add.  Type in **Volumetric Clouds** in the **Pace Assets** tab and drag it into the scene.
 
-![alt text](images/.jpg)
+![add volumetric clouds](images/AddVolumejtricClouds.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
