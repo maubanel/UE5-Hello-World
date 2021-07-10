@@ -17,7 +17,7 @@ The sky just has an atmosphere and no clouds or ground plane (it is black).  Let
 
 Lets start by <kbd>Right Mouse Button</kbd> press on the top folder of **World Outliner** and select **Create Folder** and call it `Lighting`.
 
-![add lighting folder to world outliner(images/LIghitngFolderAdd.jpg)
+![add lighting folder to world outliner](images/LIghitngFolderAdd.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
