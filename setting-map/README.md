@@ -94,13 +94,6 @@ For me, errors pop up and I just don't notice them using git.  I always check to
 
 ![confirm that git pushed to server](images/CheckPush.jpg)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
-
-
-___
-
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
-
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 
 <img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - Finish Setting Up Sky">
