@@ -13,7 +13,7 @@
 <kbd></kbd> &nbsp;&nbsp; [README.md File](readme/README.md#user-content-readmemd-file)<br>
 <kbd></kbd> &nbsp;&nbsp; [Remaining Github Related Files](ignore-license/README.md#user-content-remaining-github-related-files)<br>
 <kbd></kbd> &nbsp;&nbsp; [Setting up the Map](setting-map/README.md#user-content-setting-up-the-map)<br>
-<kbd></kbd> &nbsp;&nbsp; [Finish Setting Up Sky](setting-map/README.md#user-content-setting-up-the-map)<br>
+<kbd></kbd> &nbsp;&nbsp; [Finish Setting Up Sky](setting-sky/README.md#user-content-finish-setting-up-sky)<br>
 
 
 LoadTestLevel
