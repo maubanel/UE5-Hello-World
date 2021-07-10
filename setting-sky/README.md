@@ -55,7 +55,9 @@ From the **Place Actors | Basic** tab drag a **Sphere** into the level and call 
 
 ##### `Step 5.`\|`SUU&G`| :small_orange_diamond:
 
-![alt text](images/.jpg)
+Now **Unreal** provides us with some basic materials to start working with.  It is not in our set of files though and lies in the engine code.  Press on **View Options** and turn on **Engine Content** by setting it to `true`.  The select the **Engine Content** folder in the **Content Browser** and look for `M_Sky`.
+
+![turn on engine content and look for m_sky](images/.FindSkyMaterialjpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
