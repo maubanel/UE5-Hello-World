@@ -77,7 +77,9 @@ Now drag and drop `M_SkyTimeOfDay` onto the **Material** slot on the **Sky Spher
 
 ##### `Step 8.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt text](images/.jpg)
+Now we need to adjust the scale, angle and position of the sky sphere.  Set the **Location | X** & **Location | Y** to `0`.  Set the **Location | Z**  to `-7300000`.  Set the **Rotation | X** to `90`. Set the **Scale | X** & **Scale | Z** to `1000000`. Set the **Scale | Y** to `150000`.
+
+![set location rotatipon and scale for sky sphere static mesh](images/PositionSkySphere.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
