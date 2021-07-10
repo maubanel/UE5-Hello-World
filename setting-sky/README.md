@@ -107,7 +107,9 @@ Now these clouds are just a texture on a sphere and not very realistic.  It cann
 
 ##### `Step 11.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: 
 
-![alt text](images/.jpg)
+Now we can have it so that the clouds cast shadows when they cover the sun.  Go to **Directional Light** (our sun) in the **World Outliner** and change **Lighting | Cast Lightmass Settings | Cast Shadow** to `true`.
+
+![cast cloud shadows](images/CastCloudShadows.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
