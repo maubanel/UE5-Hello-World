@@ -116,7 +116,9 @@ Now we can have it so that the clouds cast shadows when they cover the sun.  Go 
 
 ##### `Step 12.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-![alt text](images/.jpg)
+If the directional light is the sun, in unreal this only lights up at that one angle.  The sun actually reflects and refracts off of various objects filling in shadow and detail.  This is done with the **Place Actors | Lights | SkyLight**.  Drag it into the game scene and put it in the **Lights** folder.
+
+![add skylight to lights folder in level](images/AddSkyLight.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
