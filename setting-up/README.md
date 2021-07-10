@@ -208,8 +208,6 @@ Now we will be making changes and commiting them to the locql repository on your
 
 ![github in ue4 flowchart A](images/GitHubFLowA.jpg)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
-
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 
 <img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - README.md File">
