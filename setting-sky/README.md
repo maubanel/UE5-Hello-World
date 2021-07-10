@@ -130,7 +130,7 @@ https://user-images.githubusercontent.com/5504953/125166646-76ffac80-e151-11eb-9
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 
-<img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - Build H">
+<img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - Build Letter">
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 
