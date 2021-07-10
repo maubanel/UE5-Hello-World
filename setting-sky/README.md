@@ -36,11 +36,20 @@ Create another folder called `Floor`.  Drag all your floor pieces into it.  You 
 
 ![aorganized world outliner](images/ClearnWorldOutliner.jpg)
 
+| `3d.concept`\|`Static Mesh`| 
+| :--- |
+| :floppy_disk: &nbsp;&nbsp; A [static mesh](https://docs.unrealengine.com/en-us/Engine/Content/Types/StaticMeshes) in Unreal is a 3-D piece of geometry made up of points, edges and polygons.  These meshes are \"static\" as the vertices themselves cannot be animated.  They can be moved, scaled and rotated in realtime. |
+
+---
+"title": "Static Mesh",
+    "text": "A [static mesh](https://docs.unrealengine.com/en-us/Engine/Content/Types/StaticMeshes) in Unreal is a 3-D piece of geometry made up of points, edges and polygons.  These meshes are \"static\" as the vertices themselves cannot be animated.  They can be moved, scaled and rotated in realtime."
+  },
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 4.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+For our sky we will add a static mesh
 ![alt text](images/.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
