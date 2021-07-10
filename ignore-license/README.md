@@ -119,9 +119,6 @@ Now compare what we have on **GitHub** versus what we have on our hard drive.  N
 |*Intermediate-Contains temporary files generated during building the engine or game. In game directories, Shaders are stored in the Intermediate directory.* - [Unreal Docs](https://docs.unrealengine.com/en-us/Engine/Basics/DirectoryStructure) |
 
 
-
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
-
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 
 <img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - Setting Up the Map">
