@@ -124,11 +124,13 @@ If the directional light is the sun, in unreal this only lights up at that one a
 
 ##### `Step 13.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
+Now press the play butotn and look at those beautifully animated 3-D volumetrick clouds.  It should look really nice and we can begin building the letter **H** next.  But first lets go to **File | Save Current** and save all of our progree (you might even want to select **File | Save All**).  Now press the <kbd>Source Control</kbd> button and add a comment describing what you did then submit your change.  Open up **GitHub Desktop** and `push` to the server.
+
 https://user-images.githubusercontent.com/5504953/125166646-76ffac80-e151-11eb-9f83-1b3bf72f83f9.mp4
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 
-<img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - README.md File">
+<img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - Build Letter H">
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 
