@@ -2,10 +2,10 @@
 
 <!-- OVERVIEW -->
 ## Overview
-* This is an introductory walkthrough excersise in Unreal Engine 4 to extend upon the First Hour of UE4 tutorial on Unreal's Learning hub.  It shows the building blocks for creating a level with "Hello World" spelled out with a camera that rotates around your creation.
+* This is an introductory walkthrough excersise in Unreal Engine 4 to extend upon the First Hour of UE4 tutorial on Unreal's Learning hub.  It shows the building blocks for creating a level with "Hello World" spelled out with a camera that rotates around your creation. 
 
 * Tested on UE4 4.26
-* Uses Github, Git LFS, Git, and Unreal Engine
+* Required to install: Github, GitHub Desktop, Git, Git LFS, and Unreal Engine
 
 <!-- TOC -->
 ## Table of Contents
