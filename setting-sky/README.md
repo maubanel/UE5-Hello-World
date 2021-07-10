@@ -49,8 +49,10 @@ Create another folder called `Floor`.  Drag all your floor pieces into it.  You 
 
 ##### `Step 4.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-For our sky we will add a static mesh
-![alt text](images/.jpg)
+For our sky we will add a **static mesh** to the game. Now the sky material will be projected in the inside of this large **Static Mesh** with our level in the center of it.
+From the **Place Actors | Basic** tab drag a **Sphere** into the level and call it `SkySphere`.
+
+![drag spehere to level](images/SkySphereMesh.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
