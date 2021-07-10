@@ -63,7 +63,9 @@ Now **Unreal** provides us with some basic materials to start working with.  It 
 
 ##### `Step 6.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond:
 
-![alt text](images/.jpg)
+Now drag and drop `M_SkyTimeOfDay` onto the **Material** slot on the **Sky Sphere** mesh.
+
+![add time of day materail to skysphere mesh](images/TimeOfDayOnMesh.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
