@@ -22,14 +22,14 @@ Lets start by <kbd>Right Mouse Button</kbd> press on the top folder of **World O
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 2.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: 
-
-![alt text](images/.jpg)
+Drag the **directional light** and **sky atmosphere** into this newly created lighting folder.
+![drag light and atmosphere into above folder](images/DragLightingFIlesInFolder.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 3.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt text](images/.jpg)
+![alt text](images/DragLightingFIlesInFolder.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
