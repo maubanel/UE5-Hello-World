@@ -134,5 +134,5 @@ https://user-images.githubusercontent.com/5504953/125166646-76ffac80-e151-11eb-9
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 
-| [previous](../building-h/README.md#user-content-build-the-letter-h)| [home](../README.md#user-content-ue4-hello-world) | [next](../readme/README.md#user-content-readmemd-file)|
+| [previous](../setting-map/README.md#user-content-setting-up-the-map)| [home](../README.md#user-content-ue4-hello-world) | [next](../building-h/README.md#user-content-build-the-letter-h)|
 |---|---|---|
