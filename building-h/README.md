@@ -16,7 +16,6 @@ Chapter introduction here.
 ##### `Step 1.`\|`SUU&G`|:small_blue_diamond:
 
 Unreal uses a 3-D left-handed [cartesian coordinate system](https://en.wikipedia.org/wiki/Cartesian_coordinate_system).  `x` is facing forward with positive `x` to the front away from you.  `z` is up and down with positive being `z` up.  Finally, `y` is left and right with positive `y` being towards the right. We will look at placing our letters with X facing forward, Z up and Y to the right.
-  "alt": "",
 
 ![Left handed cartesian coordinate system with Z up](images/CoordinateSystem.jpg)
 
