@@ -50,7 +50,9 @@ Back in the content browser put your cursor on the puzzle piece and notice that 
 
 ##### `Step 5.`\|`SUU&G`| :small_orange_diamond:
 
-![alt text](images/.jpg)
+Drag the cube into the scene. on top of the ground pieces that are already there.
+
+![alt text](images/DragCubeInScene.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
