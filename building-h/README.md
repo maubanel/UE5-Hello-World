@@ -31,13 +31,20 @@ I am going to start building the letter **H** with cube meshes.  Now the project
 
 ##### `Step 3.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt text](images/.jpg)
+Double click on the puzzle cube static mesh and look at it in the editor. Noitce that it has a static mesh and material associated with it.  
+
+![open puzzle cube in editor](images/puzzleCube.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 4.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt text](images/.jpg)
+Back in the content browser put your cursor on the puzzle piece and notice that it is **100 x 100 x 100**.  This means that we can set the translation distance to **100** so that it can perfectly snap to the right spot.
+
+![showing at size of puzzle piece](images/SizeOfPuzzlePiece.jpg)
+
+![snap translation to 100 units](images/snapTo100.jpg)
+
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
