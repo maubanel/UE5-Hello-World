@@ -65,7 +65,9 @@ Now rather than trying to guess where the ground is there is a hot key to snap t
 
 ##### `Step 7.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt text](images/.jpg)
+Now since we have set the snap to **100** we can press the <kbd>alt</kbd> key and pull the handle up once to duplicate the cube.  Do this 5 times to build up the left wall of the letter **H**.
+
+![alt text](images/AltDupe.gif)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
