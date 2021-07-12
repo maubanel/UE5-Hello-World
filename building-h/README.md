@@ -95,7 +95,9 @@ We can change the material of the cube to get a different color combination.  Go
 
 ##### `Step 11.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: 
 
-![alt text](images/.jpg)
+I settled on a green middle for the H.
+
+![alt text](images/GreenMiddleH.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
