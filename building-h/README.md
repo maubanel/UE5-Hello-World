@@ -81,13 +81,15 @@ Now since we have set the snap to **100** we can press the <kbd>alt</kbd> key an
 
 ##### `Step 9.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt text](images/.jpg)
+Add the middle portion of the H on your own.  Lets look now at altering the color of the cubes.
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 10.`\|`SUU&G`| :large_blue_diamond:
 
-![alt text](images/.jpg)
+We can change the material of the cube to get a different color combination.  Go to the **Material** folder under the puzzle piece and you will find multiple difference **Material Instances**.  These are the same underpinnings of a material with different settings (in this case color).  We will look at this in the next section.  For now select a group of cubes and drag the different materials to see the different color combinations you can achieve.
+
+![alt text](images/ChangeColorOfCubes.gif)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
