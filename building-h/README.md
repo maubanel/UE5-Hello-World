@@ -73,7 +73,7 @@ Now since we have set the snap to **100** we can press the <kbd>alt</kbd> key an
 
 ##### `Step 8.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-<kbd>shift</kdb> select the 5 cubes and <kbd>alt</kbd> click and drag a duplicate to get the right side of the letter **H**.
+<kbd>shift</kbd> select the 5 cubes and <kbd>alt</kbd> click and drag a duplicate to get the right side of the letter **H**.
 
 ![alt text](images/RightSideOfH.jpg)
 
