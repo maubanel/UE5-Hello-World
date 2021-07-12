@@ -57,8 +57,9 @@ Drag the cube into the scene. on top of the ground pieces that are already there
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 6.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond:
+Now rather than trying to guess where the ground is there is a hot key to snap the object to the lowerst part of the surface (down on the **Z** axis).  So the <kbd>end</kbd> key snaps to ground.
 
-![alt text](images/.jpg)
+![alt text](images/PressEnd.gif)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
