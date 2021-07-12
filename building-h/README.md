@@ -23,7 +23,7 @@ Unreal uses a 3-D left-handed [cartesian coordinate system](https://en.wikipedia
 
 ##### `Step 2.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: 
 
-I am going to start building the letter **H** with cube meshes.  Now the project we imported in the **UE4** walk through has some neat shapes.  Go to the **Content Browser** and find ``.
+I am going to start building the letter **H** with cube meshes.  Now the project we imported in the **UE4** walk through has some neat shapes.  Go to the **Content Browser** and find `Content | LEarningKit_Games | Assets | Props| PuzzleCube_A | SM_Puzzle_Cube_A`. This is a nice building block for our letter H.
 
 ![find puzzle piece in content browser](images/FindCubePuzleSM.jpg)
 
