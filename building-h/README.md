@@ -2,7 +2,7 @@
 
 ### Build The Letter H
 
-<sub>[previous](../setting-sky/README.md#user-content-finish-setting-up-sky) • [home](../README.md#user-content-ue4-hello-world) • [next](../readme/README.md#user-content-readmemd-file)</sub>
+<sub>[previous](../setting-sky/README.md#user-content-finish-setting-up-sky) • [home](../README.md#user-content-ue4-hello-world) • [next](../remove-player/README.md#user-content-remove-player-control)</sub>
 
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
@@ -124,5 +124,5 @@ Press the **Play** button to see our work.  Woops, we get sent into third person
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 
-| [previous](../setting-sky/README.md#user-content-finish-setting-up-sky)| [home](../README.md#user-content-ue4-hello-world) | [next](../readme/README.md#user-content-readmemd-file)|
+| [previous](../setting-sky/README.md#user-content-finish-setting-up-sky)| [home](../README.md#user-content-ue4-hello-world) | [next](../remove-player/README.md#user-content-remove-player-control)|
 |---|---|---|
