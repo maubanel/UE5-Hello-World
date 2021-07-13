@@ -15,7 +15,7 @@
 <kbd></kbd> &nbsp;&nbsp; [Remaining Github Related Files](ignore-license/README.md#user-content-remaining-github-related-files)<br>
 <kbd></kbd> &nbsp;&nbsp; [Setting up the Map](setting-map/README.md#user-content-setting-up-the-map)<br>
 <kbd></kbd> &nbsp;&nbsp; [Finish Setting Up Sky](setting-sky/README.md#user-content-finish-setting-up-sky)<br><kbd></kbd> &nbsp;&nbsp; [Building The Letter H](building-h/README.md#user-content-build-the-letter-h)<br>
-
+<kbd></kbd> &nbsp;&nbsp; [Remove Player Control](setting-sky/README.md#user-content-finish-setting-up-sky)<br><kbd></kbd> &nbsp;&nbsp; [Building The Letter H](remove-olayer/README.md#user-content-remove-player-control<br>
 
 <!-- LICENSE -->
 ## License
