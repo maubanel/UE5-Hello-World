@@ -6,7 +6,7 @@
 
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
-Chapter introduction here.
+Unreal autoamtically loads up a player in most templates.  That is why we place a **player start** because the largest preponderances of games use a controllable character.  What about puzzle games, where the user is just clicking a user interface and not controlling a character (like a crossword puzzle)?  Lets look at how we can set-up a camera, have it rotate around the letter(s) and default to it when starting the game.
 
 <br>
 
