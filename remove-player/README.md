@@ -165,6 +165,7 @@ https://user-images.githubusercontent.com/5504953/125641441-45be20f1-9b1b-45eb-8
 
 Lets adjust the speed and position of the camera.  Open the **BP_Camera_Actor** blueprint.  Select the **Rotating Movement** component. Change the z-axis value from `180` degrees per second to `20`.
 
+https://user-images.githubusercontent.com/5504953/125643100-a0516b9e-2196-4926-8ca9-6cdefb5c2014.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
@@ -172,7 +173,7 @@ Lets adjust the speed and position of the camera.  Open the **BP_Camera_Actor** 
 
 Now to reverse the direction we just make it `-20` degrees per second on the **z-axis** value and the camera will rotate in the opposite direction.
 
-
+https://user-images.githubusercontent.com/5504953/125643160-362f4528-c409-40ba-b814-123ea675062a.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
