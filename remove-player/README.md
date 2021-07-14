@@ -141,11 +141,15 @@ Go to the game window and select the Camera blueprint actor in the scene.
 
 ##### `Step 14.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt text](images/.jpg)
+Go back to the **Blueprint** and right click on the graph.  Select **Create a Reference to BP_Camera**.  Connet the output of the camera node to the **New View Target** pin in the **Set View Target with Blend** node.
+
+![create a camera reference](images/CreateCameraReference.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 15.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond: 
+
+Connect the **Event Begin Play** node execution pin to the **Set View Target with Blend** execution pin.  This will run when the game starts for the first time (hitting the **Play** button). Compile the blueprint then go to the game and press run.  The camera should now rotate around the billboard showing off your work.  It is a bit fast though
 
 ![alt text](images/.jpg)
 
