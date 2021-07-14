@@ -53,7 +53,9 @@ The camera needs to be around 3/4 of the length of the ground surface away from 
 
 ##### `Step 5.`\|`SUU&G`| :small_orange_diamond:
 
-![alt text](images/.jpg)
+Drag the **BP_Camera_Actor** to the scene.  Make sure the billboard component is at **Location** at the point where you want to rotate.  Make sure the **Camera Component** is far enough away.  Go back to the blueprint and adjust the distance.  Use the camera preview to see the framing of the camera. I have it here so that the object is position and rotated with the pivot point in the right place.
+
+![adjust position of camera in scene](images/AdjustPosition.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
