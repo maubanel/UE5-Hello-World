@@ -15,7 +15,11 @@ Unreal autoamtically loads up a player in most templates.  That is why we place 
 
 ##### `Step 1.`\|`SUU&G`|:small_blue_diamond:
 
-![alt text](images/.jpg)
+Instead of having the camera on the player pawn that spawns, lets have a predefined camera.  Go to **Modes** and type `Camera` and drag a **Camera** into the scene.  Now we want to make a blueprint to add logic to it.  Click on the **Blueprint Add** button and call it `BP_Camera_Actor`. Add it to the **Blueprints** folder."
+
+![drag camera actor to level](images/AddCamToLevel.jpg)
+![turn actor to BP](images/TurnActorToBP.jpg)
+
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
