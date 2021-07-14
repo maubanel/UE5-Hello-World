@@ -61,13 +61,25 @@ Drag the **BP_Camera_Actor** to the scene.  Make sure the billboard component is
 
 ##### `Step 6.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond:
 
-![alt text](images/.jpg)
+Now we do not want to spawn the third person character.  This can be found in the **Game Mode** blueprint. We do not want to change the existing one as it works with the existing levels in our game.  Go to the **LearningKit_Games | Blueprints | GameFramework** folder and press the <kbd>Add/Import</kbd> button and select <kbd>Blueprint Class</kbd>. Now select the <kbd>Game Mode Base</kbd> class for this blueprint.  Call this blueprint `BP_HelloWorldGameMode`.
+
+![add blueprint to Game Framework folder](images/AddBlueprint.jpg)
+
+![select gamemode base](images/GameModeBase.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 7.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt text](images/.jpg)
+Press the **Play** button and see the camera rotate around the object.  Woops the camera is static.  What is happening?  The game is still using the spectator pawn camera will not use this camera unless you tell it to. Notice it spawns a second camera that in my case points at nothing.  It must be bound to the **Default Pawn** as the camera moves when I press **WASD** on the keyboard.  
+
+This is default behavior in Unreal. It expects the user the be controlling a character and since we do not have one, it creates one fo rus using the default pawn so you can fly around the scene.  Notice that in the **World Outliner** that you see the other **Camera Actor**.  You will also still see the **BP_CameraActor** and if you click on it will see that the frame is changing so it is rotating.
+
+Lets fix this and use our desired camera.
+
+![spawns new camera actor](images/SpawnsNewCamActor.jpg)
+
+![cam bp still there not running](images/CamBPStillThere.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
