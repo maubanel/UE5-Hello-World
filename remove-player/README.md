@@ -172,11 +172,11 @@ Lets adjust the speed and position of the camera.  Open the **BP_Camera_Actor** 
 
 Now to reverse the direction we just make it `-20` degrees per second on the **z-axis** value and the camera will rotate in the opposite direction.
 
-
-
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 18.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Create the rest of the letters to spell out the words **Hello World**.  Play around with the different static meshes and effects they provide to make it look as cool as you can.  You might have to adjust the size of the letters so they all fit on the ground (or expand the ground plane). Your final project should look something like this. Make sure you name your files appropriately and put all your cubes in folders that are clearly labelled.
 
 ![alt text](images/.jpg)
 
