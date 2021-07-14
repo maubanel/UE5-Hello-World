@@ -186,7 +186,7 @@ Create the rest of the letters to spell out the words **Hello World**.  Play aro
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-| `hello.world`\|`THE END| 
+| `hello.world`\|`THE END`| 
 | :--- |
 | **That's All Folks!** Thanks for sticking around. That's it for this lesson. |
 
