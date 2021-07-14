@@ -157,7 +157,7 @@ Connect the output of the camera node to the **New View Target** pin in the **Se
 
 Connect the **Event Begin Play** node execution pin to the **Set View Target with Blend** execution pin.  This will run when the game starts for the first time (hitting the **Play** button). Compile the blueprint then go to the game and press run.  The camera should now rotate around the billboard showing off your work.  It is a bit fast though
 
-![alt text](images/.jpg)
+https://user-images.githubusercontent.com/5504953/125641441-45be20f1-9b1b-45eb-83aa-5f01ea4a9406.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
