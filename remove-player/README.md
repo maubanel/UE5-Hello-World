@@ -141,12 +141,15 @@ Go to the game window and select the Camera blueprint actor in the scene.
 
 ##### `Step 14.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Go back to the **Blueprint** and right click on the graph.  Select **Create a Reference to BP_Camera**.  Connect the **Execution** pin from the **Begin Play** node and send it to the **Set View Target With Blend** execution pin.  Connect the output of the camera node to the **Get Player Controller** pin in the **Target** node.
+Go back to the **Blueprint** and right click on the graph.  Select **Create a Reference to BP_Camera**.  Connect the **Execution** pin from the **Begin Play** node and send it to the **Set View Target With Blend** execution pin.  Connect the output of the camera node to the **Get Player Controller** pin in the **Target** node. 
+
+Connect the output of the camera node to the **New View Target** pin in the **Set View Target with Blend** node.
 
 ![create a camera reference](images/CreateCameraReference.jpg)
 
 ![cconnect pins](images/ConnectPins.jpg)
 
+![cconnect view target](images/SetNewViewTarget.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
