@@ -87,7 +87,7 @@ We can have a unique gamemode for a specific level.  This is done by going to th
 
 ![open up world settings tab](images/WorldSettingsTab.jpg)
 
-![select bp_helloworldgamemode](images/GameModeProjectSettings.jpg)
+![select bp_helloworldgamemode](images/WorldSettingsCustomForLEvel.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
