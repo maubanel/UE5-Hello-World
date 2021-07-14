@@ -155,7 +155,7 @@ Connect the output of the camera node to the **New View Target** pin in the **Se
 
 ##### `Step 15.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond: 
 
-Connect the **Event Begin Play** node execution pin to the **Set View Target with Blend** execution pin.  This will run when the game starts for the first time (hitting the **Play** button). Compile the blueprint then go to the game and press run.  The camera should now rotate around the billboard showing off your work.  It is a bit fast though
+Compile the blueprint then go to the game and press run.  The camera should now rotate around the billboard showing off your work.  It is a bit fast though..
 
 https://user-images.githubusercontent.com/5504953/125641441-45be20f1-9b1b-45eb-83aa-5f01ea4a9406.mp4
 
@@ -163,13 +163,16 @@ https://user-images.githubusercontent.com/5504953/125641441-45be20f1-9b1b-45eb-8
 
 ##### `Step 16.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-![alt text](images/.jpg)
+Lets adjust the speed and position of the camera.  Open the **BP_Camera_Actor** blueprint.  Select the **Rotating Movement** component. Change the z-axis value from `180` degrees per second to `20`.
+
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 17.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt text](images/.jpg)
+Now to reverse the direction we just make it `-20` degrees per second on the **z-axis** value and the camera will rotate in the opposite direction.
+
+
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
