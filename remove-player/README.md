@@ -37,7 +37,9 @@ Open the newly created **Blueprint**.  In the **Components** tab, press the **+ 
 
 ##### `Step 3.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt text](images/.jpg)
+Press **+ Add Component** again and add a `Rotating Movement` component.
+
+![add rotating movement component to scene](images/RotatingMovement.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
