@@ -1,6 +1,6 @@
 ![](../images/line3.png)
 
-### Setting Up Perforce
+### Installing Unreal & Perforce
 
 <sub>[home](../README.md#user-content-ue4-hello-world) • [next](../setting-up/README.md#user-content-setting-up-unreal--github)</sub>
 
@@ -23,10 +23,10 @@ This is a follow up to the introductory Unreal tutorial *Your First Hour in Unre
 
 ##### `Step 1.`\|`FHIU`|:small_blue_diamond:
 
-Complete the [Your First Hour in Unreal Engine 4](https://www.unrealengine.com/en-US/onlinelearning-courses/your-first-hour-in-unreal-engine-4) tutorial. For the **Building you Fist Level** module we will be taking on from here.  You do not need to do anything else beyond building the floor as shown in the video.
+Download the **[Epic Game Installer](https://store.epicgames.com/en-US/download)** and install it on your target platform.  I strongly recommend for **Unreal 5** to be using a decent PC (not a mac) with a good separate **AMD** or **NVidia** video card.
 
 
-![First Hour Tutorial by Unreal](images/UE4Tutorial.jpg)
+![First Hour Tutorial by Unreal](images/installEpicInstaller.png)
 
 ![](../images/line2.png)
 
