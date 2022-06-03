@@ -28,7 +28,7 @@ Complete the [Your First Hour in Unreal Engine 4](https://www.unrealengine.com/e
 
 ![First Hour Tutorial by Unreal](images/UE4Tutorial.jpg)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 2.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: 
 
@@ -36,7 +36,7 @@ Now that you have finished the tutorial, there is one additional piece of inform
 
 ![Our first project folder](images/OurFirstProjectFolder.jpg)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 3.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -53,7 +53,7 @@ Click on the `More Apps` link and we will locate it manually.
 
 ![click on more apps](images/MoreApps.jpg)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 5.`\|`FHIU`| :small_orange_diamond:
  
@@ -61,7 +61,7 @@ Scroll to the bottom and select the `Look for another app on this PC` link.
 
 ![select look for another app on this pc](images/LookForAnotherApp.jpg)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 6.`\|`FHIU`| :small_orange_diamond: :small_blue_diamond:
 
@@ -71,7 +71,7 @@ Now locate the folder where you installed this version of Unreal.  By default it
 
 ![Uproject has a U icon](images/UE4Editor.jpg)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 7.`\|`FHIU`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -79,7 +79,7 @@ Now you should be able to <kbd>RMB</kbd> and select the <kbd>Properties</kbd> bu
 
 ![Select uproject properties](images/UE4EdtiorInProps.jpg)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 8.`\|`FHIU`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -87,7 +87,7 @@ Lets now go back to the test level.  Go to **Content Browser** and press the <kb
 
 ![Reload test level](images/ReloadTestLevel.jpg)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 9.`\|`FHIU`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -95,11 +95,11 @@ Now you should see a level that looks like this:
 
 ![Reload test level](images/StartingPointTestLevel.jpg)
 
-<img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
+![](../images/line.png)
 
 <img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - Setting Up Unreal and Github">
 
-<img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
+![](../images/line.png)
 
 | [home](../README.md#user-content-ue4-hello-world) | [next](../setting-up/README.md#user-content-setting-up-unreal--github)|
 |---|---|
