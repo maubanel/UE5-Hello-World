@@ -26,7 +26,7 @@ This is a follow up to the introductory Unreal tutorial *Your First Hour in Unre
 We will manage all of our games and downloads from a tool that **Epic** provides.  This is used both for playing and making games! Download the **[Epic Game Installer](https://store.epicgames.com/en-US/download)** and install it on your target platform.  I strongly recommend for **Unreal 5** to be using a decent PC (not a mac) with a good separate **AMD** or **NVidia** video card.
 
 
-![First Hour Tutorial by Unreal](images/installEpicInstaller.png)
+![Epic Games Installer](images/installEpicInstaller.png)
 
 ![](../images/line2.png)
 
@@ -35,7 +35,7 @@ We will manage all of our games and downloads from a tool that **Epic** provides
 Create a free **Epic Game Account**.  If they request licensing, select the **[Standard License](https://www.unrealengine.com/en-US/license)**.  Now run the **Epic Games Launcher** and select the **Settings** option at the bottom left of the interface.
 
 
-![Epic Games Launcher](images/EpicSettings.jpg)
+![Epic Games Launcher](images/EpicSettings.png)
 
 ![](../images/line2.png)
 
