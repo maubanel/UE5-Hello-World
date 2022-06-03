@@ -23,7 +23,7 @@ This is a follow up to the introductory Unreal tutorial *Your First Hour in Unre
 
 ##### `Step 1.`\|`FHIU`|:small_blue_diamond:
 
-Download the **[Epic Game Installer](https://store.epicgames.com/en-US/download)** and install it on your target platform.  I strongly recommend for **Unreal 5** to be using a decent PC (not a mac) with a good separate **AMD** or **NVidia** video card.
+We will manage all of our games and downloads from a tool that **Epic** provides.  This is used both for playing and making games! Download the **[Epic Game Installer](https://store.epicgames.com/en-US/download)** and install it on your target platform.  I strongly recommend for **Unreal 5** to be using a decent PC (not a mac) with a good separate **AMD** or **NVidia** video card.
 
 
 ![First Hour Tutorial by Unreal](images/installEpicInstaller.png)
@@ -32,13 +32,18 @@ Download the **[Epic Game Installer](https://store.epicgames.com/en-US/download)
 
 ##### `Step 2.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: 
 
-Now that you have finished the tutorial, there is one additional piece of information I would like to add.  I prefer to use the native **File Explorer** in both mac & pc's to launch my projects.  This way if I have multiple versions of the same project I know exactly which one I am working on.  Going through their interface abstracts the location and I have seen people save it to a cloud service, or a duplicate version somewhere else on their hard drive.  Navigate to where you have the stored the **Our First Project** folder.  Look for the *.uproject* file with the project name `OurFirstProject`.  If it has the **Unreal** logo you can double click on it and it will load. If you are on a mac this should be setup from default.  In **Windows 10** it often is not setup. If you can load the uproject succesfully you can skip to [step 8](#user-content-step-8fhiu-small_orange_diamond-small_blue_diamond-small_blue_diamond-small_blue_diamond)
+Create a free **Epic Game Account**.  If they request licensing, select the **[Standard License](https://www.unrealengine.com/en-US/license)**.  Now run the **Epic Games Launcher** and select the **Settings** option at the bottom left of the interface.
 
-![Our first project folder](images/OurFirstProjectFolder.jpg)
+
+![Epic Games Launcher](images/EpicSettings.jpg)
 
 ![](../images/line2.png)
 
 ##### `Step 3.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Now that you have finished the tutorial, there is one additional piece of information I would like to add.  I prefer to use the native **File Explorer** in both mac & pc's to launch my projects.  This way if I have multiple versions of the same project I know exactly which one I am working on.  Going through their interface abstracts the location and I have seen people save it to a cloud service, or a duplicate version somewhere else on their hard drive.  Navigate to where you have the stored the **Our First Project** folder.  Look for the *.uproject* file with the project name `OurFirstProject`.  If it has the **Unreal** logo you can double click on it and it will load. If you are on a mac this should be setup from default.  In **Windows 10** it often is not setup. If you can load the uproject succesfully you can skip to [step 8](#user-content-step-8fhiu-small_orange_diamond-small_blue_diamond-small_blue_diamond-small_blue_diamond)
+
+![Our first project folder](images/OurFirstProjectFolder.jpg)
 
 If you do not see the Unreal letter in the icon, the PC is not configured to load the project. You need to <kbd>RMB</kbd><kbd>Open With</kbd>. If **UE 4 Editor** shows up select it and go to [step 7](#user-content-step-7fhiu-small_orange_diamond-small_blue_diamond-small_blue_diamond). If not [go to step 4](#user-content-step-4fhiusmall_blue_diamond-small_blue_diamond-small_blue_diamond-small_blue_diamond).
 
