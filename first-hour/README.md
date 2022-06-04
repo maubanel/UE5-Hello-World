@@ -32,7 +32,7 @@ We will manage all of our games and downloads from a tool that **Epic** provides
 
 ##### `Step 2.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: 
 
-Create a free **Epic Game Account**.  If they request licensing, select the **[Standard License](https://www.unrealengine.com/en-US/license)**.  Now run the **Epic Games Launcher** and select the **Settings** option at the bottom left of the interface. I turned off **Run When My Computer Starts** and turn on **Hide Game Library**.  I also turn off all notifications as I don't really need to be bothered by these.  You can set these up to your liking.
+Create a free **Epic Game Account**.  If they request licensing, select the **[Standard License](https://www.unrealengine.com/en-US/license)**.  Now run the **Epic Games Launcher** and select the **Settings** option at the bottom left of the interface. I turned off **Run When My Computer Starts** and turn on **Hide Game Library**.  I also turn off all **Notifications** as I don't really need to be bothered by these.  You can set these up to your liking.
 
 ![Epic games launcher settings](images/EpicSettings.png)
 
@@ -55,7 +55,35 @@ Now you can  leave the **Settings** tab and press the **Unreal Engine** selectio
 
 ![install ue4](images/installUE5.png)
 
-Now that you have finished the tutorial, there is one additional piece of information I would like to add.  I prefer to use the native **File Explorer** in both mac & pc's to launch my projects.  This way if I have multiple versions of the same project I know exactly which one I am working on.  Going through their interface abstracts the location and I have seen people save it to a cloud service, or a duplicate version somewhere else on their hard drive.  Navigate to where you have the stored the **Our First Project** folder.  Look for the *.uproject* file with the project name `OurFirstProject`.  If it has the **Unreal** logo you can double click on it and it will load. If you are on a mac this should be setup from default.  In **Windows 10** it often is not setup. If you can load the uproject succesfully you can skip to [step 8](#user-content-step-8fhiu-small_orange_diamond-small_blue_diamond-small_blue_diamond-small_blue_diamond)
+![](../images/line2.png)
+
+##### `Step 5.`\|`FHIU`| :small_orange_diamond:
+
+Select a directory of where you will install the software.  Now please be aware this takes up a **LOT** of hard drive space so you might want to remove all unecessary files to have as much hard drive as possible.  Expect to need upwards of 50 gigs.
+
+![pick save location](images/PickLocation.png)
+
+
+![](../images/line2.png)
+
+##### `Step 6.`\|`FHIU`| :small_orange_diamond: :small_blue_diamond:
+
+You will also need to select which components to install.  I saved room on my config by removing pressing **Options**. I did not need to install the targets for **Android**, **HoloLens2**, **IOS**, **Linux** or **TVOS**.  Press the <kbd>Apply</kbd> button then <kbd>Install</kbd>.  Now go take a break as this will take over 30 nimutes in most cases.
+
+![unselect uneeded extras](images/removeUnecessaryComp.png)
+
+
+
+![](../images/line2.png)
+
+##### `Step 7.`\|`FHIU`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
+
+The version control that we will be using is **Perforce**.  Download **Perforce Helix P4V Tools]** (https://www.perforce.com/downloads/helix-visual-client-p4v) now. If you are an LSU student you can find more detailed install instructions at [Installing P4V](https://github.com/maubanel/p4v-unreal/blob/main/installing/README.md#user-content-installing-p4v).
+
+![download helix](images/helixP4v.png)
+
+
+ Now that you have finished the tutorial, there is one additional piece of information I would like to add.  I prefer to use the native **File Explorer** in both mac & pc's to launch my projects.  This way if I have multiple versions of the same project I know exactly which one I am working on.  Going through their interface abstracts the location and I have seen people save it to a cloud service, or a duplicate version somewhere else on their hard drive.  Navigate to where you have the stored the **Our First Project** folder.  Look for the *.uproject* file with the project name `OurFirstProject`.  If it has the **Unreal** logo you can double click on it and it will load. If you are on a mac this should be setup from default.  In **Windows 10** it often is not setup. If you can load the uproject succesfully you can skip to [step 8](#user-content-step-8fhiu-small_orange_diamond-small_blue_diamond-small_blue_diamond-small_blue_diamond)
 
 ![Our first project folder](images/OurFirstProjectFolder.jpg)
 
@@ -67,27 +95,16 @@ Click on the `More Apps` link and we will locate it manually.
 
 ![click on more apps](images/MoreApps.jpg)
 
-![](../images/line2.png)
-
-##### `Step 5.`\|`FHIU`| :small_orange_diamond:
- 
 Scroll to the bottom and select the `Look for another app on this PC` link.
 
 ![select look for another app on this pc](images/LookForAnotherApp.jpg)
 
-![](../images/line2.png)
-
-##### `Step 6.`\|`FHIU`| :small_orange_diamond: :small_blue_diamond:
 
 Now locate the folder where you installed this version of Unreal.  By default it will be in `Program Files | Epic Games | UE_4.2X | Engine | Binaries | Win64 | ` and look for the `UE4Editor.exe` and select the <kbd>Open</kbd> button.  This links the Unreal Editor to the`.uproject` file type.  This way when you double click any `.uproject` file it should load it in editor like you want!
 
 ![Go to Epic Games Folder and find UE4Editor.exe and select](images/EpicGamesFolder.jpg)
 
 ![Uproject has a U icon](images/UE4Editor.jpg)
-
-![](../images/line2.png)
-
-##### `Step 7.`\|`FHIU`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Now you should be able to <kbd>RMB</kbd> and select the <kbd>Properties</kbd> button. If you see that it opens with Unreal engine it will work from now on with any new project moving forward!
 
