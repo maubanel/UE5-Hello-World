@@ -10,7 +10,7 @@
 <!-- TOC -->
 ## Table of Contents
 <kbd></kbd> &nbsp;&nbsp; [Installing Unreal & Perforce](first-hour/README.md#user-content-installing-unreal--perforce) <br>
-<kbd></kbd> &nbsp;&nbsp; [Setting Up Unreal & Github](setting-up/README.md#user-content-setting-up-unreal--github)<br>
+<kbd></kbd> &nbsp;&nbsp; [Running Perforce in Unreal](setting-up/README.md#user-content-running-perforce-in-unreal)<br>
 <kbd></kbd> &nbsp;&nbsp; [README.md File](readme/README.md#user-content-readmemd-file)<br>
 <kbd></kbd> &nbsp;&nbsp; [Remaining Github Related Files](ignore-license/README.md#user-content-remaining-github-related-files)<br>
 <kbd></kbd> &nbsp;&nbsp; [Setting up the Map](setting-map/README.md#user-content-setting-up-the-map)<br>
