@@ -78,7 +78,7 @@ You will also need to select which components to install.  I saved room on my co
 
 ##### `Step 7.`\|`FHIU`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-The version control that we will be using is **Perforce**.  If you have access to a P4 server (you can install one on your own) download **[Perforce Helix P4V Tools] (https://www.perforce.com/downloads/helix-visual-client-p4v)**  now. If you are an LSU student you can find more detailed installation instructions at [Installing P4V](https://github.com/maubanel/p4v-unreal/blob/main/installing/README.md#user-content-installing-p4v).
+The version control that we will be using is **Perforce**.  If you have access to a P4 server (you can install one on your own) download **[Perforce Helix P4V Tools](https://www.perforce.com/downloads/helix-visual-client-p4v)**  now. If you are an LSU student you can find more detailed installation instructions at [Installing P4V](https://github.com/maubanel/p4v-unreal/blob/main/installing/README.md#user-content-installing-p4v).
 
 ![download helix](images/helixP4v.png)
 
