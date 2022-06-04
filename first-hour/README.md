@@ -2,7 +2,7 @@
 
 ### Installing Unreal & Perforce
 
-<sub>[home](../README.md#user-content-ue4-hello-world) • [next](../setting-up/README.md#user-content-setting-up-unreal--github)</sub>
+<sub>[home](../README.md#user-content-ue4-hello-world) • [next](../setting-up/README.md#user-content-running-perforce-in-unreal)</sub>
 
 ![](../images/line3.png)
 
@@ -171,5 +171,5 @@ Now you should see a level that looks like this:
 
 ![](../images/line.png)
 
-| [home](../README.md#user-content-ue4-hello-world) | [next](../setting-up/README.md#user-content-setting-up-unreal--github)|
+| [home](../README.md#user-content-ue4-hello-world) | [next](../setting-up/README.md#user-content-running-perforce-in-unreal)|
 |---|---|
