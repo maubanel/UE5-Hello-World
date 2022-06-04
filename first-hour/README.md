@@ -98,24 +98,41 @@ If you are using **Perforce** complete the single **[P4 Workspace GitHub Page](h
 
 Now if you have installed **Perforce** and have access to the repository you should have the **Hello World** folder.  If not you can download it at: [github]().
 
+![](../images/line2.png)
 
+##### `Step 10.`\|`SUU&G`| :large_blue_diamond:
 
- Now that you have finished the tutorial, there is one additional piece of information I would like to add.  I prefer to use the native **File Explorer** in both mac & pc's to launch my projects.  This way if I have multiple versions of the same project I know exactly which one I am working on.  Going through their interface abstracts the location and I have seen people save it to a cloud service, or a duplicate version somewhere else on their hard drive.  Navigate to where you have the stored the **Our First Project** folder.  Look for the *.uproject* file with the project name `OurFirstProject`.  If it has the **Unreal** logo you can double click on it and it will load. If you are on a mac this should be setup from default.  In **Windows 10** it often is not setup. If you can load the uproject succesfully you can skip to [step 8](#user-content-step-8fhiu-small_orange_diamond-small_blue_diamond-small_blue_diamond-small_blue_diamond)
+I prefer to use the native **File Explorer** in both mac & pc's to launch my projects.  This way if I have multiple versions of the same project I know exactly which one I am working on.  Going through their interface abstracts the location and I have seen people save it to a cloud service, or a duplicate version somewhere else on their hard drive.  Navigate to where you have the stored the **Our First Project** folder.  Look for the *.uproject* file with the project name `OurFirstProject`.  If it has the **Unreal** logo you can double click on it and it will load. If you are on a mac this should be setup from default.  In **Windows 10** it often is not setup. If you can load the uproject succesfully you can skip to [step 8](#user-content-step-8fhiu-small_orange_diamond-small_blue_diamond-small_blue_diamond-small_blue_diamond)
 
 ![Our first project folder](images/OurFirstProjectFolder.jpg)
+
+![](../images/line2.png)
+
+##### `Step 11.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: 
 
 If you do not see the Unreal letter in the icon, the PC is not configured to load the project. You need to <kbd>RMB</kbd><kbd>Open With</kbd>. If **UE 4 Editor** shows up select it and go to [step 7](#user-content-step-7fhiu-small_orange_diamond-small_blue_diamond-small_blue_diamond). If not [go to step 4](#user-content-step-4fhiusmall_blue_diamond-small_blue_diamond-small_blue_diamond-small_blue_diamond).
 
 ![.uproject not linked](images/UProjectNotLinked.jpg)
 
+![](../images/line2.png)
+
+##### `Step 12.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
+
 Click on the `More Apps` link and we will locate it manually.
 
 ![click on more apps](images/MoreApps.jpg)
+
+![](../images/line2.png)
+
+##### `Step 13.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
 Scroll to the bottom and select the `Look for another app on this PC` link.
 
 ![select look for another app on this pc](images/LookForAnotherApp.jpg)
 
+![](../images/line2.png)
+
+##### `Step 14.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
 Now locate the folder where you installed this version of Unreal.  By default it will be in `Program Files | Epic Games | UE_4.2X | Engine | Binaries | Win64 | ` and look for the `UE4Editor.exe` and select the <kbd>Open</kbd> button.  This links the Unreal Editor to the`.uproject` file type.  This way when you double click any `.uproject` file it should load it in editor like you want!
 
@@ -123,13 +140,25 @@ Now locate the folder where you installed this version of Unreal.  By default it
 
 ![Uproject has a U icon](images/UE4Editor.jpg)
 
+![](../images/line2.png)
+
+##### `Step 15.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond:
+
 Now you should be able to <kbd>RMB</kbd> and select the <kbd>Properties</kbd> button. If you see that it opens with Unreal engine it will work from now on with any new project moving forward!
 
 ![Select uproject properties](images/UE4EdtiorInProps.jpg)
 
+##### `Step 16.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
+
+![](../images/line2.png)
+
 Lets now go back to the test level.  Go to **Content Browser** and press the <kbd>Filters</kbd> dropdown and select `Level`.  Double click the **TestLevel** (empty level you created in the above walk through with just a floor and atmosphere.
 
 ![Reload test level](images/ReloadTestLevel.jpg)
+
+![](../images/line2.png)
+
+##### `Step 17.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Now you should see a level that looks like this:
 
