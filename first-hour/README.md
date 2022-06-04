@@ -82,6 +82,23 @@ The version control that we will be using is **Perforce**.  If you have access t
 
 ![download helix](images/helixP4v.png)
 
+![](../images/line2.png)
+
+##### `Step 8.`\|`FHIU`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+If you are using **Perforce** complete the single **[P4 Workspace GitHub Page](https://www.perforce.com/downloads/helix-visual-client-p4v)** for creating a workspace directory.
+
+![create workspace](images/createWorkspace.png)
+
+
+
+![](../images/line2.png)
+
+##### `Step 9.`\|`FHIU`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Now if you have installed **Perforce** and have access to the repository you should have the **Hello World** folder.  If not you can download it at: [github]().
+
+
 
  Now that you have finished the tutorial, there is one additional piece of information I would like to add.  I prefer to use the native **File Explorer** in both mac & pc's to launch my projects.  This way if I have multiple versions of the same project I know exactly which one I am working on.  Going through their interface abstracts the location and I have seen people save it to a cloud service, or a duplicate version somewhere else on their hard drive.  Navigate to where you have the stored the **Our First Project** folder.  Look for the *.uproject* file with the project name `OurFirstProject`.  If it has the **Unreal** logo you can double click on it and it will load. If you are on a mac this should be setup from default.  In **Windows 10** it often is not setup. If you can load the uproject succesfully you can skip to [step 8](#user-content-step-8fhiu-small_orange_diamond-small_blue_diamond-small_blue_diamond-small_blue_diamond)
 
@@ -110,17 +127,9 @@ Now you should be able to <kbd>RMB</kbd> and select the <kbd>Properties</kbd> bu
 
 ![Select uproject properties](images/UE4EdtiorInProps.jpg)
 
-![](../images/line2.png)
-
-##### `Step 8.`\|`FHIU`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
 Lets now go back to the test level.  Go to **Content Browser** and press the <kbd>Filters</kbd> dropdown and select `Level`.  Double click the **TestLevel** (empty level you created in the above walk through with just a floor and atmosphere.
 
 ![Reload test level](images/ReloadTestLevel.jpg)
-
-![](../images/line2.png)
-
-##### `Step 9.`\|`FHIU`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Now you should see a level that looks like this:
 
