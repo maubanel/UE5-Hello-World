@@ -166,7 +166,8 @@ Now you should see a level that looks like this:
 
 ![](../images/line.png)
 
-<img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - Setting Up Unreal and Github">
+![Next up - running perforce in ue5](images/nextUp.png)
+
 
 ![](../images/line.png)
 
