@@ -96,17 +96,17 @@ If you are using **Perforce** complete the single **[P4 Workspace GitHub Page](h
 
 ##### `Step 9.`\|`FHIU`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now if you have installed **Perforce** and have access to the repository you should have the **Hello World** folder.  If not you can download it at: [github]().
+Now if you have installed **Perforce** and have access to the repository you should have the **Hello World** folder.  If not you can download it at: [github]() and skip **Step 10**.
 
 ![](../images/line2.png)
 
 ##### `Step 10.`\|`SUU&G`| :large_blue_diamond:
 
+Now you will have your **Hello** world folder in the project you either downloaded above or with **Perforce**.  
+
 It is good practice to run **UE5** while you have **P4V** loaded.  So it is good practice to double click the project within **P4V** to launch it.  
 
-Sometimes Unreal doesn't register the `.uprovect1` with windows so only complete the following steps if it will not open the project directly. If not [go to step 4](#user-content-step-4fhiusmall_blue_diamond-small_blue_diamond-small_blue_diamond-small_blue_diamond).
 
-In **P4V** right mouse click on the `.uproject` file and select <kbd>Show In | Show in Explorer</kbd>.
 
 ![.uproject not linked](images/UProjectNotLinked.png)
 
@@ -114,6 +114,10 @@ In **P4V** right mouse click on the `.uproject` file and select <kbd>Show In | S
 ![](../images/line2.png)
 
 ##### `Step 11.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: 
+
+Sometimes Unreal doesn't register the `.uprovect1` with windows so only complete the following steps if it will not open the project directly. If not [go to step 4](#user-content-step-4fhiusmall_blue_diamond-small_blue_diamond-small_blue_diamond-small_blue_diamond).
+
+In **P4V** right mouse click on the `.uproject` file and select <kbd>Show In | Show in Explorer</kbd>.
 
 Click on the `More Apps` link and we will locate it manually.
 
