@@ -106,7 +106,7 @@ Now you will have your **Hello** world folder in the project you either download
 
 It is good practice to run **UE5** while you have **P4V** loaded.  So it is good practice to double click the project within **P4V** to launch it.  
 
-![double click uproject file(images/clickuproject.png)
+![double click uproject file](images/clickuproject.png)
 
 
 ![](../images/line2.png)
