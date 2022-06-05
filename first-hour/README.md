@@ -152,17 +152,10 @@ Now locate the folder where you installed this version of Unreal.  By default it
 
 ##### `Step 16.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-Now you should be able to <kbd>RMB</kbd> and select the <kbd>Properties</kbd> button. If you see that it opens with Unreal engine it will work from now on with any new project moving forward!
+Now you should be able to <kbd>RMB</kbd> and select the <kbd>Properties</kbd> button. If you see that it opens with Unreal engine it will work from now on with any new project moving forward! Now you can go back to **[Step 10](#user-content-step-10suug-large_blue_diamond)** to run the project from **P4V**.
 
 ![Select uproject properties](images/UE4EdtiorInProps.jpg)
 
-Lets now go back to the test level.  Go to **Content Browser** and press the <kbd>Filters</kbd> dropdown and select `Level`.  Double click the **TestLevel** (empty level you created in the above walk through with just a floor and atmosphere.
-
-![Reload test level](images/ReloadTestLevel.jpg)
-
-Now you should see a level that looks like this:
-
-![Reload test level](images/StartingPointTestLevel.jpg)
 
 
 ![](../images/line.png)
