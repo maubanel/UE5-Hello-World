@@ -106,7 +106,7 @@ It is good practice to run **UE5** while you have **P4V** loaded.  So it is good
 
 Sometimes Unreal doesn't register the `.uprovect1` with windows so only complete the following steps if it will not open the project directly. If not [go to step 4](#user-content-step-4fhiusmall_blue_diamond-small_blue_diamond-small_blue_diamond-small_blue_diamond).
 
-In **P4V** right mouse click on the `.uproject` file and select <kbd>Open With</kbd>.
+In **P4V** right mouse click on the `.uproject` file and select <kbd>Show In | Show in Explorer</kbd>.
 
 ![.uproject not linked](images/UProjectNotLinked.png)
 
