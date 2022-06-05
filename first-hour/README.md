@@ -104,19 +104,17 @@ Now if you have installed **Perforce** and have access to the repository you sho
 
 It is good practice to run **UE5** while you have **P4V** loaded.  So it is good practice to double click the project within **P4V** to launch it.  
 
-Sometimes Unreal doesn't register the `.uprovect1` with windows so only complete the following steps if it will not open the project directly.
+Sometimes Unreal doesn't register the `.uprovect1` with windows so only complete the following steps if it will not open the project directly. If not [go to step 4](#user-content-step-4fhiusmall_blue_diamond-small_blue_diamond-small_blue_diamond-small_blue_diamond).
 
-Navigate to where you have the stored the **Our First Project** folder.  Look for the *.uproject* file with the project name `OurFirstProject`.  If it has the **Unreal** logo you can double click on it and it will load. If you are on a mac this should be setup from default.  In **Windows 10** it often is not setup. If you can load the uproject succesfully you can skip to [step 8](#user-content-step-8fhiu-small_orange_diamond-small_blue_diamond-small_blue_diamond-small_blue_diamond)
+If you do not see the Unreal letter in the icon, the PC is not configured to load the project. You need to <kbd>RMB</kbd><kbd>Open With</kbd>. 
+![.uproject not linked](images/UProjectNotLinked.jpg)
 
-![Our first project folder](images/OurFirstProjectFolder.jpg)
 
 ![](../images/line2.png)
 
 ##### `Step 11.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: 
 
-If you do not see the Unreal letter in the icon, the PC is not configured to load the project. You need to <kbd>RMB</kbd><kbd>Open With</kbd>. If **UE 4 Editor** shows up select it and go to [step 7](#user-content-step-7fhiu-small_orange_diamond-small_blue_diamond-small_blue_diamond). If not [go to step 4](#user-content-step-4fhiusmall_blue_diamond-small_blue_diamond-small_blue_diamond-small_blue_diamond).
 
-![.uproject not linked](images/UProjectNotLinked.jpg)
 
 ![](../images/line2.png)
 
