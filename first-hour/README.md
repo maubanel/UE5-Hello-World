@@ -142,26 +142,27 @@ Scroll to the bottom and select the `Look for another app on this PC` link.
 
 ![at bottom select look for another app](images/LookForAnotherApp.jpg)
 
-![select look for another app on this pc](images/LookForAnotherApp.jpg)
+![](../images/line2.png)
+
+##### `Step 15.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond:
+
 Now locate the folder where you installed this version of Unreal.  By default it will be in `Program Files | Epic Games | UE_4.2X | Engine | Binaries | Win64 | ` and look for the `UE4Editor.exe` and select the <kbd>Open</kbd> button.  This links the Unreal Editor to the`.uproject` file type.  This way when you double click any `.uproject` file it should load it in editor like you want!
 
 ![Go to Epic Games Folder and find UE4Editor.exe and select](images/EpicGamesFolder.jpg)
 
 ![Uproject has a U icon](images/UE4Editor.jpg)
 
+
+
+##### `Step 16.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
+
 Now you should be able to <kbd>RMB</kbd> and select the <kbd>Properties</kbd> button. If you see that it opens with Unreal engine it will work from now on with any new project moving forward!
 
 ![Select uproject properties](images/UE4EdtiorInProps.jpg)
 
-![](../images/line2.png)
-
-##### `Step 15.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond:
-
 Lets now go back to the test level.  Go to **Content Browser** and press the <kbd>Filters</kbd> dropdown and select `Level`.  Double click the **TestLevel** (empty level you created in the above walk through with just a floor and atmosphere.
 
 ![Reload test level](images/ReloadTestLevel.jpg)
-
-##### `Step 16.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
 Now you should see a level that looks like this:
 
