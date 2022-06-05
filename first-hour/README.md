@@ -106,9 +106,7 @@ Now you will have your **Hello** world folder in the project you either download
 
 It is good practice to run **UE5** while you have **P4V** loaded.  So it is good practice to double click the project within **P4V** to launch it.  
 
-
-
-![.uproject not linked](images/UProjectNotLinked.png)
+![double click uproject file(images/clickuproject.png)
 
 
 ![](../images/line2.png)
@@ -118,6 +116,8 @@ It is good practice to run **UE5** while you have **P4V** loaded.  So it is good
 Sometimes Unreal doesn't register the `.uprovect1` with windows so only complete the following steps if it will not open the project directly. If not [go to step 4](#user-content-step-4fhiusmall_blue_diamond-small_blue_diamond-small_blue_diamond-small_blue_diamond).
 
 In **P4V** right mouse click on the `.uproject` file and select <kbd>Show In | Show in Explorer</kbd>.
+
+UProjectNotLinked
 
 Click on the `More Apps` link and we will locate it manually.
 
