@@ -129,7 +129,7 @@ Sometimes Unreal doesn't register the `.uproject` with windows so only complete 
 
 ##### `Step 13.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Click on the `More Apps` link and we will locate it manually.
+Right click on `.uproject` and select **Open With...**. Click on the `More Apps` link and we will locate it manually.
 
 ![select more apps](images/MoreApps.jpg)
 
