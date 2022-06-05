@@ -86,7 +86,7 @@ The version control that we will be using is **Perforce**.  If you have access t
 
 ##### `Step 8.`\|`FHIU`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-If you are using **Perforce** complete the single **[P4 Workspace GitHub Page](https://github.com/maubanel/p4v-unreal/blob/main/workspaces/README.md#user-content-workspaces-in-p4v)** for creating a workspace directory.
+If you are using **Perforce** complete the single **[P4 Workspace GitHub Page](https://github.com/maubanel/p4v-unreal/blob/main/workspaces/README.md#user-content-workspaces-in-p4v)** for creating a workspace directory then return to this walk through.
 
 ![create workspace](images/createWorkspace.png)
 
