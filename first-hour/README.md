@@ -115,16 +115,19 @@ It is good practice to run **UE5** while you have **P4V** loaded.  So it is good
 
 Now this should load the **UE5** project and you should see the UE5 screen.  If you do you can move to the next step in the [walk throug]().
 
-![ue5 engine loaded](images/loadsUE5.jpg)
-
-
-Sometimes Unreal doesn't register the `.uproject` with windows so only complete the following steps if it will not open the project directly as above. In **P4V** right mouse click on the `.uproject` file and select <kbd>Show In | Show in Explorer</kbd>.
-
-![open uproject in explorer](images/UProjectNotLinked.jpg)
+![ue5 engine loaded](images/loadsUE5.png)
 
 ![](../images/line2.png)
 
 ##### `Step 12.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
+
+Sometimes Unreal doesn't register the `.uproject` with windows so only complete the following steps if it will not open the project directly as above. In **P4V** right mouse click on the `.uproject` file and select <kbd>Show In | Show in Explorer</kbd>.
+
+![open uproject in explorer](images/UProjectNotLinked.png)
+
+![](../images/line2.png)
+
+##### `Step 13.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
 Click on the `More Apps` link and we will locate it manually.
 
@@ -132,14 +135,12 @@ Click on the `More Apps` link and we will locate it manually.
 
 ![](../images/line2.png)
 
-##### `Step 13.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
+##### `Step 14.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
+
 
 Scroll to the bottom and select the `Look for another app on this PC` link.
 
 
-![](../images/line2.png)
-
-##### `Step 14.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
 ![select look for another app on this pc](images/LookForAnotherApp.jpg)
 Now locate the folder where you installed this version of Unreal.  By default it will be in `Program Files | Epic Games | UE_4.2X | Engine | Binaries | Win64 | ` and look for the `UE4Editor.exe` and select the <kbd>Open</kbd> button.  This links the Unreal Editor to the`.uproject` file type.  This way when you double click any `.uproject` file it should load it in editor like you want!
