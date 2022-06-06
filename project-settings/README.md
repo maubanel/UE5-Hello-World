@@ -49,7 +49,7 @@ If it succeeded you will see that it submitted a changelist.  Your number will b
 
  Now close **UE5** and reopen it.  You should see that we are now booting up to the **Hello World** room (albeit looks the same all black).
 
-![boot up to hello world map](images/hw.jpg)
+![boot up to hello world map](images/hw.png)
 
 
 | `ue4.generated.folders`\|`Intermediate & Saved Folders`| 
