@@ -23,9 +23,9 @@ Closwe **UE5** and reopen it.  Does it boot up to the new **Hello World** room? 
 
 ##### `Step 2.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: 
 
-Lets fix it so that the game loads into the level we are working on.  Open up **Edit | Project Settings** and go to **Maps & Modes**.
+Lets fix it so that the game loads into the level we are working on.  Open up **Edit | Project Settings** and go to **Project | Maps & Modes**. Since this is a one level game and we will only be working on this level lets change the map we boot up to in the editor as well as the one we would start with if we packaged this for a game by changing both **Editor Startup Map** and **Game Default Map** to `HelloWorld`.
 
-![git lfs diagram](images/GitLFSDiagram.png)
+![change default startup map](images/changeDefault.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
