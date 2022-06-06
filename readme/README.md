@@ -1,84 +1,108 @@
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
-### README.md File
+### Adding File to Perforce
 
 <sub>[previous](../setting-up/README.md#user-content-setting-up-unreal--github) • [home](../README.md#user-content-ue4-hello-world) • [next](../ignore-license/README.md#user-content-remaining-github-related-files)</sub>
 
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
-Lets create a change on to a single file then update it on **GitHub** with that change.  We will look at editing a single file, commiting it, pushing it to the server then **CHECKING** that it worked.
+Lets add a new file to the project and submit it to **Perforce**. Lets add a new level to the game that we will start working on and call it **HelloWorld**.
 
 <br>
 
 ---
 
 
-##### `Step 1.`\|`SUU&G`|:small_blue_diamond:
+##### `Step 1.`\|`BTS`|:small_blue_diamond:
 
-Every **GitHub** repository has a file called **README.md**.  This is a [Markdown](https://www.markdownguide.org) file which is a simple markup language (like HTML but even simpler).  It is used in many web apps and in all Git repositories.  Look in your project folder and you will see that **Unreal** created a starter file for you.
+Open up your **Workspace** in **P4V** and open up your project by double left mouse clicking on the `.uproject` to open Unreal.
 
+![open up project](images/doubleClickProject.png)
 
-![Show README.md file from GitHub in windows explorer](images/ReadmeInFolder.jpg)
+![](../images/line2.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+##### `Step 2.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: 
 
-##### `Step 2.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: 
+ Now make sure that **Source Control** is green.  If not reconnect to source control by signing back in with **Unreal**.
 
-Open up the **README.md** file in your favorite text editor.  I use **Visual Studio** or **Visual Studio Code** which are both freely available.  You can see that it includes on line 1 `# HelloWorld`. A single pound sign (#) makes that line the equivalent in **HTML** of `<h1>Hello World</h1>`. This if you don't know HTML is a heading (larger font).  Under it is a paragraph with a single line `Developed with Unreal Engine 4`.
+ Press **File | New Level** to load up a new level.
 
-![Show README.md file default content in visual studio code](images/ShowDefaultReadmeInEditor.jpg)
+![add a new level](images/doubleCheckSource.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
-##### `Step 3.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 3.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Let's add our name with a `*` start and space in front.  This will make it an unordered list (bullet point) and add yourself as the author.  Then on the next bullet type in a description of the project, feel free to use mine: `Quick introduction to Unreal Engine 4 and its basic toolsets`. Save this change.
-    
-![Edited README.md file with author and project description](images/EditReadMe.jpg)
+Now select a new **Empty Level** then press the <kbd>Create</kbd> button.
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![create new empty level](images/createEmptyLevel.png)
 
-##### `Step 4.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+![](../images/line2.png)
 
-Now what **GitHub** does is keep track of all changes to the project.  Now since UE4 did an initial **commit** when you created the project the only item to change since then is the **README.md** file which we altered.  Now in the interface we can see all the changes and we can click on the file and see what changed.
+##### `Step 4.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Notice the yellow square next to the file name.  This means the file has changed.  It shows in red on the right what we deleted and in green what was added.
+Open up the **Content Drawer** (you can use the <kbd>Cntrl Space</kbd> as a keyboard shortcut) and right click on **Content** and select `New Folder`.
 
-![GitHub shows diff in README.md](images/ReadMeDiff.jpg)
+![add new folder to content ](images/newFolder.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
-##### `Step 5.`\|`SUU&G`| :small_orange_diamond:
+##### `Step 5.`\|`BTS`| :small_orange_diamond:
 
-Now GitHub gives you a default commit message, in this case saying it updated **HelloWorld**.  Normally we would be working in Unreal and doing this step in Unreal.  Since we are editing a non game file, we will perform the staging (`git add`) and commiting (`git commit`) in **GitHub Desktop**.  
+Call the new folder `Maps`.
 
-Normally we would write a change comment in the commit - but we did just update the one file, a trivial change.  The default message is specific enough. So we can leave it as is and press the <btn>Commit to Master button.
+![call new folder Maps](images/mapsFolder.png)
 
-![Commit to master in GitHub Desktop](images/CommitToMaster.jpg)
+![](../images/line2.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+##### `Step 6.`\|`BTS`| :small_orange_diamond: :small_blue_diamond:
 
-##### `Step 6.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond:
+Now lets save this new level we created.  Press **File | Save Current Level**.
 
-We have just commited updates the database on our local computer.  This is great, but it is not backed up to the server yet.  If we lose our computer we lose our project.  We can push all these changes to the server.  Press the<btn>Push Origin</btn> button and this will then take all the changes you commited and send them to the server. This will also have to be done when working in ***Unreal** as it does not have the ability to **push**in **editor**.
+![alt_text](images/fileSave.png)
 
-![Push to GitHu](images/FirstPublishPush.jpg)
+![](../images/line2.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+##### `Step 7.`\|`BTS`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-##### `Step 7.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
+Select the **Maps** folder and name the level.  I named mine `HelloWorld`.  Press the <kbd>Save</kbd> button.
 
-If it pushed the change to the server you should get some text that says **No local changes**.  This means you are all up to date.  Now to double check that you actually did update the server with the change press the **View on GitHub** button to see it online. You might have to refresh your **GitHub** web page.
+![save level to Maps folder](images/nameFile.png)
 
-![No more changes in GitHub Desktop](images/NoLocalChanges.jpg)
+![](../images/line2.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+##### `Step 8.`\|`BTS`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-##### `Step 8.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+Now right click on your project file and select **Source Control | Check In**.  This will add this file to the **Depot** so other members can **Sync** and see the newly completed level.
 
-Now this takes us online and one thing is clear.  The **README.md** file is rendered as **HTML** at the bottom of the screen and it contains our changes!  The `#` and `*` are replaced with a heading and bullets (unordered list). The powerful part is that the old version still exists as **Git** does not delete anything.  We could always go back and revert to the old version of any file at any point in time.  So not only do we have a backup but unlimed undos to go back in time and recover any old data that we may need.",
+![check in new file](images/chekinNewFile.png)
 
-![Updated project on github.com](images/ViewUpdatedReadme.jpg)
+![](../images/line2.png)
+
+##### `Step 9.`\|`BTS`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Now add an approriate comment to the **Changelist Description**. Make sure the assets are correct, in my case the only thing we are doing is submitting the **Hello World** level to the **Depot**.
+
+Press the <kbd>Submit</kbd> button.
+
+![submit new map to depot](images/addFileToDepot.png)
+
+![](../images/line2.png)
+
+##### `Step 10.`\|`BTS`| :large_blue_diamond:
+
+Now you can confirm in **P4V** that this change was pushed to the server.  Select **View | History** and open that tab.  Click on the project ald look at the list of commits.  We can see the one we just created with our comment.
+
+![commit in repo](images/history.png)
+
+![](../images/line2.png)
+
+##### `Step 11.`\|`BTS`| :large_blue_diamond: :small_blue_diamond: 
+
+You will also notice that in game the **Red X** is no longer on the file name. This indicates that it is in the **Perforce Depot** now.
+
+![no more red x on this file and it is in the depot](images/noMoreIcon.png)
+
 
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
