@@ -105,7 +105,7 @@ You will also notice that in game the **Red X** is no longer on the file name. T
 
 ![](../images/line.png)
 
-![next up project settings](images/banner.png)
+![next up setting up the map](images/banner.png)
 
 ![](../images/line.png)
 
