@@ -2,7 +2,7 @@
 
 ### Adding File to Perforce
 
-<sub>[previous](../running-p4/README.md#user-content-running-perforce-in-unreal) • [home](../README.md#user-content-ue4-hello-world) • [next](../ignore-license/README.md#user-content-remaining-github-related-files)</sub>
+<sub>[previous](../running-p4/README.md#user-content-running-perforce-in-unreal) • [home](../README.md#user-content-ue4-hello-world) • [next](../project-settings/README.md#user-content-project-settings)</sub>
 
 ![](../images/line3.png)
 
@@ -109,5 +109,5 @@ You will also notice that in game the **Red X** is no longer on the file name. T
 
 ![](../images/line.png)
 
-| [previous](../running-p4/README.md#user-content-running-perforce-in-unreal)| [home](../README.md#user-content-ue4-hello-world) | [next](../ignore-license/README.md#user-content-remaining-github-related-files)|
+| [previous](../running-p4/README.md#user-content-running-perforce-in-unreal)| [home](../README.md#user-content-ue4-hello-world) | [next](../project-settings/README.md#user-content-project-settings)|
 |---|---|---|
