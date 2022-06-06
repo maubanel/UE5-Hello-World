@@ -2,7 +2,7 @@
 
 ### Running Perforce in Unreal
 
-<sub>[previous](../first-hour/README.md#user-content-installing-unreal--perforce) • [home](../README.md#user-content-ue4-hello-world) • [next](../readme/README.md#user-content-readmemd-file)</sub>
+<sub>[previous](../installing/README.md#user-content-installing-unreal--perforce) • [home](../README.md#user-content-ue4-hello-world) • [next](../adding-p4/README.md#user-content-adding-file-to-perforce)</sub>
 
 ![](../images/line3.png)
 
@@ -98,6 +98,6 @@ Now that we are set up.  It is best before starting in **UE5** to sync with the 
 
 ![](../images/line.png)
 
-| [previous](../first-hour/README.md#user-content-first-hour-in-ue4)| [home](../README.md#user-content-ue4-hello-world) | [next](../readme/README.md#user-content-readmemd-file)|
+| [previous](../installing/README.md#user-content-installing-unreal--perforce)| [home](../README.md#user-content-ue4-hello-world) | [next](../adding-p4/README.md#user-content-adding-file-to-perforce)|
 |---|---|---|
 
