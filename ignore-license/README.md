@@ -15,19 +15,15 @@ Lets now make a change to an existing file in Perforce.  Lets make this new leve
 
 ##### `Step 1.`\|`SUU&G`|:small_blue_diamond:
 
+Closwe **UE5** and reopen it.  Does it boot up to the new **Hello World** room?  Look at the tab and see what level is loaded.  It says default!
 
-
-![Contents of UE4 .gitignore file](images/FirsLookGitIgnore.jpg)
+![defaylt level load](images/defaultLevel.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 2.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: 
 
-Open the `.gitattributes` file.  It sets every file and folder that is in **Content/** the root folder of ALL the content you will be adding to the project.  This means that it will not download and upload every single revision of a single file and just keep the latest on your local machine.  All the data is still backed up on the server.
-
-So rather than number files like `BoatTexture01.png`, `BoatTexture01.png` & `BoatTexture03.png`. We would leave it as `BoatTexture.png`.  This way GitHub **Only** downloads the version you are currently using but still backs up all previous versions.  This makes **cloning** (starting a new copy of the repository) and **pushing / pulling** much faster.
-
-![Contents of UE4 .gitattributes file](images/GitAttributes.jpg)
+Lets fix it so that the game loads into the level we are working on.  Open up **Edit | Project Settings** and go to **Maps & Modes**.
 
 ![git lfs diagram](images/GitLFSDiagram.png)
 

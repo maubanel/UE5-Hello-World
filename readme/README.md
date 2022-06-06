@@ -107,7 +107,7 @@ You will also notice that in game the **Red X** is no longer on the file name. T
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 
-![next up setting up the map](images/banner.png)
+![next up project settings](images/banner.png)
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 
