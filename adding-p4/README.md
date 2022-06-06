@@ -1,10 +1,10 @@
-<img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
+![](../images/line3.png)
 
 ### Adding File to Perforce
 
 <sub>[previous](../running-p4/README.md#user-content-running-perforce-in-unreal) • [home](../README.md#user-content-ue4-hello-world) • [next](../ignore-license/README.md#user-content-remaining-github-related-files)</sub>
 
-<img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
+![](../images/line3.png)
 
 Lets add a new file to the project and submit it to **Perforce**. Lets add a new level to the game that we will start working on and call it **HelloWorld**.
 
@@ -103,13 +103,11 @@ You will also notice that in game the **Red X** is no longer on the file name. T
 
 ![no more red x on this file and it is in the depot](images/noMoreIcon.png)
 
-
-
-<img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
+![](../images/line.png)
 
 ![next up project settings](images/banner.png)
 
-<img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
+![](../images/line.png)
 
 | [previous](../running-p4/README.md#user-content-running-perforce-in-unreal)| [home](../README.md#user-content-ue4-hello-world) | [next](../ignore-license/README.md#user-content-remaining-github-related-files)|
 |---|---|---|
