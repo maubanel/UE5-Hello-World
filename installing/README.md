@@ -2,7 +2,7 @@
 
 ### Installing Unreal & Perforce
 
-<sub>[home](../README.md#user-content-ue4-hello-world) • [next](../setting-up/README.md#user-content-running-perforce-in-unreal)</sub>
+<sub>[home](../README.md#user-content-ue4-hello-world) • [next](../running-p4/README.md#user-content-running-perforce-in-unreal)</sub>
 
 ![](../images/line3.png)
 
@@ -165,5 +165,5 @@ Now you should be able to <kbd>RMB</kbd> and select the <kbd>Properties</kbd> bu
 
 ![](../images/line.png)
 
-| [home](../README.md#user-content-ue4-hello-world) | [next](../setting-up/README.md#user-content-running-perforce-in-unreal)|
+| [home](../README.md#user-content-ue4-hello-world) | [next](../running-p4/README.md#user-content-running-perforce-in-unreal)|
 |---|---|

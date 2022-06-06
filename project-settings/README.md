@@ -2,7 +2,7 @@
 
 ### Project Settings
 
-<sub>[previous](../readme/README.md#user-content-readmemd-file) • [home](../README.md#user-content-ue4-hello-world) • [next](../setting-map/README.md#user-content-setting-up-the-map)</sub>
+<sub>[previous](../adding-p4/README.md#user-content-adding-file-to-perforce) • [home](../README.md#user-content-ue4-hello-world) • [next](../setting-map/README.md#user-content-setting-up-the-map)</sub>
 
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
@@ -117,5 +117,5 @@ Now compare what we have on **GitHub** versus what we have on our hard drive.  N
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 
-| [previous](../readme/README.md#user-content-readmemd-file)| [home](../README.md#user-content-ue4-hello-world) | [next](../setting-map/README.md#user-content-setting-up-the-map)|
+| [previous](../adding-p4/README.md#user-content-adding-file-to-perforce)| [home](../README.md#user-content-ue4-hello-world) | [next](../setting-map/README.md#user-content-setting-up-the-map)|
 |---|---|---|
