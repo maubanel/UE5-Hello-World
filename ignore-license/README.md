@@ -17,7 +17,7 @@ Lets now make a change to an existing file in Perforce.  Lets make this new leve
 
 Closwe **UE5** and reopen it.  Does it boot up to the new **Hello World** room?  Look at the tab and see what level is loaded.  It says default!
 
-![defaylt level load](images/defaultLevel.jpg)
+![defaylt level load](images/defaultLevel.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
