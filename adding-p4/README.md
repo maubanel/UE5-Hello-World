@@ -2,7 +2,7 @@
 
 ### Adding File to Perforce
 
-<sub>[previous](../setting-up/README.md#user-content-setting-up-unreal--github) • [home](../README.md#user-content-ue4-hello-world) • [next](../ignore-license/README.md#user-content-remaining-github-related-files)</sub>
+<sub>[previous](../running-p4/README.md#user-content-running-perforce-in-unreal) • [home](../README.md#user-content-ue4-hello-world) • [next](../ignore-license/README.md#user-content-remaining-github-related-files)</sub>
 
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
@@ -111,5 +111,5 @@ You will also notice that in game the **Red X** is no longer on the file name. T
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 
-| [previous](../setting-up/README.md#user-content-setting-up-unreal--github)| [home](../README.md#user-content-ue4-hello-world) | [next](../ignore-license/README.md#user-content-remaining-github-related-files)|
+| [previous](../running-p4/README.md#user-content-running-perforce-in-unreal)| [home](../README.md#user-content-ue4-hello-world) | [next](../ignore-license/README.md#user-content-remaining-github-related-files)|
 |---|---|---|
