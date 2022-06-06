@@ -31,9 +31,9 @@ Lets fix it so that the game loads into the level we are working on.  Open up **
 
 ##### `Step 3.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Go back to **github.com** and lets add a **License** file to the project.  Make sure you are at the root folder that contains the **OurFirstProject.uprojet** file. I release all the exercises I have created under the open source [MIT](https://opensource.org/licenses/MIT) license. This allows you to use any of these assets in any project you would like, personal or commercial.  All you have to do is credit the work.  Press the **Add file | Create new file** button.
+Now press the <kbd>Source Control</kbd> button at the bottom right and select **Submit Content**.  Then type in an appropriate message and finish by pressing the <kbd>Submit</kbd> button to post it to **Perforce**.
 
-![GitHub Add File](images/AddLicenseFile.jpg)
+![Commit change to P4](images/commitToP4.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
