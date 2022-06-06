@@ -39,9 +39,9 @@ Now press the <kbd>Source Control</kbd> button at the bottom right and select **
 
 ##### `Step 4.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Call the file `LICENSE` (all caps).  Press the **Choose a license template** button.
+If it succeeded you will see that it submitted a changelist.  Your number will be different than mine.
 
-![GitHub name file LICNESE](images/AddLicenseName.jpg)
+![GitHub name file LICNESE](images/submitChangelist.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
