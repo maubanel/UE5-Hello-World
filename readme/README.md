@@ -107,7 +107,7 @@ You will also notice that in game the **Red X** is no longer on the file name. T
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 
-<img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - Remaining Github Related Files">
+![next up setting up the map](images/banner.png)
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 
