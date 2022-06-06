@@ -63,7 +63,7 @@ If it succeeded you will see that it submitted a changelist.  Your number will b
 
 ![next up setting up the map](images/banner.png)
 
-![](../images/line.png)
+![](images/banner.png)
 
 | [previous](../adding-p4/README.md#user-content-adding-file-to-perforce)| [home](../README.md#user-content-ue4-hello-world) | [next](../setting-map/README.md#user-content-setting-up-the-map)|
 |---|---|---|
