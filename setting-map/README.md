@@ -70,7 +70,9 @@ So the triangles determine the general form of the 3-D model.  We also have a **
 
 ##### `Step 8.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt text](images/.png)
+This is a material editor that includes a node chart that adds surface detail to our 3-D topology.  The result is mapped to a sphere and you can see it in the top left corner. Understanding this at this point is not important, except that we do not see the triangles they are represented by pixels from the material.  
+
+![material editor](images/mat.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
