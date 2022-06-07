@@ -6,7 +6,7 @@
 
 ![](../images/line3.png)
 
-Now lets add the floor to the level.
+Now lets add the floor static mesh we looked at to the level as it is completely empty.
 
 <br>
 
@@ -15,13 +15,17 @@ Now lets add the floor to the level.
 
 ##### `Step 1.`\|`UE5HW`|:small_blue_diamond:
 
-![alt text](images/.jpg)
+Make sure you booted up the game from **P4V** and that **Source Control** is green.  Make sure you are in the **Hello World** level. Now access the **Content Drawer** (<kbd>Cntrl Space</kbd>) and select the **Static Mesh** folder and drag `SM_Floor` into the level.  Notice everything is black. It did add an instance of the loor to the **Outliner**.
+
+![drag SM_Floor into level](images/DragStaticMesh.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 2.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: 
 
-![alt text](images/.jpg)
+Now the scene is black as there is no sky and no light in the scene.  So the pixels are in the darkness of deep space.  Click on the <kbd>Lit</kbd> button at the top left of the editor game scene and change the lighting mode to **Unlit**.
+
+![switch to unlit mode](images/unlitMode.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
