@@ -51,6 +51,17 @@ A static mesh is made up of triangles under the surface.  Take a look at the vid
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U93RImC-by4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+It's true that the readme.md itself cannot have embedded videos but a GitHub.io page is allowed to. Here I have an old video example still working today, proving that GitHub does allow videos.
+
+Solution:
+
+Replace your line:
+
+<iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/{% "eBzTCbGnlWo" %}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+With this modified version:
+
+<iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/LgWX2sPZQsE/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
