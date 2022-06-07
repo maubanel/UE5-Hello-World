@@ -86,7 +86,9 @@ Now you will notice that all the nodes go to the **Result Node** in the node cha
 
 ##### `Step 10.`\|`UE5HW`| :large_blue_diamond:
 
-![alt text](images/.png)
+We have the **Texture Sample** node that contains a pink texture that goes to a **Multiply** node that then goes to the *Base Color** in the **Result Node**.
+
+![base color flowchart](images/baseColorWF.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
