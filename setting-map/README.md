@@ -6,7 +6,7 @@
 
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
-Chapter introduction here.
+Now lets add our **Actor** to our new **Hello World** level.  We will look at a static mesh, textures and a material.  We will also add a light to a scene so we can see the objects.
 
 <br>
 
@@ -15,17 +15,9 @@ Chapter introduction here.
 
 ##### `Step 1.`\|`SUU&G`|:small_blue_diamond:
 
-OK, lets open Unreal again.  Got to the **Levels** folder and open up **TestLevel**.
+OK, lets open **UE5**** again through **P4V**.  
 
-![run unreal and load test level](images/LoadTestLevel.jpg)
-
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
-
-##### `Step 2.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: 
-
-Now we currently don't load to this map when we run **Unreal**.  Lets set this level as the default level to load.  Press the <kbd>Settings</kbd> button and select **Project Settings**.
-
-![open project settings](images/OpenProjectSettings.jpg)
+![Add three new folders to contents](images/addNewFolder.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
