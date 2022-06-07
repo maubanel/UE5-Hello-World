@@ -123,7 +123,9 @@ So what does the multiply node do?  If we don't multiply our color is more like 
 
 ##### `Step 14.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt text](images/.png)
+ Now lets move these assets to the appropriate folders.  Open up the **Content Drawer** (<kbd>Cntrl Space</kbd>) and drag and drop `SM_Floor` into the **StaticMeshes** folder.
+
+![drag sm_floor to StaticMeshes folder](images/movetoSM.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
