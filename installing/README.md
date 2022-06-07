@@ -100,7 +100,7 @@ Now if you have installed **Perforce** and have access to the repository you sho
 
 ![](../images/line2.png)
 
-##### `Step 10.`\|`SUU&G`| :large_blue_diamond:
+##### `Step 10.`\|`UE5HW`| :large_blue_diamond:
 
 Now you will have your **Hello** world folder in the project you either downloaded above or with **Perforce**.  
 
@@ -111,7 +111,7 @@ It is good practice to run **UE5** while you have **P4V** loaded.  So it is good
 
 ![](../images/line2.png)
 
-##### `Step 11.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: 
+##### `Step 11.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: 
 
 Now this should load the **UE5** project and you should see the UE5 screen.  If you do you can move to the next step in the [walk through]() and skip the following steps.
 
@@ -119,7 +119,7 @@ Now this should load the **UE5** project and you should see the UE5 screen.  If 
 
 ![](../images/line2.png)
 
-##### `Step 12.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
+##### `Step 12.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
 Sometimes Unreal doesn't register the `.uproject` with windows so only complete the following steps if it will not open the project directly as above. In **P4V** right mouse click on the `.uproject` file and select <kbd>Show In | Show in Explorer</kbd>.
 
@@ -127,7 +127,7 @@ Sometimes Unreal doesn't register the `.uproject` with windows so only complete 
 
 ![](../images/line2.png)
 
-##### `Step 13.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
+##### `Step 13.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
 Right click on `.uproject` and select **Open With...**. Click on the `More Apps` link and we will locate it manually.
 
@@ -135,7 +135,7 @@ Right click on `.uproject` and select **Open With...**. Click on the `More Apps`
 
 ![](../images/line2.png)
 
-##### `Step 14.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
+##### `Step 14.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
 
 Scroll to the bottom and select the `Look for another app on this PC` link.
@@ -144,13 +144,13 @@ Scroll to the bottom and select the `Look for another app on this PC` link.
 
 ![](../images/line2.png)
 
-##### `Step 15.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond:
+##### `Step 15.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond:
 
 Now locate the folder where you installed this version of Unreal.  By default it will be in `Program Files | Epic Games | UE_5.0 | Engine | Binaries | Win64 | ` and look for the `UE4Editor.exe` and select the <kbd>Open</kbd> button.  This links the Unreal Editor to the`.uproject` file type.  This way when you double click any `.uproject` file it should load it in editor like you want!
 
 ![Go to Epic Games Folder and find UE4Editor.exe and select](images/EpicGamesFolder.png)
 
-##### `Step 16.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
+##### `Step 16.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
 Now you should be able to <kbd>RMB</kbd> and select the <kbd>Properties</kbd> button. If you see that it opens with Unreal engine it will work from now on with any new project moving forward! Now you can go back to **[Step 10](#user-content-step-10suug-large_blue_diamond)** to run the project from **P4V**.
 

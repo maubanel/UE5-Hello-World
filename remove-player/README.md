@@ -13,7 +13,7 @@ Unreal autoamtically loads up a player in most templates.  That is why we place 
 ---
 
 
-##### `Step 1.`\|`SUU&G`|:small_blue_diamond:
+##### `Step 1.`\|`UE5HW`|:small_blue_diamond:
 
 Instead of having the camera on the player pawn that spawns, lets have a predefined camera.  Go to **Modes** and type `Camera` and drag a **Camera** into the scene.  
 
@@ -35,7 +35,7 @@ Open the newly created **Blueprint**.  In the **Components** tab, press the **+ 
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 3.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 3.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Press **+ Add Component** again and add a `Rotating Movement` component.
 
@@ -43,7 +43,7 @@ Press **+ Add Component** again and add a `Rotating Movement` component.
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 4.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 4.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 The camera needs to be around 3/4 of the length of the ground surface away from the billboard.  The billboard will be in the middle of the floor and the camera will look at it and rotate around it.  This will take some trial and error but for now select the **Camera Component** and move it away with the **Red** arrow from the **Billboard**.
 
@@ -51,7 +51,7 @@ The camera needs to be around 3/4 of the length of the ground surface away from 
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 5.`\|`SUU&G`| :small_orange_diamond:
+##### `Step 5.`\|`UE5HW`| :small_orange_diamond:
 
 Drag the **BP_Camera_Actor** to the scene.  Make sure the billboard component is at **Location** at the point where you want to rotate.  Make sure the **Camera Component** is far enough away.  Go back to the blueprint and adjust the distance.  Use the camera preview to see the framing of the camera. I have it here so that the object is position and rotated with the pivot point in the right place.
 
@@ -59,7 +59,7 @@ Drag the **BP_Camera_Actor** to the scene.  Make sure the billboard component is
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 6.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond:
+##### `Step 6.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond:
 
 Now we do not want to spawn the third person character.  This can be found in the **Game Mode** blueprint. We do not want to change the existing one as it works with the existing levels in our game.  Go to the **LearningKit_Games | Blueprints | GameFramework** folder and press the <kbd>Add/Import</kbd> button and select <kbd>Blueprint Class</kbd>. Now select the <kbd>Game Mode Base</kbd> class for this blueprint.  Call this blueprint `BP_HelloWorldGameMode`.
 
@@ -69,7 +69,7 @@ Now we do not want to spawn the third person character.  This can be found in th
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 7.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 7.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Open up the game mode blueprint and change the **Default Pawn** to `none`.
 
@@ -77,7 +77,7 @@ Open up the game mode blueprint and change the **Default Pawn** to `none`.
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 8.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 8.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 There are two places we can select the level blueprint.  In the **Project Settings | Maps & Modes** we can set it for the entire project.  We will leave this alone as it works with their test level in the framework we imported.  
 
@@ -91,7 +91,7 @@ We can have a unique gamemode for a specific level.  This is done by going to th
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 9.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 9.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Press the **Play** button and we no longer see the third person pawn.  We DO NOT see the camera rotate around the object.  Woops the camera is static.  What is happening?  The game is still using the spectator pawn camera will not use this camera unless you tell it to. Notice it spawns a second camera that in my case points at nothing.  It must be bound to the **Default Pawn** as the camera moves when I press **WASD** on the keyboard.  
 
@@ -105,7 +105,7 @@ Lets fix this and use our desired camera.
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 10.`\|`SUU&G`| :large_blue_diamond:
+##### `Step 10.`\|`UE5HW`| :large_blue_diamond:
 
 Every level comes with its own blueprint where you can put level specific scripts.  When you save a map/level the game automatically creates a level blueprint.  This is where we will tell the game to use our new camera.  You can load it by pressing the <kbd>Blueprints</kbd> button and select **Open Level Blueprint**.
 
@@ -114,7 +114,7 @@ Every level comes with its own blueprint where you can put level specific script
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 11.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: 
+##### `Step 11.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: 
 
 Now you can see that the blueprint has the same name as the map.  Make sure you are in the **Event Graph**, this is where all your game logic will go.  Notice the **Begin Play Event**.  This event will run **once** when you start the game.  So our script needs to make our new camera the game camera instead of the spectator pawn.  Right click on the graph and search for a **GetPlayerController** node.
 
@@ -123,7 +123,7 @@ Now you can see that the blueprint has the same name as the map.  Make sure you 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 
-##### `Step 12.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
+##### `Step 12.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
 Pull off of the **Return Value** pin and add a **Set View Target with Blend** node.
 
@@ -131,7 +131,7 @@ Pull off of the **Return Value** pin and add a **Set View Target with Blend** no
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 13.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
+##### `Step 13.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
 Go to the game window and select the Camera blueprint actor in the scene.
 
@@ -139,7 +139,7 @@ Go to the game window and select the Camera blueprint actor in the scene.
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 14.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
+##### `Step 14.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
 Go back to the **Blueprint** and right click on the graph.  Select **Create a Reference to BP_Camera**.  Connect the **Execution** pin from the **Begin Play** node and send it to the **Set View Target With Blend** execution pin.  Connect the output of the camera node to the **Get Player Controller** pin in the **Target** node. 
 
@@ -153,7 +153,7 @@ Connect the output of the camera node to the **New View Target** pin in the **Se
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 15.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond: 
+##### `Step 15.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: 
 
 Compile the blueprint then go to the game and press run.  The camera should now rotate around the billboard showing off your work.  It is a bit fast though..
 
@@ -161,7 +161,7 @@ https://user-images.githubusercontent.com/5504953/125641441-45be20f1-9b1b-45eb-8
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 16.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
+##### `Step 16.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
 Lets adjust the speed and position of the camera.  Open the **BP_Camera_Actor** blueprint.  Select the **Rotating Movement** component. Change the  **Rotation Rate | Z** value from `180` degrees per second to `20`.
 
@@ -169,7 +169,7 @@ https://user-images.githubusercontent.com/5504953/125643100-a0516b9e-2196-4926-8
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 17.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 17.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
 
 Now to reverse the direction we just make it `-20` degrees per second on the **Rotation Rate | Z** value and the camera will rotate in the opposite direction.
@@ -178,7 +178,7 @@ https://user-images.githubusercontent.com/5504953/125643160-362f4528-c409-40ba-b
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 18.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 18.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Create the rest of the letters to spell out the words **Hello World**.  Play around with the different static meshes and effects they provide to make it look as cool as you can.  You might have to adjust the size of the letters so they all fit on the ground (or expand the ground plane). Your final project should look something like this. Make sure you name your files appropriately and put all your cubes in folders that are clearly labelled.
 

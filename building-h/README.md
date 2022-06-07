@@ -13,7 +13,7 @@ Chapter introduction here.
 ---
 
 
-##### `Step 1.`\|`SUU&G`|:small_blue_diamond:
+##### `Step 1.`\|`UE5HW`|:small_blue_diamond:
 
 Unreal uses a 3-D left-handed [cartesian coordinate system](https://en.wikipedia.org/wiki/Cartesian_coordinate_system).  `x` is facing forward with positive `x` to the front away from you.  `z` is up and down with positive being `z` up.  Finally, `y` is left and right with positive `y` being towards the right. We will look at placing our letters with X facing forward, Z up and Y to the right.
 
@@ -29,7 +29,7 @@ I am going to start building the letter **H** with cube meshes.  Now the project
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 3.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 3.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Double click on the puzzle cube static mesh and look at it in the editor. Noitce that it has a static mesh and material associated with it.  
 
@@ -37,7 +37,7 @@ Double click on the puzzle cube static mesh and look at it in the editor. Noitce
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 4.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 4.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Back in the content browser put your cursor on the puzzle piece and notice that it is **100 x 100 x 100**.  This means that we can set the translation distance to **100** so that it can perfectly snap to the right spot.
 
@@ -48,7 +48,7 @@ Back in the content browser put your cursor on the puzzle piece and notice that 
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 5.`\|`SUU&G`| :small_orange_diamond:
+##### `Step 5.`\|`UE5HW`| :small_orange_diamond:
 
 Drag the cube into the scene. on top of the ground pieces that are already there.
 
@@ -56,14 +56,14 @@ Drag the cube into the scene. on top of the ground pieces that are already there
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 6.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond:
+##### `Step 6.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond:
 Now rather than trying to guess where the ground is there is a hot key to snap the object to the lowerst part of the surface (down on the **Z** axis).  So the <kbd>end</kbd> key snaps to ground.
 
 ![alt text](images/PressEnd.gif)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 7.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 7.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Now since we have set the snap to **100** we can press the <kbd>alt</kbd> key and pull the handle up once to duplicate the cube.  Do this 5 times to build up the left wall of the letter **H**.
 
@@ -71,7 +71,7 @@ Now since we have set the snap to **100** we can press the <kbd>alt</kbd> key an
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 8.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 8.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 <kbd>shift</kbd> select the 5 cubes and <kbd>alt</kbd> click and drag a duplicate to get the right side of the letter **H**.
 
@@ -79,13 +79,13 @@ Now since we have set the snap to **100** we can press the <kbd>alt</kbd> key an
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 9.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 9.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Add the middle portion of the H on your own.  Lets look now at altering the color of the cubes.
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 10.`\|`SUU&G`| :large_blue_diamond:
+##### `Step 10.`\|`UE5HW`| :large_blue_diamond:
 
 We can change the material of the cube to get a different color combination.  Go to the **Material** folder under the puzzle piece and you will find multiple difference **Material Instances**.  These are the same underpinnings of a material with different settings (in this case color).  We will look at this in the next section.  For now select a group of cubes and drag the different materials to see the different color combinations you can achieve.
 
@@ -93,7 +93,7 @@ We can change the material of the cube to get a different color combination.  Go
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 11.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: 
+##### `Step 11.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: 
 
 I settled on a green middle for the H.
 
@@ -102,7 +102,7 @@ I settled on a green middle for the H.
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 
-##### `Step 12.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
+##### `Step 12.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
 There are lots of cool items that we can add to liven up our level.  I am going to add a player idle animation who will stand on the middle H.
 
@@ -110,7 +110,7 @@ There are lots of cool items that we can add to liven up our level.  I am going 
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 13.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
+##### `Step 13.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
 Press the **Play** button to see our work.  Woops, we get sent into third person view.  What if we just want the camera to rotate around our letter?  Lets do that next.
 

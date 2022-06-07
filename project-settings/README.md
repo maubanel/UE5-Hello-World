@@ -13,7 +13,7 @@ Lets now make a change to an existing file in Perforce.  Lets make this new leve
 ---
 
 
-##### `Step 1.`\|`SUU&G`|:small_blue_diamond:
+##### `Step 1.`\|`UE5HW`|:small_blue_diamond:
 
 Closwe **UE5** and reopen it.  Does it boot up to the new **Hello World** room?  Look at the tab and see what level is loaded.  It says default!
 
@@ -29,7 +29,7 @@ Lets fix it so that the game loads into the level we are working on.  Open up **
 
 ![](../images/line2.png)
 
-##### `Step 3.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 3.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Now press the <kbd>Source Control</kbd> button at the bottom right and select **Submit Content**.  Then type in an appropriate message and finish by pressing the <kbd>Submit</kbd> button to post it to **Perforce**.
 
@@ -37,7 +37,7 @@ Now press the <kbd>Source Control</kbd> button at the bottom right and select **
 
 ![](../images/line2.png)
 
-##### `Step 4.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 4.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 If it succeeded you will see that it submitted a changelist.  Your number will be different than mine.
 
@@ -45,7 +45,7 @@ If it succeeded you will see that it submitted a changelist.  Your number will b
 
 ![](../images/line2.png)
 
-##### `Step 5.`\|`SUU&G`| :small_orange_diamond:
+##### `Step 5.`\|`UE5HW`| :small_orange_diamond:
 
  Now close **UE5** and reopen it.  You should see that we are now booting up to the **Hello World** room (albeit looks the same all black).
 

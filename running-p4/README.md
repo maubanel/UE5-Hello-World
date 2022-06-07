@@ -29,7 +29,7 @@ All of these problems can be avoided if we use **version control** to back up ou
 ---
 
 
-##### `Step 1.`\|`BTS`|:small_blue_diamond:
+##### `Step 1.`\|`UE5HW`|:small_blue_diamond:
 
 It is best practice to have **P4V** running when working in **UE5**.  To make sure you are doing this, it is good to launch the game from within the **P4V** interface.  Double click on the `.uproject` within **P4V** to open the project.
 
@@ -37,7 +37,7 @@ It is best practice to have **P4V** running when working in **UE5**.  To make su
 
 ![](../images/line2.png)
 
-##### `Step 2.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: 
+##### `Step 2.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: 
 
 Now one of the advantages of how **Perforce** is configured is that it won't allow for two people to save to the same file (unless they are text files). This is very convenient as it will reduce the amount of collisions when working as a team.  
 
@@ -53,7 +53,7 @@ Go to **Edit | Edtior Preferences** and select **General | Loading & Saving** an
 
 ![](../images/line2.png)
 
-##### `Step 3.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 3.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Now there is a small message on the bottom right stating that source control is not turned on.  Select it and choose **Connect to Source Control** to bring up the source control menu and then select **Perforce** from the list.
 
@@ -61,7 +61,7 @@ Now there is a small message on the bottom right stating that source control is 
 
 ![](../images/line2.png)
 
-##### `Step 4.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 4.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Now we enter the provider as **Perforce**, the **Server** as `helixcore.cct.lsu.edu:1818`, the user name and the workspace. Press the <kbd>Accept Settings</kbd> button.
 
@@ -69,7 +69,7 @@ Now we enter the provider as **Perforce**, the **Server** as `helixcore.cct.lsu.
 
 ![](../images/line2.png)
 
-##### `Step 5.`\|`BTS`| :small_orange_diamond:
+##### `Step 5.`\|`UE5HW`| :small_orange_diamond:
 
 If the settings were correct a pop up will briefly appear at the bottom right saying the connection was succesful.
 
@@ -77,7 +77,7 @@ If the settings were correct a pop up will briefly appear at the bottom right sa
 
 ![](../images/line2.png)
 
-##### `Step 6.`\|`BTS`| :small_orange_diamond: :small_blue_diamond:
+##### `Step 6.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond:
 
 Now in the future if you boot up **Unreal** and it is saying it is connected to source control you can put your cursor on top and it will pop up to make sure you have the correct settings.
 
@@ -85,7 +85,7 @@ Now in the future if you boot up **Unreal** and it is saying it is connected to 
 
 ![](../images/line2.png)
 
-##### `Step 7.`\|`BTS`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 7.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Now that we are set up.  It is best before starting in **UE5** to sync with the **Perforce** server and get the latest.  Press the <kbd>Content Drawer</kbd> and right click on the **Content** folder and select `Sync`. Now you are ready to begin.
 
