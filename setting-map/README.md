@@ -47,6 +47,10 @@ A static mesh is a type of actor that displays a 3-D model for objects without s
 
 ##### `Step 5.`\|`UE5HW`| :small_orange_diamond:
 
+A static mesh is made up of triangles under the surface.  Take a look at the video below.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U93RImC-by4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ![alt text](images/.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
