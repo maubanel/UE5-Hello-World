@@ -17,7 +17,7 @@ Now lets add our **Actor** to our new **Hello World** level.  We will look at a 
 
 OK, lets open **UE5**** again through **P4V**.  
 
-![Add three new folders to contents](images/addNewFolder.jpg)
+![Add three new folders to contents](images/addNewFolder.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
