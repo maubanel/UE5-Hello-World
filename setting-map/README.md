@@ -15,7 +15,7 @@ Now lets add our **Actor** to our new **Hello World** level.  We will look at a 
 
 ##### `Step 1.`\|`SUU&G`|:small_blue_diamond:
 
-OK, lets open **UE5**** again through **P4V**.  
+OK, lets open **UE5** again through **P4V**.   Open the **Content Drawer** (<kbd>Cntrl Space</kbd>) and right click on the **Content** folder.  Select **New Folder** and do this three times for three new folders.
 
 ![Add three new folders to contents](images/addNewFolder.png)
 
