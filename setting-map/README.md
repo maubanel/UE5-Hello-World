@@ -123,7 +123,7 @@ So what does the multiply node do?  If we don't multiply our color is more like 
 
 ##### `Step 14.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
- Now lets move these assets to the appropriate folders.  Open up the **Content Drawer** (<kbd>Cntrl Space</kbd>) and drag and drop `SM_Floor` into the **StaticMeshes** folder.
+ Now lets move these assets to the appropriate folders.  Open up the **Content Drawer** (<kbd>Cntrl Space</kbd>) and go to the **Outside Assets** folder and drag and drop `SM_Floor` into the **StaticMeshes** folder. You might get a request to **Check Out Selected** as we need to check out files to alter them (yes moving directories is altering the files). So you will have to check the file out.
 
 ![drag sm_floor to StaticMeshes folder](images/movetoSM.png)
 
@@ -131,7 +131,9 @@ So what does the multiply node do?  If we don't multiply our color is more like 
 
 ##### `Step 15.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: 
 
-![alt text](images/.png)
+Now drag `T_Tech_Hex_Tile_M` and `T_Tech_Hex_Tile_N` to the **Textures** folder and check out both files to move them.
+
+![move two textures to textures folder](images/dragTextures.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
