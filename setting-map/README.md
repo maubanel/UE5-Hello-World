@@ -20,6 +20,7 @@ OK, lets open **UE5** again through **P4V**.   Open the **Content Drawer** (<kbd
 ![Add three new folders to contents](images/addNewFolder.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+
 ##### `Step 2.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: 
 
 Name the folders `Materials`, `Static Meshes` and `Textures`.
