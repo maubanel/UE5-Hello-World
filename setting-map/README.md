@@ -139,7 +139,9 @@ Now drag `T_Tech_Hex_Tile_M` and `T_Tech_Hex_Tile_N` to the **Textures** folder 
 
 ##### `Step 16.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-![alt text](images/.png)
+Then finally move the material `M_Tech_Hex` to the **Materials** folder and check out the file to move them.
+
+![move material to Materials folder](images/materialMove.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
