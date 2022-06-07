@@ -147,7 +147,9 @@ Then finally move the material `M_Tech_Hex` to the **Materials** folder and chec
 
 ##### `Step 17.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt text](images/.png)
+Now after moving files it is best practice to finish the process.  Unreal doesn't move the file it also in the old folder has a redirector that says where the new file is.  This way any other actor refering to it can find it.  To adjust that location for all objects using it right click on the **Content** folder and select `Fix Up Redirectors in Folders`.
+
+![Fix Up Redirectors in Folder](images/fixRedirectors.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
