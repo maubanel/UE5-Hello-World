@@ -62,9 +62,9 @@ https://user-images.githubusercontent.com/5504953/172293160-02c237d9-4b90-4579-a
 
 ##### `Step 7.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-So the triangles determine the general form of the 3-D model.  We also have a **Material** which determines how the model reacts with light (reflective, matte, shiny, color etc).  Each model has a material to make it look like the surface(s) you are trying to create.
+So the triangles determine the general form of the 3-D model.  We also have a **Material** which determines how the model reacts with light (reflective, matte, shiny, color etc).  Each model has a material to make it look like the surface(s) you are trying to create. In this case we have a science fiction like surface for our floor.  If you go the the **Material** slots and double click on the icdn next to `M_Tech_Hex_tile` you will open the material.
 
-![alt text](images/ueMat.png)
+![material in mesh edtior ue5](images/ueMat.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
