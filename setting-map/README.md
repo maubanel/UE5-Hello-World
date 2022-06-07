@@ -155,7 +155,9 @@ Now after moving files it is best practice to finish the process.  Unreal doesn'
 
 ##### `Step 18.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt text](images/.png)
+Now any time we finish a unit of work we want to save to source control.  Press the bottom right button <kbd>Source Control</kbd> and select `Submit`. Now enter a message
+
+![alt text](images/submitToSource.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
