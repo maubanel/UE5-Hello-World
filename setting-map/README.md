@@ -2,7 +2,7 @@
 
 ### Setting up the Map
 
-<sub>[previous](../ignore-license/README.md#user-content-remaining-github-related-files) • [home](../README.md#user-content-ue4-hello-world) • [next](../setting-sky/README.md#user-content-finish-setting-up-sky)</sub>
+<sub>[previous](../project-settings/README.md#user-content-project-settings) • [home](../README.md#user-content-ue4-hello-world) • [next](../setting-sky/README.md#user-content-finish-setting-up-sky)</sub>
 
 ![](../images/line3.png)
 
@@ -166,5 +166,5 @@ Now any time we finish a unit of work we want to save to source control.  Press 
 
 ![](../images/line.png)
 
-| [previous](../ignore-license/README.md#user-content-remaining-github-related-files)| [home](../README.md#user-content-ue4-hello-world) | [next](../setting-sky/README.md#user-content-finish-setting-up-sky)|
+| [previous](../project-settings/README.md#user-content-project-settings)| [home](../README.md#user-content-ue4-hello-world) | [next](../setting-sky/README.md#user-content-finish-setting-up-sky)|
 |---|---|---|
