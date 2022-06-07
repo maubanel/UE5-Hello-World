@@ -88,20 +88,28 @@ Now you will notice that all the nodes go to the **Result Node** in the node cha
 
 We have the **Texture Sample** node that contains a pink texture that goes to a **Multiply** node that then goes to the *Base Color** in the **Result Node**.
 
+Notice that there are different output pins from the **Texture Sample** node.  An **RGB** pin which outputs only red, green and blue.  Seperate **R**, **G**, and **B** pins reprenting each color separately.  The is also an **A** pin representing the **Alpha** channel.  And finally there is a **RGBA** which represents all three color channels and an alpha.
+
+Notice that the **R** pin is the only one used in the base color.  Lets double click the `T_Tech_Hex_Tile` file to open up the texture file used.
+
 ![base color flowchart](images/baseColorWF.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 11.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: 
 
-![alt text](images/.png)
+Now in our **Texture** editor the texture looks wrong and is pink. Why is the model not pink then?
+
+![texture packing](images/texturePacking.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 
 ##### `Step 12.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-![alt text](images/.png)
+In 3-D the texture can use different channels for different parts of the material. In this case the **Base Color** is only getting data from the **R** (red) channel.  So click on **G** and **B** to turn off those channels.  Now we have a grey and white texture that look a lot more like the render on the sphere.
+
+![red channel only in texture](images/clickGB.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
