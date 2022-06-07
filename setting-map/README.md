@@ -78,7 +78,9 @@ This is a material editor that includes a node chart that adds surface detail to
 
 ##### `Step 9.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt text](images/.png)
+Now you will notice that all the nodes go to the **Result Node** in the node chart.  Lets look at the **Base Color** pin which is the color of the pixel that the material contains.  Lets look at this in more detail.
+
+![base color](images/resultNode.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
