@@ -58,7 +58,7 @@ To find the lights click on the **Place Actors** pull down menu at the top left 
 
 ##### `Step 6.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond:
 
-Now you can see that there is light.  It might not be positioned properly but we will fix that next.  
+Now you can see that there is light.  It might not be positioned properly but we will fix that next.  Now when you hit play you can see the level!  Try it yourself...
 
 ![directoinal light in scene](images/addDirectionalLight.png)
 
