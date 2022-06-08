@@ -58,7 +58,9 @@ To find the lights click on the **Place Actors** pull down menu at the top left 
 
 ##### `Step 6.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond:
 
-![alt text](images/.png)
+Now you can see that there is light.  It might not be positioned properly but we will fix that next.  
+
+![directoinal light in scene](images/addDirectionalLight.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
