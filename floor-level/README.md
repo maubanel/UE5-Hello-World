@@ -74,15 +74,23 @@ https://user-images.githubusercontent.com/5504953/172624138-fdd5d5eb-28ad-4adc-9
 
 ##### `Step 8.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now we are in a black world - lets create a sky.  Press the **Place Actors** drop down menu and select 
+Now we are in a black world - lets create a sky.  Press the **Place Actors** drop down menu and select **Visual Effects | Sky Atmosphere**.
 
-![alt text](images/skyAtmosphere.png)
+>The Sky Atmosphere component in Unreal Engine is a physically-based sky and atmosphere-rendering technique. It's flexible enough to create an Earth-like atmosphere with time-of-day featuring sunrise and sunset, or to create extraterrestrial atmospheres of an exotic nature. - [UE5 Manual](https://docs.unrealengine.com/5.0/en-US/sky-atmosphere-component-in-unreal-engine/).
+
+Feel free to read the instructions and tweak any values.
+
+![add sky atmosphere to level](images/skyAtmosphere.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 9.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt text](images/.png)
+If it is not working make sure that in your **Directional Light** that 
+
+If you do not see the sky above the black ground plane you can click on the **Directional Light** in the **Outliner** and make sure that **Atmosphere Sun Light** is set to `true`.
+
+![make sure atmosphere sun light in directional light is turned on](images/notWorking.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
