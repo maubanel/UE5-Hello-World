@@ -74,7 +74,9 @@ https://user-images.githubusercontent.com/5504953/172624138-fdd5d5eb-28ad-4adc-9
 
 ##### `Step 8.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt text](images/.png)
+Now we are in a black world - lets create a sky.  Press the **Place Actors** drop down menu and select 
+
+![alt text](images/skyAtmosphere.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
