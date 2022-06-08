@@ -38,7 +38,7 @@ So now in the editor we can see the floor but the lighting looks very flat
 
 ##### `Step 4.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now press the **Play** button and it will be black again.  This **unlit** mode only works in the editor and not in game mode.
+Now press the green **Play** button and it will be black again.  This **unlit** mode only works in the editor and not in game mode.
 
 https://user-images.githubusercontent.com/5504953/172620693-5a0f5f9e-9879-4601-8b57-373e0dbaaf18.mp4
 
@@ -48,7 +48,7 @@ https://user-images.githubusercontent.com/5504953/172620693-5a0f5f9e-9879-4601-8
 
 Now we need to add a light.  This will be an outdoor scene so lets start with the **Sun**.  This is in game terms a light with no fall off so it runs for infinity.
 
->>The Directional Light simulates light that is being emitted from a source that is infinitely far away. This means that all shadows cast by this light will be parallel, making this the ideal choice for simulating sunlight - [UE5 Manual](https://docs.unrealengine.com/5.0/en-US/directional-lights-in-unreal-engine/)
+>The Directional Light simulates light that is being emitted from a source that is infinitely far away. This means that all shadows cast by this light will be parallel, making this the ideal choice for simulating sunlight - [UE5 Manual](https://docs.unrealengine.com/5.0/en-US/directional-lights-in-unreal-engine/)
 
 To find the lights click on the **Place Actors** pull down menu at the top left under the **Tools** menu and select **Light | Directional Light**.
 
