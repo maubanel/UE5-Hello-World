@@ -40,7 +40,7 @@ So now in the editor we can see the floor but the lighting looks very flat
 
 Now press the **Play** button and it will be black again.  This **unlit** mode only works in the editor and not in game mode.
 
-
+https://user-images.githubusercontent.com/5504953/172620693-5a0f5f9e-9879-4601-8b57-373e0dbaaf18.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
