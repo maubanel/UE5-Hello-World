@@ -13,6 +13,10 @@ Now lets add the floor static mesh we looked at to the level as it is completely
 ---
 
 
+
+https://user-images.githubusercontent.com/5504953/172620693-5a0f5f9e-9879-4601-8b57-373e0dbaaf18.mp4
+
+
 ##### `Step 1.`\|`UE5HW`|:small_blue_diamond:
 
 Make sure you booted up the game from **P4V** and that **Source Control** is green.  Make sure you are in the **Hello World** level. Now access the **Content Drawer** (<kbd>Cntrl Space</kbd>) and select the **Static Mesh** folder and drag `SM_Floor` into the level.  Notice everything is black. It did add an instance of the loor to the **Outliner**.
@@ -40,7 +44,7 @@ So now in the editor we can see the floor but the lighting looks very flat
 
 Now press the **Play** button and it will be black again.  This **unlit** mode only works in the editor and not in game mode.
 
-ADD VIDEO
+
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
