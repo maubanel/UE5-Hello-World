@@ -98,6 +98,7 @@ If you do not see the sky above the black ground plane you can click on the **Di
 
 Now when you move the **Directional Light** around using <kbd>Cntrl L</kbd> you will see that the color and effect of the sun on the atmposphere chnages and you can get sunrise and sunset looks to the lighting in your level.
 
+https://user-images.githubusercontent.com/5504953/172628932-27a4fd2c-9db8-4ccd-8a5e-058882a0f7e5.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
