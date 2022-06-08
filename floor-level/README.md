@@ -13,10 +13,6 @@ Now lets add the floor static mesh we looked at to the level as it is completely
 ---
 
 
-
-https://user-images.githubusercontent.com/5504953/172620693-5a0f5f9e-9879-4601-8b57-373e0dbaaf18.mp4
-
-
 ##### `Step 1.`\|`UE5HW`|:small_blue_diamond:
 
 Make sure you booted up the game from **P4V** and that **Source Control** is green.  Make sure you are in the **Hello World** level. Now access the **Content Drawer** (<kbd>Cntrl Space</kbd>) and select the **Static Mesh** folder and drag `SM_Floor` into the level.  Notice everything is black. It did add an instance of the loor to the **Outliner**.
@@ -54,7 +50,9 @@ Now we need to add a light.  This will be an outdoor scene so lets start with th
 
 >>The Directional Light simulates light that is being emitted from a source that is infinitely far away. This means that all shadows cast by this light will be parallel, making this the ideal choice for simulating sunlight - [UE5 Manual](https://docs.unrealengine.com/5.0/en-US/directional-lights-in-unreal-engine/)
 
-![alt text](images/.png)
+To find the lights click on the **Place Actors** pull down menu at the top left under the **Tools** menu and select **Light | Directional Light**.
+
+![alt text](images/directionalLight.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
