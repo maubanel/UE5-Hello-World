@@ -163,7 +163,7 @@ https://user-images.githubusercontent.com/5504953/172865657-70ab7535-8d0b-44ab-b
 
 ##### `Step 17.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Lets make the staging area a bit bigger for our letters.  Lets duplicate the floor and expand the ground surface.  Lets do this accurately wihtout fuss.  Open up the **Content Drawer** (<kbd>Cntrl Space</kbd>) and highlight **Content | StaticMeshes | SM_Floor**.  UE5 units default to 1cm per unit. You will see the size is `1000 cm` by `1000 cm` by `?? cm`.  1000 centimers is 32 feet (or 10 meters).
+Lets make the staging area a bit bigger for our letters.  Lets duplicate the floor and expand the ground surface.  Lets do this accurately wihtout fuss.  Open up the **Content Drawer** (<kbd>Cntrl Space</kbd>) and highlight **Content | StaticMeshes | SM_Floor**.  UE5 units default to 1cm per unit. You will see the size is `1000 cm` by `1000 cm` by `50 cm`.  1000 centimers is **32 feet** (or 10 meters) and 50 centimeters is **1.64 feet** (or .5 meters). Lets make the surface to hold our Hello World letters 20 meters by 20 meters (4 floor pieces).
 
 ![size of floor](images/sizeOfFloor.png)
 
@@ -171,7 +171,9 @@ Lets make the staging area a bit bigger for our letters.  Lets duplicate the flo
 
 ##### `Step 18.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt text](images/.png)
+To do this we would like to get them to snap together.  Just like snap to grid in photoshop we can set the transform editor to snap by any using length we want (it defaults to snapping to 10 cm).  
+
+![alt text](images/changeSnapping.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
