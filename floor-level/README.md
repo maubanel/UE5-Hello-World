@@ -104,7 +104,11 @@ https://user-images.githubusercontent.com/5504953/172628932-27a4fd2c-9db8-4ccd-8
 
 ##### `Step 11.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: 
 
-![alt text](images/.png)
+In previous versions of Unreal the clouds in the sky was a texture on the skydome, was two dimensional and suffered from the pinching issues of texture mapping a sphere.  Also it had no effect on the light.
+
+In **UE5** we have a more realistic solution with 3-D volumetric clouds.  Select the **Place Actors | **
+
+![alt text](images/volumetricClouds.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
