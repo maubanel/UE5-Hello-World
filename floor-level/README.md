@@ -190,13 +190,17 @@ https://user-images.githubusercontent.com/5504953/172875319-445ad9fe-4dbe-409b-8
 
 ##### `Step 20.`\|`UE5HW`| :large_blue_diamond: :large_blue_diamond:
 
-![alt text](images/.png)
+OK, lets save all of our changes and commit to source control.  Go to **File | Save All** and save all outstanding work in the engine.
+
+![save all work](images/saveAll.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 21.`\|`UE5HW`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
 
-![alt text](images/.png)
+Now we need to submit these changes to the server.
+
+![submit to p4 with message](images/submittop4.png)
 
 ___
 
