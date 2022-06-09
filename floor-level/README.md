@@ -163,7 +163,9 @@ https://user-images.githubusercontent.com/5504953/172865657-70ab7535-8d0b-44ab-b
 
 ##### `Step 17.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt text](images/.png)
+Lets make the staging area a bit bigger for our letters.  Lets duplicate the floor and expand the ground surface.  Lets do this accurately wihtout fuss.  Open up the **Content Drawer** (<kbd>Cntrl Space</kbd>) and highlight **Content | StaticMeshes | SM_Floor**.  UE5 units default to 1cm per unit. You will see the size is `1000 cm` by `1000 cm` by `?? cm`.  1000 centimers is 32 feet (or 10 meters).
+
+![size of floor](images/sizeOfFloor.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
