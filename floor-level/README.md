@@ -1,12 +1,12 @@
 ![](../images/line3.png)
 
-### Adding Floor to Level
+### Adding Floor and Sky to Level
 
 <sub>[previous](../first-hour/README.md#user-content-first-hour-in-ue4) • [home](../README.md#user-content-ue4-hello-world) • [next](../readme/README.md#user-content-readmemd-file)</sub>
 
 ![](../images/line3.png)
 
-Now lets add the floor static mesh we looked at to the level as it is completely empty.
+Now lets add the floor static mesh we looked at to the level as it is completely empty. Also, we are in a black void, lets put us on earth and give us a sun, clouds, sky and fog.
 
 <br>
 
@@ -198,7 +198,7 @@ OK, lets save all of our changes and commit to source control.  Go to **File | S
 
 ##### `Step 21.`\|`UE5HW`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
 
-Now we need to submit these changes to the server.
+Now we need to submit these changes to the server. Click on the bottom right <kbd>Source Control</kbd> button and select **Submit Content**.  Add a message for the work done and then press **Submit**.  Now you should receive a pop up in the bottom right sating a changelist was created inidcating a succesful submission to the server.
 
 ![submit to p4 with message](images/submittop4.png)
 
