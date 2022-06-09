@@ -115,7 +115,9 @@ In **UE5** we have a more realistic solution with 3-D volumetric clouds.  Select
 
 ##### `Step 12.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-![alt text](images/.png)
+There is not much to configure here, it is a bit more work to hand craft the clouds to behave in the way you would like.  But feel free to adjust the settings to your taste.
+
+![adjust volumetric cloud settings](images/notConfigurable.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
