@@ -15,7 +15,7 @@ UE5 provides a great set of modelling tools where can model in engine without us
 
 ##### `Step 1.`\|`UE5HW`|:small_blue_diamond:
 
-First make sure in **Edit | Plugins** that **Modelling Tools** are enabled.  If not enable them and you might have to reboot **Unreal**.
+First make sure in **Edit | Plugins** that **Modelling Tools Editor Mode** is enabled.  If not enable them and you might have to reboot **Unreal**.
 
 ![make sure modeling tools are enabled](images/modelingTools.png)
 
