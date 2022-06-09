@@ -179,8 +179,11 @@ To do this we would like to get them to snap together.  Just like snap to grid i
 
 ##### `Step 19.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-https://user-images.githubusercontent.com/5504953/172875319-445ad9fe-4dbe-409b-8531-46f32aaa7ed6.mp4
+We can copy and paste using the windows shortcuts like <kbd>cntrl c</kbd> and </kbd>cntrl v</kbd>.  But they have a cool shortcut where you press <kbd>alt</kbd> while dragging on one of the translation widget arros when the object is selected in the outliner.
 
+Repeat this three times to create a large surface with 4 seamlessly tied together floor pieces.
+
+https://user-images.githubusercontent.com/5504953/172875319-445ad9fe-4dbe-409b-8531-46f32aaa7ed6.mp4
 
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
