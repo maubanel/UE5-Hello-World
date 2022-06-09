@@ -171,9 +171,9 @@ Lets make the staging area a bit bigger for our letters.  Lets duplicate the flo
 
 ##### `Step 18.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-To do this we would like to get them to snap together.  Just like snap to grid in photoshop we can set the transform editor to snap by any using length we want (it defaults to snapping to 10 cm).  
+To do this we would like to get them to snap together.  Just like snap to grid in photoshop we can set the transform editor to snap by any using length we want (it defaults to snapping to 10 cm).  It is located right next to the grid icon.
 
-![alt text](images/changeSnapping.png)
+![change snapping to 1000](images/changeSnapping.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
