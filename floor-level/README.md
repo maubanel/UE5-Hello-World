@@ -157,7 +157,7 @@ Select **Place Actor | Special Effect | Exponential Height Fog** and drag it int
 
 Now the resulting scene is fine for now.  We can move on to making the ground plane a bit larger.
 
-
+https://user-images.githubusercontent.com/5504953/172865657-70ab7535-8d0b-44ab-b67e-b802ae4bef7c.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
