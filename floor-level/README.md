@@ -96,7 +96,7 @@ If you do not see the sky above the black ground plane you can click on the **Di
 
 ##### `Step 10.`\|`UE5HW`| :large_blue_diamond:
 
-Now when you move the **Directional Light** around using <kbd>Cntrl L</kbd> you will see that the color and effect of the sun on the atmposphere chnages and you can get sunrise and sunset looks to the lighting in your level.
+Now when you move the **Directional Light** around using <kbd>Cntrl L</kbd> you will see that the color and effect of the sun on the atmposphere changes and you can get sunrise and sunset looks to the lighting in your level.
 
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
