@@ -23,8 +23,7 @@ First make sure in **Edit | Plugins** that **Modelling Tools Editor Mode** is en
 
 ##### `Step 2.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: 
 
-The normal mode we are in when we start the editor is **Select** mode.
-
+The normal mode we are in when we start the editor is **Select** mode. Click the **Select Mode** button and switch to **Modeling** mode.
 
 ![alt text](images/modelingMode.png)
 
