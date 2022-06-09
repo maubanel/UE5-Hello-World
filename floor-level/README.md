@@ -155,7 +155,9 @@ Select **Place Actor | Special Effect | Exponential Height Fog** and drag it int
 
 ##### `Step 16.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-![alt text](images/.png)
+Now the resulting scene is fine for now.  We can move on to making the ground plane a bit larger.
+
+
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
