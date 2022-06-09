@@ -108,6 +108,8 @@ In previous versions of Unreal the clouds in the sky was a texture on the skydom
 
 In **UE5** we have a more realistic solution with 3-D volumetric clouds.  Select the **Place Actors | VIsual Effects | Volumetric Cloud**
 
+[More Information UE5 Manual](https://docs.unrealengine.com/5.0/en-US/volumetric-cloud-component-properties-in-unreal-engine/).
+
 ![add volumetric clouds to scene](images/volumetricClouds.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
@@ -131,7 +133,11 @@ https://user-images.githubusercontent.com/5504953/172861626-ffad3d92-ff55-48dd-8
 
 ##### `Step 14.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt text](images/.png)
+The final element that works together with the atmosphere and clouds in the [Skylight](https://docs.unrealengine.com/5.0/en-US/sky-lights-in-unreal-engine/).
+
+>The Sky Light captures the distant parts of your level and applies that to the scene as a light. That means the sky's appearance and its lighting/reflections will match, even if your sky is coming from atmosphere, or layered clouds on top of a skybox, or distant mountains. You can also manually specify a cubemap to use. - [UE5 Manual](Skylight](https://docs.unrealengine.com/5.0/en-US/sky-lights-in-unreal-engine/)
+
+![add skylight to scene](images/placeSkylight.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
