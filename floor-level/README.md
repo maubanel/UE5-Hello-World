@@ -2,7 +2,7 @@
 
 ### Adding Floor and Sky to Level
 
-<sub>[previous](../first-hour/README.md#user-content-first-hour-in-ue4) • [home](../README.md#user-content-ue4-hello-world) • [next](../readme/README.md#user-content-readmemd-file)</sub>
+<sub>[previous](../first-hour/README.md#user-content-first-hour-in-ue4) • [home](../README.md#user-content-ue4-hello-world) • [next](../building-h/README.md#user-content-build-the-letter-h)</sub>
 
 ![](../images/line3.png)
 
@@ -206,9 +206,9 @@ ___
 
 ![](../images/line.png)
 
-<img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - README.md File">
+![next up building the letter H](images/banner.png)
 
 ![](../images/line.png)
 
-| [previous](../first-hour/README.md#user-content-first-hour-in-ue4)| [home](../README.md#user-content-ue4-hello-world) | [next](../readme/README.md#user-content-readmemd-file)|
+| [previous](../first-hour/README.md#user-content-first-hour-in-ue4)| [home](../README.md#user-content-ue4-hello-world) | [next](../building-h/README.md#user-content-build-the-letter-h)|
 |---|---|---|
