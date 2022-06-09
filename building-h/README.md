@@ -26,7 +26,7 @@ First make sure in **Edit | Plugins** that **Modelling Tools Editor Mode** is en
 The normal mode we are in when we start the editor is **Select** mode.
 
 
-![alt text](images/.png)
+![alt text](images/modelingMode.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
