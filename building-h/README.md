@@ -23,15 +23,19 @@ First make sure in **Edit | Plugins** that **Modelling Tools Editor Mode** is en
 
 ##### `Step 2.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: 
 
-The normal mode we are in when we start the editor is **Select** mode. Click the **Select Mode** button and switch to **Modeling** mode.
+I want to alter the default settings.  I want all models I create using the tool to start in a scratch directory.  Go to **Edit | Project Settings** and look in **Plugins** for **Modeling Tools**.
 
-![alt text](images/modelingMode.png)
+
+
+![alt text](images/settings.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 3.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt text](images/.png)
+The normal mode we are in when we start the editor is **Select** mode. Click the **Select Mode** button and switch to **Modeling** mode.
+
+![alt text](images/modelingMode.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
