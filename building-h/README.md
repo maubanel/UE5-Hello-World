@@ -12,7 +12,6 @@ UE5 provides a great set of modelling tools where can model in engine without us
 
 ---
 
-
 ##### `Step 1.`\|`UE5HW`|:small_blue_diamond:
 
 First make sure in **Edit | Plugins** that **Modelling Tools Editor Mode** is enabled.  If not enable them and you might have to reboot **Unreal**.
@@ -42,7 +41,7 @@ Now go back to our **HelloWorld** level and selecdt **Place Actors | Shapes Cube
 
 ##### `Step 4.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt text](images/.png)
+https://user-images.githubusercontent.com/5504953/173193202-b8e28f9b-c908-4e12-888a-d74d974b03db.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
