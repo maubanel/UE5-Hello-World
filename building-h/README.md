@@ -6,7 +6,7 @@
 
 ![](../images/line3.png)
 
-UE5 provides a great set of modelling tools where can model in engine without using a DCC such as **Maya**. Lets craft the letter H.
+UE5 provides a great set of modelling tools where can model in engine without using a DCC such as **Maya**. Lets craft the letter H. We will try two techniques.  This first one is using the geometry editing tools of Unreal to create a blocky H.
 
 <br>
 
