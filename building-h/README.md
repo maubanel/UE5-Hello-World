@@ -25,7 +25,7 @@ First make sure in **Edit | Plugins** that **Modelling Tools Editor Mode** is en
 
 I want to alter the default settings.  I want all models I create using the tool to start in a scratch directory.  Go to **Edit | Project Settings** and look in **Plugins** for **Modeling Mode**.
 
-I changed the **Auto Generated Asset Path to `MarcGenerated` and made sure the **Asset Generation Locations** was set to `Auto Generated Global Asset Path` and set **Store Unsaved Level Assets in Top Level Game Folder** to `true`.
+I changed the **Auto Generated Asset Path to `MarcMeshes` and made sure the **Asset Generation Locations** was set to `Auto Generated Global Asset Path` and set **Store Unsaved Level Assets in Top Level Game Folder** to `true`.
 
 
 ![add folder to store models(images/settings.png)
@@ -34,9 +34,9 @@ I changed the **Auto Generated Asset Path to `MarcGenerated` and made sure the *
 
 ##### `Step 3.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-The normal mode we are in when we start the editor is **Select** mode. Click the **Select Mode** button and switch to **Modeling** mode.
+Now go back to our **HelloWorld** level and selecdt **Place Actors | Shapes Cube** to add a 1 meter cube square for reference.  This is 3.2 feet squared for reference.
 
-![alt text](images/modelingMode.png)
+![add cube to level](images/AddCube.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
@@ -54,7 +54,9 @@ The normal mode we are in when we start the editor is **Select** mode. Click the
 
 ##### `Step 6.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond:
 
-![alt text](images/.png)
+The normal mode we are in when we start the editor is **Select** mode. Click the **Select Mode** button and switch to **Modeling** mode.
+
+![alt text](images/modelingMode.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
