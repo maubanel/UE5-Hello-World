@@ -106,9 +106,9 @@ So lets subivide the **Depth** by `3` and the **Height** by `20`. Now while stil
 
 ##### `Step 12.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-Now 
+Now in the **Tri Model** menue select **TriSet**.  We will then want to select the 6 middle polygons (12 triangles) on the inside face so we can extrude the bridge of the **H**.  First we need to turn `off` **Hit Back Faces** so that we do not select all polygons around the entire circumpherence.
 
-![alt text](images/wantToExtrude.png)
+![select triset mode and turn of hit back faces](images/wantToExtrude.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
