@@ -184,12 +184,15 @@ When moving files it is a very good idea to right click on the **Content** folde
 
 Now drag and drop the material in the **Material** slot in the file 
 
+https://user-images.githubusercontent.com/5504953/173236984-5435c0c6-828f-4148-b05a-565d4e1d4c93.mp4
 
 ![](../images/line2.png)
 
 ##### `Step 22.`\|`UE5HW`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:  :small_blue_diamond:
 
 Check 
+
+https://user-images.githubusercontent.com/5504953/173236994-ae1922fe-c57f-4534-a119-1c5d5b9df331.mp4
 
 ![alt text](images/.png)
 ___
