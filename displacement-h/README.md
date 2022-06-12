@@ -85,7 +85,9 @@ Select `New` under the changelist and add an appropriate description.  Press the
 
 ##### `Step 9.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt text](images/.png)
+Now we can drag the `T_H.png` into the **Textures** folder in the **Content Drawer**.
+
+![import T_H.png](images/tTexture.png)
 
 ![](../images/line2.png)
 
