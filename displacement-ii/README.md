@@ -48,7 +48,9 @@ Go to the **OutsideContent** folder and drag **M_Grad_Grass** to the **Materials
 
 ##### `Step 5.`\|`UE5HW`| :small_orange_diamond:
 
-![alt text](images/.png)
+Now when moving a file it is best to fix up redirectors.  Right click on the **Content** folder and select **Fix Up Redirects in Folders** and checkout any files you need to.
+
+![fix up redirects in folders](images/fixRedirectA.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
