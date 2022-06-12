@@ -1,12 +1,12 @@
 ![](../images/line3.png)
 
-### Chapter Heading Here
+### Displacement H II
 
 <sub>[previous](../first-hour/README.md#user-content-first-hour-in-ue4) • [home](../README.md#user-content-ue4-hello-world) • [next](../readme/README.md#user-content-readmemd-file)</sub>
 
 ![](../images/line3.png)
 
-Chapter introduction here.
+Lets finish up by correcting the direction of the model then adding a material.  We can then save our work and push to **Perforce**.
 
 <br>
 
@@ -15,13 +15,17 @@ Chapter introduction here.
 
 ##### `Step 1.`\|`UE5HW`|:small_blue_diamond:
 
-![alt text](images/.jpg)
+Now the model is pointing in the wrong diretion.  It is lying along the ground and we want it upright.  Go to 
+**Transform | XFrom** and rotate on the **X** axis by -90 degrees. Now it is upright.  But we want this to be the default, `0`,`0`,`0` angle.  Press the <kbd>Complete</kbd> button. So lets bake this in.
+
+![rotate by -90 degrees](images/rotateModel90.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 2.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: 
 
-![alt text](images/.jpg)
+Now we want this to be the default baked position.  Go to **Transform | BakeRS** and 
+![alt text](images/bakeRotation.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
