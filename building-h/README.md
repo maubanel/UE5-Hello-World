@@ -41,6 +41,8 @@ Now go back to our **HelloWorld** level and selecdt **Place Actors | Shapes Cube
 
 ##### `Step 4.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+It can be tricky to get an object to sit right on the ground.  There is a hot key that you can use that will snap the actor downwards to the closes surface (in our case the floor).  Just click on the object in the editor and press the <kbd>End</kbd> key.
+
 https://user-images.githubusercontent.com/5504953/173193202-b8e28f9b-c908-4e12-888a-d74d974b03db.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
