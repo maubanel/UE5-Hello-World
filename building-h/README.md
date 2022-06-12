@@ -122,9 +122,9 @@ Adjust the **Brush | Size** and select the 6 middle polygons.  If you select too
 
 ##### `Step 14.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Now we want to manupulate the entire set of them (we want to extrude them) so lets create a **Polygroup**.
+Now we want to manupulate the entire set of them (we want to extrude them) so lets create a **Polygroup** by pressing the **Mesh Edit | Creaet Polygroup** button.
 
-![alt text](images/createPolygroup.png)
+![create polygroup](images/createPolygroup.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
