@@ -183,8 +183,15 @@ When moving files it is a very good idea to right click on the **Content** folde
 ##### `Step 21.`\|`UE5HW`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
 
 Now drag and drop the material in the **Material** slot in the file 
-![alt text](images/.png)
 
+
+![](../images/line2.png)
+
+##### `Step 22.`\|`UE5HW`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:  :small_blue_diamond:
+
+Check 
+
+![alt text](images/.png)
 ___
 
 ![](../images/line.png)
