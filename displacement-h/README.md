@@ -102,7 +102,7 @@ Now double click on **T_H** texture to open up the texture editor.  Change the *
 ##### `Step 11.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: 
 
 Now press the **Select Mode** drop down and pick the **Modeling** mode.  Now pic the **Rect** shape (for a plane) and select a **Width** and **Depth** of `200` cm.  Then lets subdivide the polygons by `10` by `10` for 
-**Width** and **Depth**.
+**Width** and **Depth**. Left click on the screen and select the <kbd>Complete</kbd> button.
 
 ![enter modeling mode with 200cm flat poly with 10 x 10 subdivisions](images/setUpMesh.png)
 
@@ -111,13 +111,17 @@ Now press the **Select Mode** drop down and pick the **Modeling** mode.  Now pic
 
 ##### `Step 12.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-![alt text](images/.png)
+We want to deform this mesh, so go to the **Deform | Displce** tool. Notice it is using perlin noise to randomly deform the mesh.  
+
+![select deform displace tool](images/displaceDeform.png)
 
 ![](../images/line2.png)
 
 ##### `Step 13.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt text](images/.png)
+Change the texture displacement type from **Perlin Noise** to `Texutre 2D`.
+
+![alt text](images/textureD.png)
 
 ![](../images/line2.png)
 
