@@ -135,25 +135,33 @@ Change the texture displacement type from **Perlin Noise** to `Texture2D Map`.
 
 ##### `Step 15.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: 
 
-![alt text](images/.png)
+We can adjust the height of the **Displacement Intensity** to something closer to `18`.  This exaggerates the effect and really extrudes from the plane.  You then notice that 200 triangles is not nearly enough to represent the detail in an 8K map.  You will see that it is all jaggy.
+
+![change displacement intensity to 18](images/dispHeight.png)
 
 ![](../images/line2.png)
 
 ##### `Step 16.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-![alt text](images/.png)
+We can further increase the **Subdivisions**.  It is good to do this slowly as if the number is too big the engine will crash.  I found `14` to produce very high fidelity results.
+
+![change subdivions by a power of 14](images/dispHeight.png)
 
 ![](../images/line2.png)
 
 ##### `Step 17.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt text](images/.png)
+Now I need to cut of the original plane that we used to start so we just have the letter **H**.  Select the **TriModel | PlyCut** tool.  Drag the blue arrow up and down to change the height of where it is cutting.  Be patient when you let go it needs to cut through millions of polygons so there is a temporary texture while it is making its calculations. 
+
+![select plane cut tool](images/planeCut.png)
 
 ![](../images/line2.png)
 
 ##### `Step 18.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt text](images/.png)
+You might need to **Actions | Flip Plane** if it is cutting from the wrong direction.  Work it so that it is just cutting off the very bottom of the plane and not cutting into the letter. Press the <kbd>Accept</kbd> button.
+
+![cut off bottom plane then accept change](images/acceptPlnCut.png)
 
 ![](../images/line2.png)
 
