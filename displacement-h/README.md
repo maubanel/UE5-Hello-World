@@ -93,7 +93,9 @@ Now we can drag the `T_H.png` into the **Textures** folder in the **Content Draw
 
 ##### `Step 10.`\|`UE5HW`| :large_blue_diamond:
 
-![alt text](images/.png)
+Now double click on **T_H** texture to open up the texture editor.  Change the **Compression Settings** to `HDR (RGB no sRGB)`.
+
+![change compression on h texture to hdr](images/hdrUncompressed.png)
 
 ![](../images/line2.png)
 
