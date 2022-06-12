@@ -134,18 +134,13 @@ We are going to build half of the letter and mirror it since it is symmetrical. 
 
 Then click the **PolyModel | PolyEd** button and select the group where the bridge is supposed to be. Select the **Face Edits | Extrude** button.  Now take the mouse back to the face and move it out three units.  Press the left mouse button then the <kbd>Accept</kbd> button at the bottom.
 
-
-
-
-
-
 https://user-images.githubusercontent.com/5504953/173234122-96514203-f5aa-424c-8827-4eebfca2f2af.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 16.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-![alt text](images/.png)
+https://user-images.githubusercontent.com/5504953/173234638-01d7a97b-d309-4589-bed1-d41ba9b59be8.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
