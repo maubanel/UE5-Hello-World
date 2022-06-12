@@ -75,7 +75,11 @@ Now in case we want to make tweaks to the **Photoshop** file lets save the sourc
 
 ##### `Step 8.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt text](images/.png)
+Now UE4 only track files in the **Content** and the **Config** folders.  So since we added a folder to put our source files that are not in engine we will have to add these in **Perforce** ourselves.  Open up **P4V** and login.  Select the **SourceFiles** folder and press the <kbd>Add</kbd> button.
+
+Select `New` under the changelist and add an appropriate description.  Press the <kbd>OK</kbd> button.
+
+![submit two files to Perforce](images/p4textures.png)
 
 ![](../images/line2.png)
 
