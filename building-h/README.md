@@ -140,6 +140,10 @@ https://user-images.githubusercontent.com/5504953/173234122-96514203-f5aa-424c-8
 
 ##### `Step 16.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
+Now go to **TriModel | Mirror** and I tried all **Preset Mirror Directions** until I hit the right axis which for me was **Backward**.  Next press the <kbd>Accept</kbd> button at the bottom.
+
+Notice in my case the size of the texture tiling is quite different than our reference cube.  Lets adjust this next.
+
 https://user-images.githubusercontent.com/5504953/173234638-01d7a97b-d309-4589-bed1-d41ba9b59be8.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
