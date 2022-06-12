@@ -97,7 +97,7 @@ Lets subdivide the faces so that they end up being square. Lets put 6 triangles 
 
 ##### `Step 11.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: 
 
-So lets subivide the **Depth** by `3` and the **Height** by `20`. Now while still in **Wireframe** mode we can see that we have subdivided the faces with perfectly square polygons.
+So lets subivide the **Depth** by `3` and the **Height** by `20`. Now while still in **Wireframe** mode we can see that we have subdivided the faces with perfectly square polygons. Press the **Complete** button so that we can start to form the bridge on the **H**.
 
 ![subivide shape by 3 and 20 for depth and height](images/subdivideLeftOfH.png)
 
@@ -106,7 +106,9 @@ So lets subivide the **Depth** by `3` and the **Height** by `20`. Now while stil
 
 ##### `Step 12.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-![alt text](images/.png)
+Now 
+
+![alt text](images/wantToExtrude.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
