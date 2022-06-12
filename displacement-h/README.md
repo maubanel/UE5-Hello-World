@@ -67,7 +67,9 @@ Now when you are happy with it we can press **File | Export |Quick Export as PNG
 
 ##### `Step 7.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt text](images/.png)
+Now in case we want to make tweaks to the **Photoshop** file lets save the source PSD so you can come back to it.  Press **File | Save** and put it in the same **SourceFiles** folder that you used above. Call it `H.psd`.
+
+![save psd to sourcefiles](images/savePSD.png)
 
 ![](../images/line2.png)
 
