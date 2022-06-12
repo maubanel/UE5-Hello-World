@@ -130,6 +130,15 @@ Now we want to manupulate the entire set of them (we want to extrude them) so le
 
 ##### `Step 15.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: 
 
+We are going to build half of the letter and mirror it since it is symmetrical.  I want the horizontal bridge of the **H** to be 30 units so half would be `15`.  We need to change the snapping of displacement to `5`.  Then three ticks will be `15` units. 
+
+Then click the **PolyModel | PolyEd** button and select the group where the bridge is supposed to be. Select the **Face Edits | Extrude** button.  Now take the mouse back to the face and move it out three units.  Press the left mouse button then the <kbd>Accept</kbd> button at the bottom.
+
+
+
+
+
+
 https://user-images.githubusercontent.com/5504953/173234122-96514203-f5aa-424c-8827-4eebfca2f2af.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
