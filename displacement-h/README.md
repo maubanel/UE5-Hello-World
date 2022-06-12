@@ -119,15 +119,17 @@ We want to deform this mesh, so go to the **Deform | Displce** tool. Notice it i
 
 ##### `Step 13.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Change the texture displacement type from **Perlin Noise** to `Texutre 2D`.
+Change the texture displacement type from **Perlin Noise** to `Texture2D Map`.
 
-![alt text](images/textureD.png)
+![change from perlin noise to texture2d map](images/textureD.png)
 
 ![](../images/line2.png)
 
 ##### `Step 14.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt text](images/.png)
+ Change the **Displacement Map** to `T_H`, the displacement texture map we just created and imported.
+
+![assign t_h.png to diplacement texture map](images/dMap.png)
 
 ![](../images/line2.png)
 
