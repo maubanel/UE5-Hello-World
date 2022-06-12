@@ -33,7 +33,9 @@ The maximum we can use is an 8K texture but what is the exact pixel resolution. 
 
 ##### `Step 3.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt text](images/.png)
+Now before I booted up **Photoshop** I installed a font that I wanted to use.  You need to have your font loaded **before** you start photoshop.  I select the **Text** tool  
+
+![alt text](images/pickFont.png)
 
 ![](../images/line2.png)
 
