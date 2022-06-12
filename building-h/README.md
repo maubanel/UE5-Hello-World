@@ -166,9 +166,9 @@ We are done with modeling mode for now.  Go back to the **Mode Select** drop dow
 
 ##### `Step 19.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now lets put a material on the **H** to make it look nice.  I have included a few in the **Outside Content** folder.  
+Now lets put a material on the **H** to make it look nice.  I have included a few in the **Outside Content** folder.  I am picking **M_Grad_Cobblestone** and dragging it into my **Materials** folder.  I select **Move**.  It will then prompt me to check out the file which I accept.
 
-![alt text](images/dragCheckout.png)
+![checkout and move m_grad_cobblestone to materials folder](images/dragCheckout.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
