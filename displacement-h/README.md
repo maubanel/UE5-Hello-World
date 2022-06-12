@@ -59,9 +59,9 @@ So to create a gradation from white to black I have selected a **Layer Style | O
 
 ##### `Step 6.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond:
 
-Now when you are happy with it we can press **File | Export **
+Now when you are happy with it we can press **File | Export |Quick Export as PNG**.  Create a new directory in the **Hello World** folder (the same folder that your `.uproject` file is in) and call it `SourceFiles`.  Press the <kbd>Save</kbd> button.
 
-![alt text](images/addedHPNG.png)
+![export H to png and save](images/addedHPNG.png)
 
 ![](../images/line2.png)
 
