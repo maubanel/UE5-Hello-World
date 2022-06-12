@@ -150,6 +150,8 @@ https://user-images.githubusercontent.com/5504953/173234638-01d7a97b-d309-4589-b
 
 ##### `Step 17.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Select **UVs | Project**.  We will do a **Cube** projection.  In my case the tiles were not square so you need to click on the **Uniform Dimensions** option.  The scale now looks like our reference cube. Press the <kbd>Accept</kbd> button at the bottom.
+
 https://user-images.githubusercontent.com/5504953/173235268-2c695fb4-5e5d-4b7d-83c5-77bc3278686e.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
