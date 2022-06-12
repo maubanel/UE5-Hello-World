@@ -97,8 +97,9 @@ Lets subdivide the faces so that they end up being square. Lets put 6 triangles 
 
 ##### `Step 11.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: 
 
-So lets subivide 
-![alt text](images/subdivideLeftOfH.png)
+So lets subivide the **Depth** by `3` and the **Height** by `20`. Now while still in **Wireframe** mode we can see that we have subdivided the faces with perfectly square polygons.
+
+![subivide shape by 3 and 20 for depth and height](images/subdivideLeftOfH.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
