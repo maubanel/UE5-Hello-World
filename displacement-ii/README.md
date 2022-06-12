@@ -58,6 +58,8 @@ Now when moving a file it is best to fix up redirectors.  Right click on the **C
 
 Another way to assign materials is to drag and drop the material on the letter.  Press <kbd>Cntrl Space</kbd> and drag **M_Grad_Grass** onto the model and it will apply the new material.
 
+https://user-images.githubusercontent.com/5504953/173255516-8a0f4b77-2e1a-4514-8b0a-714539ab43fc.mp4
+
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 7.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
