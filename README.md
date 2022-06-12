@@ -18,7 +18,8 @@
 <kbd></kbd> &nbsp;&nbsp; [Building The Letter H](building-h/README.md#user-content-building-the-letter-h)<br>
 <kbd></kbd> &nbsp;&nbsp; [Displacement H](displacement-h/README.md#user-content-displacment-h)<br>
 <kbd></kbd> &nbsp;&nbsp; [Displacement H II](displacement-ii/README.md#user-content-diplacement-h-ii)<br>
-<kbd></kbd> &nbsp;&nbsp; [Remove Player Control](remove-player/README.md#user-content-remove-player-control)<br>
+<kbd></kbd> &nbsp;&nbsp; [Making it Juicy](juice/README.md#user-content-making-it-juicy)<br>
+<kbd></kbd> &nbsp;&nbsp; [Adding Turntable Camera](remove-player/README.md#user-content-adding-turntable-camera)<br>
 
 <!-- LICENSE -->
 ## License
