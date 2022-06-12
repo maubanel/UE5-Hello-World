@@ -43,13 +43,16 @@ I typed in a capital `H`.
 
 ##### `Step 4.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt text](images/.png)
+While selecting the text layer go to **Edit | Transform | Scale** and scale it up to fill most of the window but giving it some space for an outer glow.  No we cannot have a completely flat extrude we need to have some slope to it.
+
+![scale up H to almost fill screen](images/EditScale.png)
 
 ![](../images/line2.png)
 
 ##### `Step 5.`\|`UE5HW`| :small_orange_diamond:
 
-![alt text](images/.png)
+So to create a gradation from white to black I have selected 
+![alt text](images/outerGlow.png)
 
 ![](../images/line2.png)
 
