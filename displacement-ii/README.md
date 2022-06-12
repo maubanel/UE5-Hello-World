@@ -24,8 +24,9 @@ Now the model is pointing in the wrong diretion.  It is lying along the ground a
 
 ##### `Step 2.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: 
 
-Now we want this to be the default baked position.  Go to **Transform | BakeRS** and 
-![alt text](images/bakeRotation.png)
+Now we want this to be the default baked position.  Go to **Transform | BakeRS** and make sure that **Bake Rotation** is set to `true`.  Press the <kbd>Accept</kbd> button.  Now all your **Rotations** are set to `0`.
+
+![bake rotations to 0](images/bakeRotation.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
