@@ -89,7 +89,9 @@ Now click on the top left button **Perspective** and select **Wireframe**.  This
 
 ##### `Step 10.`\|`UE5HW`| :large_blue_diamond:
 
+Lets subdivide the faces so that they end up being square. Lets put 6 triangles (or 3 polygons) along the shor 30 cm sides.  So how many triangles do we need for the 200 cm face.  Well we can divide 
 
+![alt text](images/subdivideFaces.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
