@@ -182,7 +182,7 @@ When moving files it is a very good idea to right click on the **Content** folde
 
 ##### `Step 21.`\|`UE5HW`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
 
-Now drag and drop the material in the **Material** slot in the file 
+Select the **Letter H** in your **outliner**.  Select the **Material** slot and pick `M_Grad_Cobblestone` as the material for the letter.  Now press the play button and look at your fine work in action! 
 
 https://user-images.githubusercontent.com/5504953/173236984-5435c0c6-828f-4148-b05a-565d4e1d4c93.mp4
 
@@ -194,7 +194,6 @@ Check
 
 https://user-images.githubusercontent.com/5504953/173236994-ae1922fe-c57f-4534-a119-1c5d5b9df331.mp4
 
-![alt text](images/.png)
 ___
 
 ![](../images/line.png)
