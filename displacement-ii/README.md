@@ -66,6 +66,7 @@ https://user-images.githubusercontent.com/5504953/173255516-8a0f4b77-2e1a-4514-8
 
 Now right click on the new static mesh you built and **Rename** it to `SM_H_Alt`.
 
+https://user-images.githubusercontent.com/5504953/173255732-7400bd5f-d5e6-4f4a-82e7-f4c0fe8478aa.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
