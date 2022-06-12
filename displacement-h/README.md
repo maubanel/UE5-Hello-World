@@ -51,15 +51,17 @@ While selecting the text layer go to **Edit | Transform | Scale** and scale it u
 
 ##### `Step 5.`\|`UE5HW`| :small_orange_diamond:
 
-So to create a gradation from white to black I have selected 
+So to create a gradation from white to black I have selected a **Layer Style | Outer Glow** and set the **Blend Mode** to `Normal`, the color to `White`, the **Size** to a maximum of `250` px, and added a rounded **Contour**. Please feel free to experiement with your own settings.
 
-![alt text](images/outerGlow.png)
+![letter H gradation](images/outerGlow.png)
 
 ![](../images/line2.png)
 
 ##### `Step 6.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond:
 
-![alt text](images/.png)
+Now when you are happy with it we can press **File | Export **
+
+![alt text](images/addedHPNG.png)
 
 ![](../images/line2.png)
 
