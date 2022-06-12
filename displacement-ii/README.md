@@ -42,7 +42,7 @@ Go back to **Select** mode. Move the new cursive H next to the blocky one. Press
 
 Go to the **OutsideContent** folder and drag **M_Grad_Grass** to the **Materials** folder.  Select `Move Here`. You will the press the <kbd>Check Out Selected</kbd> button to register this in **Perforce**.  
 
-![alt text](images/moveGreenMat.png)
+![move m_grad_grass to materials folder](images/moveGreenMat.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
