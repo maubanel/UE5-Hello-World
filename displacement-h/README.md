@@ -101,7 +101,10 @@ Now double click on **T_H** texture to open up the texture editor.  Change the *
 
 ##### `Step 11.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: 
 
-![alt text](images/.png)
+Now press the **Select Mode** drop down and pick the **Modeling** mode.  Now pic the **Rect** shape (for a plane) and select a **Width** and **Depth** of `200` cm.  Then lets subdivide the polygons by `10` by `10` for 
+**Width** and **Depth**.
+
+![enter modeling mode with 200cm flat poly with 10 x 10 subdivisions](images/setUpMesh.png)
 
 ![](../images/line2.png)
 
