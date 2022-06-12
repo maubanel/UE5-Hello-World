@@ -33,7 +33,7 @@ The maximum we can use is an 8K texture but what is the exact pixel resolution. 
 
 ##### `Step 3.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now before I booted up **Photoshop** I installed a font that I wanted to use.  You need to have your font loaded **before** you start photoshop.  I select the **Text** tool  
+Now before I booted up **Photoshop** I installed a font that I wanted to use.  You need to have your font loaded **before** you start photoshop.  I select the **Text** tool and picked the `Vujahday Script` font (from Google Fonts).  The maximum size I can make it is `1296` points but we can scale it more.  I typed in a capital `H`.
 
 ![alt text](images/pickFont.png)
 
