@@ -32,13 +32,17 @@ Now we want this to be the default baked position.  Go to **Transform | BakeRS**
 
 ##### `Step 3.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt text](images/.png)
+Go back to **Select** mode. Move the new cursive H next to the blocky one. Press the <kbd>End</kbd> key to get it to be right on the ground plane.  Now delete the reference cube from the scene as it is no longer needed.
+
+![snap h to ground and delete reference cube](images/snapH.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 4.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt text](images/.png)
+Go to the **OutsideContent** folder and drag **M_Grad_Grass** to the **Materials** folder.  Select `Move Here`. You will the press the <kbd>Check Out Selected</kbd> button to register this in **Perforce**.  
+
+![alt text](images/moveGreenMat.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
