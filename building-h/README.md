@@ -65,9 +65,9 @@ https://user-images.githubusercontent.com/5504953/173210038-5375d3cd-4179-49af-a
 
 ##### `Step 7.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-The normal mode we are in when we start the editor is **Select** mode. Click the **Select Mode** button and switch to **Modeling** mode.
+The default editing mode we we start with the editor is **Select** mode. Click the **Select Mode** button and switch to **Modeling** mode. This will change us to a new mode where we can access an extensive set of modeling tools.
 
-![alt text](images/modelingMode.png)
+![set modeling mode in UE5](images/modelingMode.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
