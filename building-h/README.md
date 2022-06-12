@@ -18,7 +18,7 @@ First make sure in **Edit | Plugins** that **Modelling Tools Editor Mode** is en
 
 ![make sure modeling tools are enabled](images/modelingTools.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 2.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: 
 
@@ -29,7 +29,7 @@ I changed the **Auto Generated Asset Path to `MarcMeshes` and made sure the **As
 
 ![add folder to store models(images/settings.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 3.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -37,7 +37,7 @@ Now go back to our **HelloWorld** level and selecdt **Place Actors | Shapes Cube
 
 ![add cube to level](images/AddCube.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 4.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -45,7 +45,7 @@ It can be tricky to get an object to sit right on the ground.  There is a hot ke
 
 https://user-images.githubusercontent.com/5504953/173193202-b8e28f9b-c908-4e12-888a-d74d974b03db.mp4
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 5.`\|`UE5HW`| :small_orange_diamond:
 
@@ -53,7 +53,7 @@ Click on the cube in the scene and in the **Outliner** panel click on the **Fold
 
 https://user-images.githubusercontent.com/5504953/173210035-4a9d754e-93ff-49e3-8677-9b4138904e1c.mp4
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 6.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond:
 
@@ -61,7 +61,7 @@ Now lets switch the default material to see how it looks on this reference model
 
 https://user-images.githubusercontent.com/5504953/173210038-5375d3cd-4179-49af-aa34-c39c06e97d74.mp4
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 7.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -69,7 +69,7 @@ The default editing mode we we start with the editor is **Select** mode. Click t
 
 ![set modeling mode in UE5](images/modelingMode.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 8.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -77,7 +77,7 @@ Click in the **Shapes** menu and select a **Box**.  Set the **Width** and **Dept
 
 ![alt text](images/createLetterMesh.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 9.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -85,7 +85,7 @@ Now click on the top left button **Perspective** and select **Wireframe**.  This
 
 ![wireframe cube](images/wireFrameMode.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 10.`\|`UE5HW`| :large_blue_diamond:
 
@@ -93,7 +93,7 @@ Lets subdivide the faces so that they end up being square. Lets put 6 triangles 
 
 ![calculate subdivision](images/subdivideFaces.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 11.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: 
 
@@ -101,7 +101,7 @@ So lets subivide the **Depth** by `3` and the **Height** by `20`. Now while stil
 
 ![subivide shape by 3 and 20 for depth and height](images/subdivideLeftOfH.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 
 ##### `Step 12.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
@@ -110,7 +110,7 @@ Go back to **Perspective** mode so we do not just see triangles on screen. Now i
 
 ![select triset mode and turn of hit back faces](images/wantToExtrude.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 13.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
@@ -118,7 +118,7 @@ Adjust the **Brush | Size** and select the 6 middle polygons.  If you select too
 
 ![select middle triangles](images/select6Polys.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 14.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
@@ -126,7 +126,7 @@ Now we want to manupulate the entire set of them (we want to extrude them) so le
 
 ![create polygroup](images/createPolygroup.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 15.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: 
 
@@ -136,7 +136,7 @@ Then click the **PolyModel | PolyEd** button and select the group where the brid
 
 https://user-images.githubusercontent.com/5504953/173234122-96514203-f5aa-424c-8827-4eebfca2f2af.mp4
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 16.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
@@ -146,7 +146,7 @@ Notice in my case the size of the texture tiling is quite different than our ref
 
 https://user-images.githubusercontent.com/5504953/173234638-01d7a97b-d309-4589-bed1-d41ba9b59be8.mp4
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 17.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -154,7 +154,7 @@ Select **UVs | Project**.  We will do a **Cube** projection.  In my case the til
 
 https://user-images.githubusercontent.com/5504953/173235268-2c695fb4-5e5d-4b7d-83c5-77bc3278686e.mp4
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 18.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -162,24 +162,27 @@ We are done with modeling mode for now.  Go back to the **Mode Select** drop dow
 
 ![return to select mode](images/goBackToSelect.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 19.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now lets put a material on the **H** to make it look nice.  I have included a few in the **Outside Content** folder.  I am picking **M_Grad_Cobblestone** and dragging it into my **Materials** folder.  I select **Move**.  It will then prompt me to check out the file which I accept.
+Now lets put a material on the **H** to make it look nice.  I have included a few in the **OutsideAssets** folder.  I am picking **M_Grad_Cobblestone** and dragging it into my **Materials** folder.  I select **Move**.  It will then prompt me to check out the file which I accept.
 
 ![checkout and move m_grad_cobblestone to materials folder](images/dragCheckout.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 20.`\|`UE5HW`| :large_blue_diamond: :large_blue_diamond:
 
-![alt text](images/.png)
+When moving files it is a very good idea to right click on the **Content** folder and select **Fix Up Redirects**.  Unreal doesn't move files in the way you think it does and leave redirectors for other assets referencing to them.  To actually move the files in the game as you see it in the **Content** folder you need to fix these redirections.  You will be prompted to **Check Out** files which you will have to so the action can be completed.
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![fix up redirectors](images/FixUpRedirects.png)
+
+![](../images/line2.png)
 
 ##### `Step 21.`\|`UE5HW`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
 
+Now drag and drop the material in the **Material** slot in the file 
 ![alt text](images/.png)
 
 ___
