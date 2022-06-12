@@ -145,7 +145,7 @@ We can adjust the height of the **Displacement Intensity** to something closer t
 
 We can further increase the **Subdivisions**.  It is good to do this slowly as if the number is too big the engine will crash.  I found `14` to produce very high fidelity results.
 
-![change subdivions by a power of 14](images/dispHeight.png)
+![change subdivions by a power of 14](images/subdivideTo14.png)
 
 ![](../images/line2.png)
 
