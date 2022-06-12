@@ -49,11 +49,15 @@ https://user-images.githubusercontent.com/5504953/173193202-b8e28f9b-c908-4e12-8
 
 ##### `Step 5.`\|`UE5HW`| :small_orange_diamond:
 
+Click on the cube in the scene and in the **Detail** panel click on the **Folder** icon next to the static mesh.  This takes you to the location of the file.  It is in the engine folder.  Put your cursor on top of the cube and you will see it is `100` cm cubed.  This is `1` meter cubed.  Lets leave this in the scene as a reference.  1 meter is 3.28 feet.
+
 https://user-images.githubusercontent.com/5504953/173210035-4a9d754e-93ff-49e3-8677-9b4138904e1c.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 6.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond:
+
+Now lets switch the default material to see how it looks on this reference model.  We can use this as a judgement when we have to UV our modeled shapes.  Click on the material then on the **Gear** icon.  Turn on **Engine Content**.  Then look for the `Default Material` and select this for the cube.  You should see a cube with 10cm grid pieces.
 
 https://user-images.githubusercontent.com/5504953/173210038-5375d3cd-4179-49af-aa34-c39c06e97d74.mp4
 
