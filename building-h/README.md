@@ -73,7 +73,7 @@ The default editing mode we we start with the editor is **Select** mode. Click t
 
 ##### `Step 8.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt text](images/.png)
+![alt text](images/createLetterMesh.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
