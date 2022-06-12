@@ -190,7 +190,11 @@ https://user-images.githubusercontent.com/5504953/173236984-5435c0c6-828f-4148-b
 
 ##### `Step 22.`\|`UE5HW`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:  :small_blue_diamond:
 
-Check 
+Now that we are done with the letter H lets name it properly and submit all of your changes to **Perforce**.  Select the **H** in the **Outlinder**, right click and select **Browse to Asset**.
+
+This should take you to the folder that you set up at the beginining to hold all the models you create.  If there are extra ones delete them now.  Lets right click on the mesh and select **Rename**.  Call this mesh `SM_H`. If it prompts you to check out the file please do so.
+
+Select **File | Save All**. Go to the bottom right and press the <kbd>Source Contro</kbd> button and select **Submit**.  Enter a descriptive message then press the <kbd>Submit</kbd> button. You will receive a confimation of the changelist.   s
 
 https://user-images.githubusercontent.com/5504953/173236994-ae1922fe-c57f-4534-a119-1c5d5b9df331.mp4
 
