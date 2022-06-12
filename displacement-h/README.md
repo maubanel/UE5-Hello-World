@@ -170,7 +170,7 @@ You might need to **Actions | Flip Plane** if it is cutting from the wrong direc
 
  So I am going to reduce the poly count to remov some of the noise.  I go to **MeshOps** and selecxt **Simplify**. I set the **Target Percentage** to `1` %.  I like the poly flow much better now.
 
-![poly reduce to 1% using simplify](images/.png)
+![poly reduce to 1% using simplify](images/SmoothoutMesh.png)
 
 ![](../images/line2.png)
 
