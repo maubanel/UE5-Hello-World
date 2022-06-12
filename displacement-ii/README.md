@@ -56,7 +56,7 @@ Now when moving a file it is best to fix up redirectors.  Right click on the **C
 
 ##### `Step 6.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond:
 
-![alt text](images/.png)
+Another way to assign materials is to drag and drop the material on the letter.  Press <kbd>Cntrl Space</kbd> and drag **M_Grad_Grass** onto the model and it will apply the new material.
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
