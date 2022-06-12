@@ -166,7 +166,7 @@ You might need to **Actions | Flip Plane** if it is cutting from the wrong direc
 ![](../images/line2.png)
 
 ##### `Step 19.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
- I find the edges a bit rough as the displacement map has a hard time with steep drop offs as well as photoshop maybe not being the best tool for the job.
+ I find the edges a bit rough as the displacement map has a hard time with steep drop offs as well as photoshop maybe not being the best tool for the job. Also, the UV's are going to be very hard to create properly in such a dense mesh.  
 
  So I am going to reduce the poly count to remov some of the noise.  I go to **MeshOps** and selecxt **Simplify**. I set the **Target Percentage** to `1` %.  I like the poly flow much better now.
 
@@ -176,7 +176,9 @@ You might need to **Actions | Flip Plane** if it is cutting from the wrong direc
 
 ##### `Step 20.`\|`UE5HW`| :large_blue_diamond: :large_blue_diamond:
 
-![alt text](images/.png)
+Now we need to create proper uvs.  Press the **UVs | AutoUV** and it will do a good enough job for us. Press the <kbd>Accept</kbd> button.
+
+![creat auto uvs](images/autoUv.png)
 
 ![](../images/line2.png)
 
