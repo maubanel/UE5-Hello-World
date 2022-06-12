@@ -23,7 +23,11 @@ We will be using a displacement map to create a nice font from a plane in UE5.  
 
 ##### `Step 2.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: 
 
-![alt text](images/.jpg)
+Open up **Photoshop** and create a new file.  Select a **Custom** size.  We want to use a standard texture so we will pick a square resolution with a power of 2 with the most detail we can get.  The more dense the pixels, the greater definition we will have in our displacement map.
+
+The maximum we can use is an 8K texture but what is the exact pixel resolution.  Lets look at the power of 2.  2, 4, 8, 16, 32, 64, 128, 256, 512, 1024, 2048, 4096, 8192.  We want a file that is `8192` square with a black background.  Remember that black is no displacement, and white is maximum displacement. We will draw out text in white which will be the extruded letter.
+
+![create an 8192 by 8192 photoshop file with a black background](images/8kTexture.jpg)
 
 ![](../images/line2.png)
 

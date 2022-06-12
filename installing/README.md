@@ -17,7 +17,7 @@ This is a follow up to the introductory Unreal tutorial *Your First Hour in Unre
 
 | `required.software`\|`Hello World`| 
 | :--- |
-| The required software that needs to be downloaded is included below. |
+| The required software that needs to be downloaded is included below. You will also need photo editing software to create an 8K texture - I am using Photoshop for this example |
 
 ---
 
