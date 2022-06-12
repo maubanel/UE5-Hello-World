@@ -114,15 +114,17 @@ Go back to **Perspective** mode so we do not just see triangles on screen. Now i
 
 ##### `Step 13.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Adjust the Select the 6 middle polygons
+Adjust the **Brush | Size** and select the 6 middle polygons.  If you select too many you can press the <kbd>Shift</kbd> button to deselect them.  It should be easy to pick the 12 triangles in the middle of the **H**.
 
-![alt text](images/select6Polys.png)
+![select middle triangles](images/select6Polys.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 14.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt text](images/.png)
+Now we want to manupulate the entire set of them (we want to extrude them) so lets create a **Polygroup**.
+
+![alt text](images/createPolygroup.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
