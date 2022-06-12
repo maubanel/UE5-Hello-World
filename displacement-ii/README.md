@@ -72,19 +72,25 @@ https://user-images.githubusercontent.com/5504953/173255732-7400bd5f-d5e6-4f4a-8
 
 ##### `Step 8.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt text](images/.png)
+Now you can move both the **SM_H** and **SM_H_Alt** into our **Static Meshes** folder as we are happy with the outcome and want to move them into our active game folders. You will be prompted to check out the files which you will comply with.
+
+![move two static meshes to proper folder](images/moveStaticMeshes.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 9.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt text](images/.png)
+Whenever we move files we need to fix up the redirectors.  Click on **Content** and right click and pick `Fix Up Redirectors in Folders`.  Check out any files you need to.
+
+![fix up redirectors in content folders](images/fixUpRedirects.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 10.`\|`UE5HW`| :large_blue_diamond:
 
-![alt text](images/.png)
+We need to save all of our work to date and submit to **Perforce**.  Press **File | Save All** then press the <kbd>Source Control</kbd> button.  Now press the <kbd>Submit Button</kbd>.  Type in an appropriate message aobut the second **H** and press the <kbd>Submit</kbd> button.
+
+![save all and submit to Perforce](images/addMessageSubmit.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
