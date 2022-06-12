@@ -81,13 +81,15 @@ The default editing mode we we start with the editor is **Select** mode. Click t
 
 Click in the **Shapes** menu and select a **Box**.  Set the **Width** and **Depth** to `30` cm and the height to `200` cm (2 meters).  Move the cursor around and you can see the one side of our **H** letter.
 
-![add box that is 30 wide by 200 tall](images/.png)
+![add box that is 30 wide by 200 tall](images/createLetterMesh.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 10.`\|`UE5HW`| :large_blue_diamond:
 
-![alt text](images/.png)
+Now click on the top left button **Perspective** and select **Wireframe**.  This will show you the model in triangles.  You will notice you have only 2 triangles per face.
+
+![wireframe cube](images/wireFrameMode.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
