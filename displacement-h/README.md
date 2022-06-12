@@ -52,6 +52,7 @@ While selecting the text layer go to **Edit | Transform | Scale** and scale it u
 ##### `Step 5.`\|`UE5HW`| :small_orange_diamond:
 
 So to create a gradation from white to black I have selected 
+
 ![alt text](images/outerGlow.png)
 
 ![](../images/line2.png)
