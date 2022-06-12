@@ -180,17 +180,12 @@ Now we need to create proper uvs.  Press the **UVs | AutoUV** and it will do a g
 
 ![creat auto uvs](images/autoUv.png)
 
-![](../images/line2.png)
-
-##### `Step 21.`\|`UE5HW`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
-
-![alt text](images/.png)
-
 ___
 
 ![](../images/line.png)
 
-<img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - README.md File">
+![next up displacement letter h continued...](images/banner.png)
+
 
 ![](../images/line.png)
 
