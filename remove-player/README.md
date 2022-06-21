@@ -8,6 +8,8 @@
 
 Now to control it in game we need to add a camera to the scene.  We will have the camera rotate around our creation to create a sort of turntable effect.
 
+Now when you click on the camera in the **World Outliner**
+
 <br>
 
 ---
