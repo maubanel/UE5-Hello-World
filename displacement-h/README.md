@@ -17,7 +17,7 @@ Now that builds a very blocky H.  Now that we have nanite support we can have ma
 
 We will be using a displacement map to create a nice font from a plane in UE5.  What is a [displacement map](https://en.wikipedia.org/wiki/Displacement_mapping)? This is a way to use a grayscale map to displace an the points on a model to push them up or down.  Take a look at the video below by clicking on the picture.
 
-[![Watch the video](https://img.youtube.com/vi/1mdR2imNeZI/0.png)](https://youtu.be/1mdR2imNeZI)
+[![Watch the video](https://img.youtube.com/vi/mdR2imNeZI/0.png)](https://youtu.be/1mdR2imNeZI)
 
 ![](../images/line2.png)
 
