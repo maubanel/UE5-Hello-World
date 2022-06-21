@@ -95,7 +95,9 @@ We can also download entire models on **Quixel**.  Go back to **Quixel** and loo
 
 ##### `Step 11.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: 
 
-![alt text](images/.png)
+Now drag the new static mesh into the level and scale it.  I like the statue at this size.
+
+![add statue to level](images/HeroStatue.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
