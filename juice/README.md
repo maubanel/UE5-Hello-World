@@ -120,7 +120,7 @@ https://user-images.githubusercontent.com/5504953/174844508-bd366580-9853-4a5f-9
 
 ##### `Step 14.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-If **Quixels** doesn't have what you want you can also check out the marketplace.  
+If **Quixels** doesn't have what you want you can also check out the marketplace.  Press the <kbd>Get Content</kbd> button and select **Unreal Marketplace**.  This will then brin gup the marketplace where you can find assets for a fee as well as free.
 
 ![ue5 markeplace](images/marketplace.png)
 
@@ -128,7 +128,8 @@ If **Quixels** doesn't have what you want you can also check out the marketplace
 
 ##### `Step 15.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: 
 
-![alt text](images/.png)
+You can search all of the free assets available.  I am picking 
+![alt text](images/sylizedMarket.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
