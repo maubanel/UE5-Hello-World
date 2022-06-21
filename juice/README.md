@@ -23,7 +23,9 @@ So craft out the most creative version of Hello World and populate it on your is
 
 ##### `Step 2.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: 
 
-![alt text](images/.png)
+Now we can customize the materials of the surfaces how we like.  If you open up the **Materials** folder you can find some that are not being used.  I can try out green and drag it on the ground plane!
+
+![green material](images/alterMaterials.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
