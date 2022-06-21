@@ -79,7 +79,9 @@ I can zoom in and make sure I am happy with the tiling scale and offset.
 
 ##### `Step 9.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt text](images/.png)
+I repeated this and found cool textures for all the letters / words.
+
+![all letters have materials](images/texturedAllLetters.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
