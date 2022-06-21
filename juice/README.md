@@ -39,7 +39,7 @@ Now we can also get free access as student to quixel bridge.  Go to **Get Conten
 
 ##### `Step 4.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Once you have found a material you like pick the quality (medium should do for us here) and then press the <kbd>Downlaod</kbd> button.  Then you can press the <kbd>Add</kbd> button to add it to your project.
+Once you have found a material you like pick the quality (medium should do for us here) and then press the <kbd>Download</kbd> button.  Then you can press the <kbd>Add</kbd> button to add it to your project.
 
 ![download and add quixel material](images/downloadAdd.png)
 
