@@ -188,6 +188,16 @@ Go back to **World Settings** and change **GameMode Override** and select `BP_Ga
 
 ![alt text](images/customizeDefault.png)
 
+##### `Step 19.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Press play and now we should have the rotation working without the extra unwanted actor in the scene.
+
+<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+
+##### `Step 20.`\|`UE5HW`| :large_blue_diamond: :large_blue_diamond:
+
+![alt text](images/.jpg)
+
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 | `hello.world`\|`THE END`| 
