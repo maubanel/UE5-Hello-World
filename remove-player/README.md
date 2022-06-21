@@ -154,7 +154,7 @@ Connect the output of the camera node to the **New View Target** pin in the **Se
 
 ##### `Step 15.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: 
 
-Compile the blueprint then go to the game and press run.  The camera should now rotate around the billboard showing off your work.  It is a bit fast though.
+Compile the blueprint then go to the game and press run.  The camera should now rotate around the billboard showing off your work.  It is a bit fast though. I would also like it to turn in the other direction so that it spells Hello World from left to right.
 
 https://user-images.githubusercontent.com/5504953/174898029-2cde2d92-1c5c-4b4c-ad09-25f52b088055.mp4
 
