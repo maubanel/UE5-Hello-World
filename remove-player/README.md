@@ -49,9 +49,16 @@ Now you should see a new **Blueprint** based on the camera actor in the root **C
 
 ##### `Step 4.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Open the newly created **Blueprint**.  In the **Components** tab, press the **+ Add Component** button and search for `Billboard`.  Add this component to the scene.  This will act as the target that the camera looks at but will not be rendered in the level.  It will stay at the local **0, 0, 0** coordinate so this will be the rotation point for the camera to rotate around the level.
+Open the newly created **Blueprint**.  Sometimes it will open in a reduced view and if it does you need to click on the link for **Open Full Blueprint Editor**.
+
+In the **Components** tab, press the **+ Add** button and search for `Billboard`.  Add this component to the scene.  This will act as the target that the camera looks at but will not be rendered in the level.  It will stay at the local **0, 0, 0** coordinate so this will be the rotation point for the camera to rotate around the level.
 
 ![add billboard component to scene](images/AddBillboard.png)
+
+<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+
+##### `Step 5.`\|`UE5HW`| :small_orange_diamond:
+
 
 Press **+ Add Component** again and add a `Rotating Movement` component.
 
@@ -61,9 +68,6 @@ The camera needs to be around 3/4 of the length of the ground surface away from 
 
 ![move camera away from billboard](images/MoveCamBack.jpg)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
-
-##### `Step 5.`\|`UE5HW`| :small_orange_diamond:
 
 Drag the **BP_Camera_Actor** to the scene.  Make sure the billboard component is at **Location** at the point where you want to rotate.  Make sure the **Camera Component** is far enough away.  Go back to the blueprint and adjust the distance.  Use the camera preview to see the framing of the camera. I have it here so that the object is position and rotated with the pivot point in the right place.
 
