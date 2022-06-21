@@ -184,7 +184,7 @@ The default game mode base is spawning a default pawn that is creating this acto
 
 Open up the new **BP_GameModeBase** and change the **Game Session Class** and the **Default Pawn Class** and select `none`. Press the <kbd>Compile</kbd> button.
 
-Go back to **World Settings** and change **GameMode Override and select `BP_GameModeBase`.
+Go back to **World Settings** and change **GameMode Override** and select `BP_GameModeBase`.
 
 ![alt text](images/customizeDefault.png)
 
