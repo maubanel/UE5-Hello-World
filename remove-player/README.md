@@ -17,7 +17,7 @@ Now when you click on the camera in the **World Outliner**
 
 ##### `Step 1.`\|`UE5HW`|:small_blue_diamond:
 
-Go to **Place Actors** and type `Camera` and drag a **Camera** into the scene.  Now when you select the actor in the **World Outlihner** you will see a picture in picture with the camera view.
+Go to **Place Actors** and type `Camera` and drag a **All Classes | Camera Actor** into the scene.  Now when you select the actor in the **Outliner** you will see a picture in picture with the camera view.
 
 
 
@@ -31,7 +31,7 @@ Go to **Place Actors** and type `Camera` and drag a **Camera** into the scene.  
 
 In Unreal you can take any existing actor and turn it into a **Blueprint** that you can reuse or add extra logitc that doesn't exist in the current actor.  This can be done in the **Details** panel.
 
-Now we want to make a blueprint to add logic to it so that it rotates around its center.  Click on the <kbd>Blueprint / Add Script</kbd> button and call it `BP_CameraActor`. In the ***Creaet Blueprint from Selection** menu leave the defaults and press the <kbd>Select</kbd>button. Add it to the **Content | LearningKit Games | Blueprints | Game Framework** folder."
+Now we want to make a blueprint to add logic to it so that it rotates around its center.  Click on the <kbd>Add Script</kbd> button and call it `BP_Camera` and place it in the root of the **Content** folder. In the ***Creaet Blueprint from Selection** menu leave the defaults and press the <kbd>Select</kbd>button.
 
 
 ![turn actor to BP](images/TurnActorToBP.png)
