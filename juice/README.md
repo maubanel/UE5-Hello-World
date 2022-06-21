@@ -120,7 +120,9 @@ https://user-images.githubusercontent.com/5504953/174844508-bd366580-9853-4a5f-9
 
 ##### `Step 14.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt text](images/.png)
+If **Quixels** doesn't have what you want you can also check out the marketplace.  
+
+![ue5 markeplace](images/marketplace.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
