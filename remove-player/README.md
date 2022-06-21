@@ -51,7 +51,7 @@ Now you should see a new **Blueprint** based on the camera actor in the root **C
 
 Open the newly created **Blueprint**.  In the **Components** tab, press the **+ Add Component** button and search for `Billboard`.  Add this component to the scene.  This will act as the target that the camera looks at but will not be rendered in the level.  It will stay at the local **0, 0, 0** coordinate so this will be the rotation point for the camera to rotate around the level.
 
-![add billboard component to scene](images/AddBillboard.jpg)
+![add billboard component to scene](images/AddBillboard.png)
 
 Press **+ Add Component** again and add a `Rotating Movement` component.
 
