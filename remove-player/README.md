@@ -118,7 +118,7 @@ Every level comes with its own blueprint where you can put level specific script
 
 ##### `Step 11.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: 
 
-Now you can see that the blueprint has the same name as the map.  Make sure you are in the **Event Graph**, this is where all your game logic will go.  Notice the **Begin Play Event**.  This event will run **once** when you start the game.  So our script needs to make our new camera the game camera instead of the spectator pawn.  Right click on the graph and search for a **GetPlayerController** node.
+Now you can see that the blueprint has the same name as the map.  Make sure you are in the **Event Graph**, this is where all your game logic will go.  Notice the **Begin Play Event**.  This event will run **once** when you start the game.  So our script needs to make our new camera the game camera instead of the spectator pawn.  Right click on the graph and search for a **GetPlayerController** node and add it to the graph.
 
 ![get player controller](images/getPlayerController.png)
 
@@ -129,7 +129,7 @@ Now you can see that the blueprint has the same name as the map.  Make sure you 
 
 Pull off of the **Return Value** pin and add a **Set View Target with Blend** node.
 
-![set view target with blend](images/SetViewTargetWithBlend.jpg)
+![set view target with blend](images/setViewTargetWBlend.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
