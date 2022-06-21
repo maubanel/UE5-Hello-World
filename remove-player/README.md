@@ -147,11 +147,8 @@ Go back to the **Blueprint** and right click on the graph.  Select **Create a Re
 
 Connect the output of the camera node to the **New View Target** pin in the **Set View Target with Blend** node.
 
-![create a camera reference](images/CreateCameraReference.jpg)
+![create a camera reference](images/linkTwoNewTargets.png)
 
-![cconnect pins](images/ConnectPins.jpg)
-
-![cconnect view target](images/SetNewViewTarget.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
