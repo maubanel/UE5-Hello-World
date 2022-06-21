@@ -1,12 +1,12 @@
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
-### Remove Player Control
+### Adding A Camera
 
 <sub>[previous](../building-h/README.md#user-content-build-the-letter-h) • [home](../README.md#user-content-ue4-hello-world)</sub>
 
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
-Unreal autoamtically loads up a player in most templates.  That is why we place a **player start** because the largest preponderances of games use a controllable character.  What about puzzle games, where the user is just clicking a user interface and not controlling a character (like a crossword puzzle)?  Lets look at how we can set-up a camera, have it rotate around the letter(s) and default to it when starting the game.
+Now to control it in game we need to add a camera to the scene.  We will have the camera rotate around our creation to create a sort of turntable effect.
 
 <br>
 
@@ -15,7 +15,7 @@ Unreal autoamtically loads up a player in most templates.  That is why we place 
 
 ##### `Step 1.`\|`UE5HW`|:small_blue_diamond:
 
-Instead of having the camera on the player pawn that spawns, lets have a predefined camera.  Go to **Modes** and type `Camera` and drag a **Camera** into the scene.  
+Go to **Modes** and type `Camera` and drag a **Camera** into the scene.  
 
 In Unreal you can take any existing actor and turn it into a **Blueprint** that you can reuse or add extra logitc that doesn't exist in the current actor.  This can be done in the **Details** panel.
 
