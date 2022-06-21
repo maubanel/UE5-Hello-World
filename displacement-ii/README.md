@@ -2,7 +2,7 @@
 
 ### Displacement H II
 
-<sub>[previous](../first-hour/README.md#user-content-first-hour-in-ue4) • [home](../README.md#user-content-ue4-hello-world) • [next](../readme/README.md#user-content-readmemd-file)</sub>
+<sub>[previous](../displacement-h/README.md#user-content-displacment-h) • [home](../README.md#user-content-ue4-hello-world) • [next](../readme/README.md#user-content-readmemd-file)</sub>
 
 ![](../images/line3.png)
 
@@ -100,5 +100,5 @@ We need to save all of our work to date and submit to **Perforce**.  Press **Fil
 
 ![](../images/line.png)
 
-| [previous](../first-hour/README.md#user-content-first-hour-in-ue4)| [home](../README.md#user-content-ue4-hello-world) | [next](../readme/README.md#user-content-readmemd-file)|
+| [previous](../displacement-h/README.md#user-content-displacment-h)| [home](../README.md#user-content-ue4-hello-world) | [next](../readme/README.md#user-content-readmemd-file)|
 |---|---|---|
