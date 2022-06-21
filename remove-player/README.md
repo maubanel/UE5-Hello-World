@@ -200,6 +200,7 @@ https://user-images.githubusercontent.com/5504953/174901849-34ea905d-acc2-4e66-8
 
 Select the **File | Save All** then press the <kbd>Source Control</kbd> button and select **Source Control...**. Enter a **Changelist Description** and then press <kbd>Submit Content</kbd>. Update the **Changelist Description** message and with the latest changes. Make sure all the files are correct and press the <kbd>Submit</kbd> button.
 
+https://user-images.githubusercontent.com/5504953/174902712-729d14df-40b5-41c4-9b11-460e4a67d16a.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
