@@ -19,7 +19,7 @@
 <kbd></kbd> &nbsp;&nbsp; [Displacement H](displacement-h/README.md#user-content-displacment-h)<br>
 <kbd></kbd> &nbsp;&nbsp; [Displacement H II](displacement-ii/README.md#user-content-diplacement-h-ii)<br>
 <kbd></kbd> &nbsp;&nbsp; [Making it Juicy](juice/README.md#user-content-making-it-juicy)<br>
-<kbd></kbd> &nbsp;&nbsp; [Adding Turntable Camera](remove-player/README.md#user-content-adding-turntable-camera)<br>
+<kbd></kbd> &nbsp;&nbsp; [Adding A Camera](remove-player/README.md#user-content-adding-a-camera)<br>
 
 <!-- LICENSE -->
 ## License
