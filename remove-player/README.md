@@ -89,7 +89,7 @@ We need to attach the camera to a player.  So we need to add a **Game Mode**.
 
 There are two places we can select the level blueprint.  In the **Project Settings | Maps & Modes** we can set it for the entire project.  We will leave this alone as it works with their test level in the framework we imported.  
 
-We can have a unique gamemode for a specific level.  This is done by going to the **World Settings** tab (if it is not there go to **Settings | World Settings**) and selecting this new game mode as the one we will use for this single level.
+We can have a unique gamemode for a specific level. Lets do it this way. Go to the **World Settings** tab (if it is not there go to **Window | World Settings**) and selecting a **Game Mode Override** of `GameModeBase`. 
 
 ![global game mode in project settings](images/gamemodeBase.png)
 
