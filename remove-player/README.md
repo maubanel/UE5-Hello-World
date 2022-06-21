@@ -135,9 +135,9 @@ Pull off of the **Return Value** pin and add a **Set View Target with Blend** no
 
 ##### `Step 13.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Go to the game window and select the Camera blueprint actor in the scene.
+Go to the game window and select the **BP_Camera** actor in the scene.
 
-![select camera actor in game level](images/SelectCameraActor.jpg)
+![select camera actor in game level](images/selectCamInScene.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
