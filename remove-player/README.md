@@ -163,7 +163,7 @@ https://user-images.githubusercontent.com/5504953/174898029-2cde2d92-1c5c-4b4c-a
 
 ##### `Step 16.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-Lets adjust the speed and position of the camera.  Open the **BP_Camera_Actor** blueprint.  Select the **Rotating Movement** component. Change the  **Rotation Rate | Z** value from `180` degrees per second to `-20`.
+Lets adjust the speed and position of the camera.  Open the **BP_Camera_Actor** blueprint.  Select the **Rotating Movement** component. Change the  **Rotation Rate | Z** value from `180` degrees per second to `-20`. The negative value will make the camera move in the other direction.
 
 Notice that there is an actor we didn't place that is showing up in the rotation.  Look at the end of the video below.
 
