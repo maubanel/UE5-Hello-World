@@ -77,7 +77,7 @@ https://user-images.githubusercontent.com/5504953/174885850-cfaeb794-904b-4ba1-9
 
 ##### `Step 7.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Drag the **BP_Camera_Actor** to the scene.  Make sure the billboard component is at **Location** at the point where you want to rotate.  Make sure the **Camera Component** is far enough away.  Go back to the blueprint and adjust the distance.  Use the camera preview to see the framing of the camera. I have it here so that the object is position and rotated with the pivot point in the right place.
+Make sure the billboard component is at a **Location** where you want to rotate around the letters.  Centering it works for me.   Make sure the **Camera Component** is far enough away to see the letters fully.  Go back to the blueprint and adjust the distance as required.  Use the camera preview to see the framing of the camera. I have it here so that the object is position and rotated with the pivot point in the right place.
 
 ![adjust position of camera in scene](images/AdjustPosition.png)
 
