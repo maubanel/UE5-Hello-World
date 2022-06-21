@@ -176,7 +176,7 @@ https://user-images.githubusercontent.com/5504953/174850463-5fbfc56c-063e-4fe7-a
 
 ![](../images/line.png)
 
-<img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - README.md File">
+![next up we will add a camera to the level](images/addingCam.png)
 
 ![](../images/line.png)
 
