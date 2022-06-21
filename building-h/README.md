@@ -2,7 +2,7 @@
 
 ### Building The Letter H
 
-<sub>[previous](../floor-level/README.md#user-content-adding-floor-and-sky-to-level) • [home](../README.md#user-content-ue4-hello-world) • [next](../readme/README.md#user-content-readmemd-file)</sub>
+<sub>[previous](../floor-level/README.md#user-content-adding-floor-and-sky-to-level) • [home](../README.md#user-content-ue4-hello-world) • [next](../building-h/README.md#user-content-building-the-letter-h)</sub>
 
 ![](../images/line3.png)
 
@@ -206,5 +206,5 @@ ___
 
 ![](../images/line.png)
 
-| [previous](../floor-level/README.md#user-content-adding-floor-and-sky-to-level)| [home](../README.md#user-content-ue4-hello-world) | [next](../readme/README.md#user-content-readmemd-file)|
+| [previous](../floor-level/README.md#user-content-adding-floor-and-sky-to-level)| [home](../README.md#user-content-ue4-hello-world) | [next](../building-h/README.md#user-content-building-the-letter-h)|
 |---|---|---|
