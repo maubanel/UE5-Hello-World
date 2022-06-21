@@ -71,7 +71,7 @@ Press **+ Add** again to add a `Rotating Movement` component.
 
 The camera needs to be around 3/4 of the length of the ground surface away from the billboard.  The billboard will be in the middle of the floor and the camera will look at it and rotate around it.  This will take some trial and error but for now select the **Camera Component** and move it away with the **Red** arrow from the **Billboard**.
 
-
+https://user-images.githubusercontent.com/5504953/174885850-cfaeb794-904b-4ba1-955e-0e7772283fa5.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
