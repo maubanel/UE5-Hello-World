@@ -22,12 +22,14 @@ In Unreal you can take any existing actor and turn it into a **Blueprint** that 
 Now we want to make a blueprint to add logic to it so that it rotates around its center.  Click on the <kbd>Blueprint / Add Script</kbd> button and call it `BP_CameraActor`. In the ***Creaet Blueprint from Selection** menu leave the defaults and press the <kbd>Select</kbd>button. Add it to the **Content | LearningKit Games | Blueprints | Game Framework** folder."
 
 ![drag camera actor to level](images/AddCamToLevel.jpg)
-![turn actor to BP](images/TurnActorToBP.jpg)
-![turn actor to BP](images/NameCamBP.jpg)
+
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 2.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: 
+
+![turn actor to BP](images/TurnActorToBP.jpg)
+![turn actor to BP](images/NameCamBP.jpg)
 
 Open the newly created **Blueprint**.  In the **Components** tab, press the **+ Add Component** button and search for `Billboard`.  Add this component to the scene.  This will act as the target that the camera looks at but will not be rendered in the level.  It will stay at the local **0, 0, 0** coordinate so this will be the rotation point for the camera to rotate around the level.
 
