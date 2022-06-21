@@ -17,7 +17,7 @@
 <kbd></kbd> &nbsp;&nbsp; [Adding Floor and Sky to Level](floor-level/README.md#user-content-adding-floor-and-sky-to-level)<br>
 <kbd></kbd> &nbsp;&nbsp; [Building The Letter H](building-h/README.md#user-content-building-the-letter-h)<br>
 <kbd></kbd> &nbsp;&nbsp; [Displacement H](displacement-h/README.md#user-content-displacment-h)<br>
-<kbd></kbd> &nbsp;&nbsp; [Displacement H II](displacement-ii/README.md#user-content-diplacement-h-ii)<br>
+<kbd></kbd> &nbsp;&nbsp; [Displacement H II](displacement-ii/README.md#diplacement-h-ii)<br>
 <kbd></kbd> &nbsp;&nbsp; [Making it Juicy](juice/README.md#user-content-making-it-juicy)<br>
 <kbd></kbd> &nbsp;&nbsp; [Adding A Camera](remove-player/README.md#user-content-adding-a-camera)<br>
 
