@@ -1,6 +1,6 @@
 ![](../images/line3.png)
 
-### Make it Juicy
+### Making it Juicy
 
 <sub>[previous](../first-hour/README.md#user-content-first-hour-in-ue4) • [home](../README.md#user-content-ue4-hello-world) • [next](../readme/README.md#user-content-readmemd-file)</sub>
 
