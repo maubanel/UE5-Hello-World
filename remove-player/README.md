@@ -60,9 +60,9 @@ In the **Components** tab, press the **+ Add** button and search for `Billboard`
 ##### `Step 5.`\|`UE5HW`| :small_orange_diamond:
 
 
-Press **+ Add Component** again and add a `Rotating Movement` component.
+Press **+ Add** again to add a `Rotating Movement` component.
 
-![add rotating movement component to scene](images/RotatingMovement.jpg)
+![add rotating movement component to scene](images/RotatingMovement.png)
 
 The camera needs to be around 3/4 of the length of the ground surface away from the billboard.  The billboard will be in the middle of the floor and the camera will look at it and rotate around it.  This will take some trial and error but for now select the **Camera Component** and move it away with the **Red** arrow from the **Billboard**.
 
