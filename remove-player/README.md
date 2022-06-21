@@ -2,7 +2,7 @@
 
 ### Adding A Camera
 
-<sub>[previous](../building-h/README.md#user-content-build-the-letter-h) • [home](../README.md#user-content-ue4-hello-world)</sub>
+<sub>[previous](../juice/README.md#user-content-making-it-juicy) • [home](../README.md#user-content-ue4-hello-world)</sub>
 
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
@@ -217,5 +217,5 @@ https://user-images.githubusercontent.com/5504953/174902712-729d14df-40b5-41c4-9
 
 ![](../images/line.png)
 
-| [previous](../building-h/README.md#user-content-build-the-letter-h)| [home](../README.md#user-content-ue4-hello-world) | 
+| [previous](../juice/README.md#user-content-making-it-juicy)| [home](../README.md#user-content-ue4-hello-world) | 
 |---|---|
