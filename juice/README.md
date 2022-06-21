@@ -47,13 +47,17 @@ Once you have found a material you like pick the quality (medium should do for u
 
 ##### `Step 5.`\|`UE5HW`| :small_orange_diamond:
 
-![alt text](images/materialInstance.png)
+Go back to your **Content Drawer** (<kbd>Cntrl Space</kbd>) and there should now be a **Megascans | Surfaces** folder with the new material you downloaded.  Grab the new material and drag it to your ground plane. 
+
+![new material to ground plane](images/materialInstance.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 6.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond:
 
-![alt text](images/.png)
+Repeat this for the letters you have created.  I picked a material from Quixel for the word World and applied it.
+
+![rusty world material](images/repeatThisForLetters.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
