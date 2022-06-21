@@ -47,7 +47,7 @@ Once you have found a material you like pick the quality (medium should do for u
 
 ##### `Step 5.`\|`UE5HW`| :small_orange_diamond:
 
-![alt text](images/.png)
+![alt text](images/materialInstance.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
