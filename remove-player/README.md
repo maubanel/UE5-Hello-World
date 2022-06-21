@@ -192,6 +192,8 @@ Go back to **World Settings** and change **GameMode Override** and select `BP_Ga
 
 Press play and now we should have the rotation working without the extra unwanted actor in the scene.
 
+https://user-images.githubusercontent.com/5504953/174901849-34ea905d-acc2-4e66-8043-c2b2b05056bc.mp4
+
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 20.`\|`UE5HW`| :large_blue_diamond: :large_blue_diamond:
