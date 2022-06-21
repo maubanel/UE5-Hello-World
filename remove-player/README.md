@@ -173,7 +173,7 @@ https://user-images.githubusercontent.com/5504953/174899628-fcc140f0-ed47-4da2-9
 
 ##### `Step 17.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-The default game mode base is spawning a default pawn that is creating this actor in the scene we do not want.  Select the **Content** folder and press the <kbd>+ Add</kbd> and select **Blueprint** then select a `Game Mode Base`.
+The default game mode base is spawning a default pawn that is creating this actor in the scene we do not want.  Select the **Content** folder and press the <kbd>+ Add</kbd> and select **Blueprint** then select `Game Mode Base`.
 
 ![add new game mode base](images/newGameModeBase.png)
 
@@ -182,7 +182,7 @@ The default game mode base is spawning a default pawn that is creating this acto
 
 ##### `Step 18.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Create the rest of the letters to spell out the words **Hello World**.  Play around with the different static meshes and effects they provide to make it look as cool as you can.  You might have to adjust the size of the letters so they all fit on the ground (or expand the ground plane). Your final project should look something like this. Make sure you name your files appropriately and put all your cubes in folders that are clearly labelled.
+
 
 ![alt text](images/.jpg)
 
