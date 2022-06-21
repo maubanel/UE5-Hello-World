@@ -1,10 +1,10 @@
-<img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
+![](../images/line3.png)
 
 ### Adding A Camera
 
 <sub>[previous](../juice/README.md#user-content-making-it-juicy) • [home](../README.md#user-content-ue4-hello-world)</sub>
 
-<img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
+![](../images/line3.png)
 
 Now to control it in game we need to add a camera to the scene.  We will have the camera rotate around our creation to create a sort of turntable effect.
 
