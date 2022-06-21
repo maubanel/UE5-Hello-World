@@ -170,7 +170,7 @@ Now we can drag these new meshes into the level and adjust the scale to your lik
 
 ##### `Step 20.`\|`UE5HW`| :large_blue_diamond: :large_blue_diamond:
 
-Now we want to save and submit to **Perforce**.  Select **File | Save All**.  Then go to **Source Control** and select **Submit Changes**.  Type a message then press the <kbd>Submit</kbd> button.
+Now we want to save and submit to **Perforce**.  Select **File | Save All**.  Then go to **Source Control** and select **Submit Content**.  Type a message then press the <kbd>Submit</kbd> button.
 
 https://user-images.githubusercontent.com/5504953/174850463-5fbfc56c-063e-4fe7-af4e-96b0ac01cc63.mp4
 
