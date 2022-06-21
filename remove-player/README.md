@@ -112,7 +112,6 @@ Lets fix this and use our desired camera as teh **Default** camera when we hit p
 
 Every level comes with its own blueprint where you can put level specific scripts.  When you save a map/level the game automatically creates a level blueprint.  This is where we will tell the game to use our new camera.  You can load it by pressing the <kbd>Blueprints</kbd> button and select **Open Level Blueprint**.
 
-
 ![open level blueprint](images/openLevelBP.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
@@ -121,7 +120,7 @@ Every level comes with its own blueprint where you can put level specific script
 
 Now you can see that the blueprint has the same name as the map.  Make sure you are in the **Event Graph**, this is where all your game logic will go.  Notice the **Begin Play Event**.  This event will run **once** when you start the game.  So our script needs to make our new camera the game camera instead of the spectator pawn.  Right click on the graph and search for a **GetPlayerController** node.
 
-![get player controller](images/GetPlayerController.jpg)
+![get player controller](images/getPlayerController.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
