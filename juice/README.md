@@ -31,7 +31,9 @@ Now we can customize the materials of the surfaces how we like.  If you open up 
 
 ##### `Step 3.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt text](images/.png)
+Now we can also get free access as student to quixel bridge.  Go to **Get Content | Quixel Bridge** and sign in and accept their terms of service (if you would like to that is).  Then you want to look at their **Surfaces**.  I looked around and found one I like.
+
+![quixel bridge surface](images/bridge.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
