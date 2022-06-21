@@ -128,14 +128,19 @@ If **Quixels** doesn't have what you want you can also check out the marketplace
 
 ##### `Step 15.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: 
 
-You can search all of the free assets available.  I am picking 
-![alt text](images/sylizedMarket.png)
+You can search all of the free assets available.  I am picking **Stylized Rendering** a UE4 sample project that is free.  There will be two options with assets.  One is **Create Project** and the other is **Add to Project**.  In this case we will create a new project then migrate the assets to our working directory.  This is important as these asset packs can be gigabytes and chew up large hard disk space.  This way when you are done migrating you can delete this project.
+
+If it needs to **Add to Project** then create a new empty Unreal project and add it to this scratch project.  You can then migrate and export from it just like the above.
+
+![create sylized rendering project for UE4](images/sylizedMarket.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 16.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-![alt text](images/.png)
+I load the game and browse the game.  Oooh, I like the tree.  I click on the green portion of the tree and right click and select **Browse to Asset**.
+
+![browse to tree asset](images/browseToAsset.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
