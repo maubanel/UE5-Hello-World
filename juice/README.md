@@ -104,15 +104,17 @@ Now drag the new static mesh into the level and scale it.  I like the statue at 
 
 ##### `Step 12.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-Now I have included some animations from Epic.  Go to the 
+Now I have included some animations from Epic.  Go to the **Outside Assets | Characters | Character| Animations** folder and drag some animations into the scene.  They will not animate initially.  I snapped them to the ground using the <kbd>End</kbd> key.
 
-![alt text](images/animations.png)
+![add characters to game](images/animations.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 13.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt text](images/.png)
+Press the play button to see the level.
+
+
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
