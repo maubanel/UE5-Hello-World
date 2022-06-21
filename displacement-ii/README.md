@@ -96,7 +96,7 @@ We need to save all of our work to date and submit to **Perforce**.  Press **Fil
 
 ![](../images/line.png)
 
-<img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - README.md File">
+![next up making it juicy...](images/banner.png)
 
 ![](../images/line.png)
 
