@@ -173,7 +173,7 @@ https://user-images.githubusercontent.com/5504953/174899628-fcc140f0-ed47-4da2-9
 
 ##### `Step 17.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-The default game mode base is spawning a default pawn that is creating this actor in the scene we do not want.  
+The default game mode base is spawning a default pawn that is creating this actor in the scene we do not want.  Select the **Content** folder and press the <kbd>+ Add</kbd> and select **Blueprint** then select a `Game Mode Base`.
 
 ![add new game mode base](images/newGameModeBase.png)
 
