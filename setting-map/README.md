@@ -2,7 +2,7 @@
 
 ### Setting up the Map
 
-<sub>[previous](../project-settings/README.md#user-content-project-settings) • [home](../README.md#user-content-ue4-hello-world) • [next](../floor-level/README.md#user-content-adding-floor-to-level)</sub>
+<sub>[previous](../project-settings/README.md#user-content-project-settings) • [home](../README.md#user-content-ue4-hello-world) • [next](../floor-level/README.md#user-content-adding-floor-and-skyto-level)</sub>
 
 ![](../images/line3.png)
 
@@ -166,5 +166,5 @@ Now any time we finish a unit of work we want to save to source control.  Press 
 
 ![](../images/line.png)
 
-| [previous](../project-settings/README.md#user-content-project-settings)| [home](../README.md#user-content-ue4-hello-world) | [next](../floor-level/README.md#user-content-adding-floor-to-level)|
+| [previous](../project-settings/README.md#user-content-project-settings)| [home](../README.md#user-content-ue4-hello-world) | [next](../floor-level/README.md#user-content-adding-floor-and-sky-to-level)|
 |---|---|---|
