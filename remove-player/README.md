@@ -167,7 +167,7 @@ Lets adjust the speed and position of the camera.  Open the **BP_Camera_Actor** 
 
 Notice that there is an actor we didn't place that is showing up in the rotation.  Look at the end of the video below.
 
-https://user-images.githubusercontent.com/5504953/125643100-a0516b9e-2196-4926-8ca9-6cdefb5c2014.mp4
+https://user-images.githubusercontent.com/5504953/174899628-fcc140f0-ed47-4da2-9b2c-1b7dbc3e5928.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
