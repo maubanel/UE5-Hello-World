@@ -21,7 +21,6 @@ Go to **Modes** and type `Camera` and drag a **Camera** into the scene.
 
 In Unreal you can take any existing actor and turn it into a **Blueprint** that you can reuse or add extra logitc that doesn't exist in the current actor.  This can be done in the **Details** panel.
 
-Now we want to make a blueprint to add logic to it so that it rotates around its center.  Click on the <kbd>Blueprint / Add Script</kbd> button and call it `BP_CameraActor`. In the ***Creaet Blueprint from Selection** menu leave the defaults and press the <kbd>Select</kbd>button. Add it to the **Content | LearningKit Games | Blueprints | Game Framework** folder."
 
 ![drag camera actor to level](images/AddCamToLevel.jpg)
 
@@ -29,6 +28,9 @@ Now we want to make a blueprint to add logic to it so that it rotates around its
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 2.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: 
+
+Now we want to make a blueprint to add logic to it so that it rotates around its center.  Click on the <kbd>Blueprint / Add Script</kbd> button and call it `BP_CameraActor`. In the ***Creaet Blueprint from Selection** menu leave the defaults and press the <kbd>Select</kbd>button. Add it to the **Content | LearningKit Games | Blueprints | Game Framework** folder."
+
 
 ![turn actor to BP](images/TurnActorToBP.jpg)
 ![turn actor to BP](images/NameCamBP.jpg)
