@@ -87,9 +87,9 @@ I repeated this and found cool textures for all the letters / words.
 
 ##### `Step 10.`\|`UE5HW`| :large_blue_diamond:
 
-We can also download entire models on **Quixel**.  Go back to **Quixel** and look at their catalog of 3-D models.  Pick one you like.  Now for quality we want **Nanites** which is a significant feature of UE5.  Then <kbd>Download</kbd> and <kbd>Add</kbd> the model to your project.  It will show up in your 
+We can also download entire models on **Quixel**.  Go back to **Quixel** and look at their catalog of 3-D models.  Pick one you like.  Now for quality we want **Nanites** which is a significant feature of UE5.  Then <kbd>Download</kbd> and <kbd>Add</kbd> the model to your project.  It will show up in your **Content Drawer** in the **Magscans | 3D_Assets** folder.
 
-![alt text](images/naniteModel.png)
+![add nanite model to level](images/naniteModel.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
