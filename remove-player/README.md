@@ -41,9 +41,13 @@ Now we want to make a blueprint to add logic to it so that it rotates around its
 
 ##### `Step 3.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now you should see a new **Blueprint** based on the camera actor in the root **Content** folder.
+Now you should see a new **Blueprint** based on the camera actor in the root **Content** folder called **BP_Camera**.
 
 ![turn actor to BP](images/NameCamBP.png)
+
+<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+
+##### `Step 4.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Open the newly created **Blueprint**.  In the **Components** tab, press the **+ Add Component** button and search for `Billboard`.  Add this component to the scene.  This will act as the target that the camera looks at but will not be rendered in the level.  It will stay at the local **0, 0, 0** coordinate so this will be the rotation point for the camera to rotate around the level.
 
@@ -52,10 +56,6 @@ Open the newly created **Blueprint**.  In the **Components** tab, press the **+ 
 Press **+ Add Component** again and add a `Rotating Movement` component.
 
 ![add rotating movement component to scene](images/RotatingMovement.jpg)
-
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
-
-##### `Step 4.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 The camera needs to be around 3/4 of the length of the ground surface away from the billboard.  The billboard will be in the middle of the floor and the camera will look at it and rotate around it.  This will take some trial and error but for now select the **Camera Component** and move it away with the **Red** arrow from the **Billboard**.
 
