@@ -2,7 +2,7 @@
 
 ### Making it Juicy
 
-<sub>[previous](../first-hour/README.md#user-content-first-hour-in-ue4) • [home](../README.md#user-content-ue4-hello-world) • [next](../readme/README.md#user-content-readmemd-file)</sub>
+<sub>[previous](../first-hour/README.md#user-content-first-hour-in-ue4) • [home](../README.md#user-content-ue4-hello-world) • [next](../remove-player/README.md#user-content-adding-a-camera)</sub>
 
 ![](../images/line3.png)
 
@@ -180,5 +180,5 @@ https://user-images.githubusercontent.com/5504953/174850463-5fbfc56c-063e-4fe7-a
 
 ![](../images/line.png)
 
-| [previous](../first-hour/README.md#user-content-first-hour-in-ue4)| [home](../README.md#user-content-ue4-hello-world) | [next](../readme/README.md#user-content-readmemd-file)|
+| [previous](../first-hour/README.md#user-content-first-hour-in-ue4)| [home](../README.md#user-content-ue4-hello-world) | [next](../remove-player/README.md#user-content-adding-a-camera)|
 |---|---|---|
