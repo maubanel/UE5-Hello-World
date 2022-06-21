@@ -173,10 +173,10 @@ https://user-images.githubusercontent.com/5504953/174899628-fcc140f0-ed47-4da2-9
 
 ##### `Step 17.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
+The default game mode base is spawning a default pawn that is creating this actor in the scene we do not want.  
 
-Now to reverse the direction we just make it `-20` degrees per second on the **Rotation Rate | Z** value and the camera will rotate in the opposite direction.
+![add new game mode base](images/newGameModeBase.png)
 
-https://user-images.githubusercontent.com/5504953/125643160-362f4528-c409-40ba-b814-123ea675062a.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
