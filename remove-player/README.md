@@ -85,25 +85,15 @@ Make sure the billboard component is at a **Location** where you want to rotate 
 
 ##### `Step 8.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now we do not want to spawn the third person character.  This can be found in the **Game Mode** blueprint. We do not want to change the existing one as it works with the existing levels in our game.  Go to the **LearningKit_Games | Blueprints | GameFramework** folder and press the <kbd>Add/Import</kbd> button and select <kbd>Blueprint Class</kbd>. Now select the <kbd>Game Mode Base</kbd> class for this blueprint.  Call this blueprint `BP_HelloWorldGameMode`.
-
-![add blueprint to Game Framework folder](images/AddBlueprint.jpg)
-
-![select gamemode base](images/GameModeBase.jpg)
-
-Open up the game mode blueprint and change the **Default Pawn** to `none`.
-
-![set default to none](images/SetDefaultToNone.jpg)
+We need to attach the camera to a player.  So we need to add a **Game Mode**. 
 
 There are two places we can select the level blueprint.  In the **Project Settings | Maps & Modes** we can set it for the entire project.  We will leave this alone as it works with their test level in the framework we imported.  
 
 We can have a unique gamemode for a specific level.  This is done by going to the **World Settings** tab (if it is not there go to **Settings | World Settings**) and selecting this new game mode as the one we will use for this single level.
 
+
 ![global game mode in project settings](images/GameModeProjectSettings.jpg)
 
-![open up world settings tab](images/WorldSettingsTab.jpg)
-
-![select bp_helloworldgamemode](images/WorldSettingsCustomForLEvel.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
