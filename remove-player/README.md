@@ -104,7 +104,7 @@ This is default behavior in Unreal. It expects the user the be controlling a cha
 
 Lets fix this and use our desired camera.
 
-![spawns new camera actor](images/SpawnsNewCamActor.jpg)
+![spawns new camera actor](images/camerasDontMatch.png)
 
 ![cam bp still there not running](images/CamBPStillThere.jpg)
 
