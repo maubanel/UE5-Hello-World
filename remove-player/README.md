@@ -41,6 +41,8 @@ Now we want to make a blueprint to add logic to it so that it rotates around its
 
 ##### `Step 3.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Now you should see a new **Blueprint** based on the camera actor in the root **Content** folder.
+
 ![turn actor to BP](images/NameCamBP.png)
 
 Open the newly created **Blueprint**.  In the **Components** tab, press the **+ Add Component** button and search for `Billboard`.  Add this component to the scene.  This will act as the target that the camera looks at but will not be rendered in the level.  It will stay at the local **0, 0, 0** coordinate so this will be the rotation point for the camera to rotate around the level.
