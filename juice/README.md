@@ -154,7 +154,7 @@ Now the tree comes in a trunk and a top.  I selected both items and right clicke
 
 ##### `Step 18.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now when migrating content you have to select your **Hello World** project and then select the **Content** folder. You **ALWAYS** want to migrate into the **Content** folder.
+Now when migrating content you have to select your **Hello World** project and then select the **Content** folder. You **ALWAYS** want to migrate into the **Content** folder. When you are there press the <kbd>Select Folder</kbd> button.
 
 ![migrate trunk and tree top](images/migrateToContent.png)
 
@@ -162,7 +162,9 @@ Now when migrating content you have to select your **Hello World** project and t
 
 ##### `Step 19.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt text](images/.png)
+Now we can drag these new meshes into the level and adjust the scale to your liking.
+
+![and mesh and scale to liking](images/meshAndScale.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
