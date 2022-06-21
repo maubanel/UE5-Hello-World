@@ -2,7 +2,7 @@
 
 ### Displacement H
 
-<sub>[previous](../building-h/README.md#user-content-building-the-letter-h) • [home](../README.md#user-content-ue4-hello-world) • [next](../readme/README.md#user-content-readmemd-file)</sub>
+<sub>[previous](../displacement-ii/README.md#user-content-diplacement-h-ii) • [home](../README.md#user-content-ue4-hello-world) • [next](../readme/README.md#user-content-readmemd-file)</sub>
 
 ![](../images/line3.png)
 
@@ -191,5 +191,5 @@ ___
 
 ![](../images/line.png)
 
-| [previous](../building-h/README.md#user-content-building-the-letter-h)| [home](../README.md#user-content-ue4-hello-world) | [next](../readme/README.md#user-content-readmemd-file)|
+| [previous](../displacement-ii/README.md#user-content-diplacement-h-ii)| [home](../README.md#user-content-ue4-hello-world) | [next](../readme/README.md#user-content-readmemd-file)|
 |---|---|---|
