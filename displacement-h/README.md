@@ -19,7 +19,7 @@ We will be using a displacement map to create a nice font from a plane in UE5.  
 
 [![Watch the video](http://i3.ytimg.com/vi/1mdR2imNeZI/hqdefault.jpg)](https://youtu.be/1mdR2imNeZI)
 
-Click on above photo.
+*Click on above photo to watch video.*
 
 ![](../images/line2.png)
 
