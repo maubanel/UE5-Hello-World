@@ -27,7 +27,7 @@ I want to alter the default settings.  I want all models I create using the tool
 I changed the **Auto Generated Asset Path to `MarcMeshes` and made sure the **Asset Generation Locations** was set to `Auto Generated Global Asset Path` and set **Store Unsaved Level Assets in Top Level Game Folder** to `true`.
 
 
-![add folder to store models(images/settings.png)
+![add folder to store models](images/settings.png)
 
 ![](../images/line2.png)
 
