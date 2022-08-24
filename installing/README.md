@@ -82,6 +82,11 @@ The version control that we will be using is **Perforce**.  If you have access t
 
 ![download helix](images/helixP4v.png)
 
+Loginto Perforce using the 
+
+![download helix](images/p4Login.png)
+
+
 ![](../images/line2.png)
 
 ##### `Step 8.`\|`FHIU`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
