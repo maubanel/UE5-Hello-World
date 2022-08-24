@@ -82,7 +82,7 @@ The version control that we will be using is **Perforce**.  If you have access t
 
 ![download helix](images/helixP4v.png)
 
-Loginto Perforce using the 
+Loginto Perforce using the **Server** `ssl:helixcore.cct.lsu.edu:1818`.  The **User** is your lsu login.
 
 ![download helix](images/p4Login.png)
 
