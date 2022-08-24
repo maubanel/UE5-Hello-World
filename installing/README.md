@@ -96,7 +96,7 @@ If you are using **Perforce** complete the single **[P4 Workspace GitHub Page](h
 
 ##### `Step 9.`\|`FHIU`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now if you have installed **Perforce** and have access to the repository you should have the **Hello World** folder.  If not you can download it at: [github]() and skip **Step 10**.
+Now if you have installed **Perforce** and have access to the repository you should have the **2022-ART-424--02-UE5/LSUUSERNAME**.  
 
 ![](../images/line2.png)
 
