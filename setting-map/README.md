@@ -18,7 +18,7 @@ OK, lets open **UE5** again through **P4V**.   Open the **Content Drawer** (<kbd
 
 ![Add three new folders to contents](images/addNewFolder.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 2.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: 
 
@@ -26,7 +26,7 @@ Name the folders `Materials`, `Static Meshes` and `Textures`.
 
 ![name the three folders Materials, Static Meshes and Textures](images/threeNewFolders.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 3.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -34,7 +34,7 @@ Go to the **Open Assets** folder and look for a file called `SM_Floor`.  This is
 
 ![open static mesh editor](images/doubleClickStaticMesh.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 4.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -42,7 +42,7 @@ A static mesh is a type of actor that displays a 3-D model for objects without s
 
 ![floor mesh](images/floorMesh.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 5.`\|`UE5HW`| :small_orange_diamond:
 
@@ -50,7 +50,7 @@ A static mesh is made up of triangles under the surface.  Take a look at the vid
 
 [![Watch the video](https://img.youtube.com/vi/U93RImC-by4/0.jpg)](https://youtu.be/U93RImC-by4)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 6.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond:
 
@@ -58,7 +58,7 @@ So we can view our model's topology of triangles.  First lets turn off the backg
 
 https://user-images.githubusercontent.com/5504953/172293160-02c237d9-4b90-4579-a240-e60255a946f8.mp4
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 7.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -66,7 +66,7 @@ So the triangles determine the general form of the 3-D model.  We also have a **
 
 ![material in mesh edtior ue5](images/ueMat.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 8.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -74,7 +74,7 @@ This is a material editor that includes a node chart that adds surface detail to
 
 ![material editor](images/mat.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 9.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -82,7 +82,7 @@ Now you will notice that all the nodes go to the **Result Node** in the node cha
 
 ![base color](images/resultNode.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 10.`\|`UE5HW`| :large_blue_diamond:
 
@@ -94,7 +94,7 @@ Notice that the **R** pin is the only one used in the base color.  Lets double c
 
 ![base color flowchart](images/baseColorWF.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 11.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: 
 
@@ -102,7 +102,7 @@ Now in our **Texture** editor the texture looks wrong and is pink. Why is the mo
 
 ![texture packing](images/texturePacking.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 
 ##### `Step 12.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
@@ -111,7 +111,7 @@ In 3-D the texture can use different channels for different parts of the materia
 
 ![red channel only in texture](images/clickGB.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 13.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
@@ -119,7 +119,7 @@ So what does the multiply node do?  If we don't multiply our color is more like 
 
 ![multiply and no multiply](images/multiplyNoMult.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 14.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
@@ -127,7 +127,7 @@ So what does the multiply node do?  If we don't multiply our color is more like 
 
 ![drag sm_floor to StaticMeshes folder](images/movetoSM.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 15.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: 
 
@@ -135,7 +135,7 @@ Now drag `T_Tech_Hex_Tile_M` and `T_Tech_Hex_Tile_N` to the **Textures** folder 
 
 ![move two textures to textures folder](images/dragTextures.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 16.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
@@ -143,7 +143,7 @@ Then finally move the material `M_Tech_Hex` to the **Materials** folder and chec
 
 ![move material to Materials folder](images/materialMove.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 17.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -151,7 +151,7 @@ Now after moving files it is best practice to finish the process.  Unreal doesn'
 
 ![Fix Up Redirectors in Folder](images/fixRedirectors.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 18.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -159,6 +159,21 @@ Now any time we finish a unit of work we want to save to source control.  Press 
 
 ![submit changes to perforce](images/submitToSource.png)
 
+![](../images/line2.png)
+
+##### `Step 19.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Now we need to make sure our **P4 Ignore** file will be recognized by **Perforce**.  Enter `cmd` in your windows menu to run **Command Prompt**.  Type `p4 set` then enter.  You will see if you have a P4IGNORE setting set? If you see `P4IGNORE=.p4ignore (set)` then you can move on to [Step 12](#step-12ue5ld-large_blue_diamond-small_blue_diamond-small_blue_diamond) otherwise fix this in the next step.
+
+![p4 set in command prompt](images/p4set.png)
+
+![](../images/line2.png)
+
+##### `Step 20.`\|`UE5HW`| :large_blue_diamond: :large_blue_diamond:
+
+In command prompt type `p4 set P4IGNORE=.p4ignore`.  Make sure there are no spaces between or after the `=` sign.  Then type in and enter a `p4 set` again and you should see that it is now showing: `P4IGNORE=.p4ignore (set)`.  Now you are ready to move to the next step.
+
+![empty github repository](images/ignoreset.png)
 
 ![](../images/line.png)
 
