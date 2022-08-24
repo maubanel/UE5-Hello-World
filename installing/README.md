@@ -82,7 +82,7 @@ The version control that we will be using is **Perforce**.  If you have access t
 
 ![download helix](images/helixP4v.png)
 
-Loginto Perforce using the **Server** `ssl:helixcore.cct.lsu.edu:1818`.  The **User** is your lsu login.
+Loginto Perforce by running the newly installed **P4V** using the **Server** `ssl:helixcore.cct.lsu.edu:1818`.  The **User** is your lsu login. You can install P4V on as many computers you will be using for this project.  The first time you log into a machine, you will get a warning that a fingerprint is required.  Select **Trust this fingerprint** then press the <kbd>Connect</kbd> button.
 
 ![download helix](images/p4Login.png)
 
