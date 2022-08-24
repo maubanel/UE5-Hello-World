@@ -91,7 +91,7 @@ Log into the Perforce by running the newly installed **P4V** using the **Server*
 
 ##### `Step 8.`\|`FHIU`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-If you are using **Perforce** complete the single **[P4 Workspace GitHub Page](https://github.com/maubanel/p4v-unreal/blob/main/workspaces/README.md#user-content-workspaces-in-p4v)** for creating a workspace directory then return to this walk through.
+Complete the single **[P4 Workspace GitHub Page](https://github.com/maubanel/p4v-unreal/blob/main/workspaces/README.md#user-content-workspaces-in-p4v)** for creating a workspace directory then return to this walk through. You need to do this on all the computers you will be using Unreal on.
 
 ![create workspace](images/createWorkspace.png)
 
