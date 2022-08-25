@@ -171,28 +171,18 @@ Lets make the staging area a bit bigger for our letters.  Lets duplicate the flo
 
 ##### `Step 18.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-To do this we would like to get them to snap together.  Just like snap to grid in photoshop we can set the transform editor to snap by any using length we want (it defaults to snapping to 10 cm).  It is located right next to the grid icon.
-
-![change snapping to 1000](images/changeSnapping.png)
-
-
-![](../images/line2.png)
-
-##### `Step 19.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
 OK, lets save all of our changes and commit to source control.  Go to **File | Save All** and save all outstanding work in the engine.
 
 ![save all work](images/saveAll.png)
 
 ![](../images/line2.png)
 
-##### `Step 20.`\|`UE5HW`| :large_blue_diamond: :large_blue_diamond::small_blue_diamond:
+##### `Step 19.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Now we need to submit these changes to the server. Click on the bottom right <kbd>Source Control</kbd> button and select **Submit Content**.  Add a message for the work done and then press **Submit**.  Now you should receive a pop up in the bottom right sating a changelist was created inidcating a succesful submission to the server.
 
 ![submit to p4 with message](images/submittop4.png)
 
-___
 
 ![](../images/line.png)
 
