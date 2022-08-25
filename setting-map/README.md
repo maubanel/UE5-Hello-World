@@ -86,11 +86,11 @@ Now you will notice that all the nodes go to the **Result Node** in the node cha
 
 ##### `Step 10.`\|`UE5HW`| :large_blue_diamond:
 
-We have the **Texture Sample** node that contains a pink texture that goes to a **Multiply** node that then goes to the *Base Color** in the **Result Node**.
+We have the **Texture Sample** node that contains a pink texture that goes to a **Multiply** node that then goes to the **Base Color** in the **Result Node**.
 
 Notice that there are different output pins from the **Texture Sample** node.  An **RGB** pin which outputs only red, green and blue.  Seperate **R**, **G**, and **B** pins reprenting each color separately.  The is also an **A** pin representing the **Alpha** channel.  And finally there is a **RGBA** which represents all three color channels and an alpha.
 
-Notice that the **R** pin is the only one used in the base color.  Lets double click the `T_Tech_Hex_Tile` file to open up the texture file used.
+Notice that the **R** pin is the only one used in the base color.  Select the **Texture Sample** in the Mask Texture. Lets double click the `T_Tech_Hex_Tile` file to open up the texture file used.
 
 ![base color flowchart](images/baseColorWF.png)
 
@@ -158,22 +158,6 @@ Now after moving files it is best practice to finish the process.  Unreal doesn'
 Now any time we finish a unit of work we want to save to source control.  Press the bottom right button <kbd>Source Control</kbd> and select `Submit`. Now enter a message in the **Changelist Description** box.  This way we know what was done if we need to go back and fix it later.  Then we press the <kbd>Submit</kbd> button.  If it was done correctly you will see a pop up saying it was submitted to a changelist (your number will be different).
 
 ![submit changes to perforce](images/submitToSource.png)
-
-![](../images/line2.png)
-
-##### `Step 19.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-Now we need to make sure our **P4 Ignore** file will be recognized by **Perforce**.  Enter `cmd` in your windows menu to run **Command Prompt**.  Type `p4 set` then enter.  You will see if you have a P4IGNORE setting set? If you see `P4IGNORE=.p4ignore (set)` then you can move on to [Step 12](#step-12ue5ld-large_blue_diamond-small_blue_diamond-small_blue_diamond) otherwise fix this in the next step.
-
-![p4 set in command prompt](images/p4set.png)
-
-![](../images/line2.png)
-
-##### `Step 20.`\|`UE5HW`| :large_blue_diamond: :large_blue_diamond:
-
-In command prompt type `p4 set P4IGNORE=.p4ignore`.  Make sure there are no spaces between or after the `=` sign.  Then type in and enter a `p4 set` again and you should see that it is now showing: `P4IGNORE=.p4ignore (set)`.  Now you are ready to move to the next step.
-
-![empty github repository](images/ignoreset.png)
 
 ![](../images/line.png)
 
