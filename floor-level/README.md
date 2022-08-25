@@ -155,7 +155,7 @@ Select **Place Actor | Special Effect | Exponential Height Fog** and drag it int
 
 ##### `Step 16.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-Now the resulting scene is fine for now.  
+Now the resulting scene is fine for now.  We can move on to making the ground plane a bit larger.
 
 https://user-images.githubusercontent.com/5504953/172865657-70ab7535-8d0b-44ab-b67e-b802ae4bef7c.mp4
 
@@ -163,17 +163,46 @@ https://user-images.githubusercontent.com/5504953/172865657-70ab7535-8d0b-44ab-b
 
 ##### `Step 17.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Lets make the staging area a bit bigger for our letters.  Lets duplicate the floor and expand the ground surface.  Lets do this accurately wihtout fuss.  Open up the **Content Drawer** (<kbd>Cntrl Space</kbd>) and highlight **Content | StaticMeshes | SM_Floor**.  UE5 units default to 1cm per unit. You will see the size is `1000 cm` by `1000 cm` by `50 cm`.  1000 centimers is **32 feet** (or 10 meters) and 50 centimeters is **1.64 feet** (or .5 meters). Lets make the surface to hold our Hello World letters 20 meters by 20 meters (4 floor pieces).
+
+![size of floor](images/sizeOfFloor.png)
+
+![](../images/line2.png)
+
+##### `Step 18.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+To do this we would like to get them to snap together.  Just like snap to grid in photoshop we can set the transform editor to snap by any using length we want (it defaults to snapping to 10 cm).  It is located right next to the grid icon.
+
+![change snapping to 1000](images/changeSnapping.png)
+
+![](../images/line2.png)
+
+##### `Step 19.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+We can copy and paste using the windows shortcuts like <kbd>cntrl c</kbd> and </kbd>cntrl v</kbd>.  But they have a cool shortcut where you press <kbd>alt</kbd> while dragging on one of the translation widget arros when the object is selected in the outliner.
+
+Repeat this three times to create a large surface with 4 seamlessly tied together floor pieces.
+
+https://user-images.githubusercontent.com/5504953/172875319-445ad9fe-4dbe-409b-8531-46f32aaa7ed6.mp4
+
+
+![](../images/line2.png)
+
+##### `Step 20.`\|`UE5HW`| :large_blue_diamond: :large_blue_diamond:
+
 OK, lets save all of our changes and commit to source control.  Go to **File | Save All** and save all outstanding work in the engine.
 
 ![save all work](images/saveAll.png)
 
 ![](../images/line2.png)
 
-##### `Step 18.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 21.`\|`UE5HW`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
 
 Now we need to submit these changes to the server. Click on the bottom right <kbd>Source Control</kbd> button and select **Submit Content**.  Add a message for the work done and then press **Submit**.  Now you should receive a pop up in the bottom right sating a changelist was created inidcating a succesful submission to the server.
 
 ![submit to p4 with message](images/submittop4.png)
+
+___
 
 ![](../images/line.png)
 
