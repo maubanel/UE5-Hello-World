@@ -153,7 +153,7 @@ We can further increase the **Subdivisions**.  It is good to do this slowly as i
 
 ##### `Step 17.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now I need to cut of the original plane that we used to start so we just have the letter **H**.  Select the **TriModel | PlyCut** tool.  Drag the blue arrow up and down to change the height of where it is cutting.  Be patient when you let go it needs to cut through millions of polygons so there is a temporary texture while it is making its calculations. 
+Now I need to cut of the original plane that we used to start so we just have the letter **H**.  Select the **TriModel | PlnCut** tool.  Drag the blue arrow up and down to change the height of where it is cutting.  Be patient when you let go it needs to cut through millions of polygons so there is a temporary texture while it is making its calculations. 
 
 ![select plane cut tool](images/planeCut.png)
 
