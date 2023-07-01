@@ -4,8 +4,8 @@
 ## Overview
 * This is an introductory walkthrough excersise in Unreal Engine 5.  It shows the building blocks for creating a level with "Hello World" spelled out with a camera that rotates around your creation. This is mainly aimed at getting used to the editor and the user interface of UE5.
 
-* Tested on UE4 5.02
-* Required to install: P4, P4V, Git, Epic Installer, Unreal Engine 5.0.x, Photo Editing Software such as Photoshop
+* Tested on UE4 5.2.X
+* Required to install: P4, P4V, Epic Installer, Unreal Engine 5.2.X, Photo Editing Software such as Photoshop
 
 <!-- TOC -->
 ## Table of Contents
