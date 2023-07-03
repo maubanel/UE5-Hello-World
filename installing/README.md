@@ -108,7 +108,7 @@ Now if you have installed **Perforce** and have access to the repository you sho
 
 Now you will have your **HelloWorld**  folder and a `.p4config`, `.p4ignore` (no .txt extension) and `setconfig.bat` file.
 
-It is good practice to run **UE5** while you have **P4V** loaded.  So it is good practice to double click the project within **P4V** to launch it.  
+It is good practice to run **UE5** while you have **P4V** loaded.  So it is good practice to double click the **HelloWorld.uproject** project file within **P4V** to launch it.  
 
 ![double click uproject file](images/clickuproject.png)
 
