@@ -82,14 +82,17 @@ The version control that we will be using is **Perforce**.  If you have access t
 
 ![download helix](images/helixP4v.png)
 
+![](../images/line2.png)
+
+##### `Step 8.`\|`FHIU`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
 Log into the Perforce by running the newly installed **P4V** using the **Server** `ssl:helixcore.cct.lsu.edu:1818`.  The **User** is your lsu login. You can install P4V on as many computers you will be using for this project.  The first time you log into a machine, you will get a warning that a fingerprint is required.  Select **Trust this fingerprint** then press the <kbd>Connect</kbd> button.
 
 ![download helix](images/p4Login.png)
 
-
 ![](../images/line2.png)
 
-##### `Step 8.`\|`FHIU`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 9.`\|`FHIU`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 The **Depot** you will be using this semester is **2023 Fall ART 2020-UE5**. It is a stream depot. 
 
@@ -97,17 +100,11 @@ Complete the single **[P4 Workspace GitHub Page](https://github.com/maubanel/p4v
 
 ![create workspace](images/createWorkspace.png)
 
-
-
-![](../images/line2.png)
-
-##### `Step 9.`\|`FHIU`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-Now if you have installed **Perforce** and have access to the repository you should have the **2022-ART-424--02-UE5/LSUUSERNAME**.  
-
 ![](../images/line2.png)
 
 ##### `Step 10.`\|`UE5HW`| :large_blue_diamond:
+
+Now if you have installed **Perforce** and have access to the repository you should have the **2022-ART-424--02-UE5/LSUUSERNAME**.  
 
 Now you will have your **Hello** world folder in the project you either downloaded above or with **Perforce**.  
 
