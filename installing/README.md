@@ -104,9 +104,9 @@ Complete the single **[P4 Workspace GitHub Page](https://github.com/maubanel/p4v
 
 ##### `Step 10.`\|`UE5HW`| :large_blue_diamond:
 
-Now if you have installed **Perforce** and have access to the repository you should have the **2022-ART-424--02-UE5/LSUUSERNAME**.  
+Now if you have installed **Perforce** and have access to the repository you should have the **FA23-2020-UE5**.  
 
-Now you will have your **Hello** world folder in the project you either downloaded above or with **Perforce**.  
+Now you will have your **HelloWorld**  folder and a `.p4config`, `.p4ignore` (no .txt extension) and `setconfig.bat` file.
 
 It is good practice to run **UE5** while you have **P4V** loaded.  So it is good practice to double click the project within **P4V** to launch it.  
 
