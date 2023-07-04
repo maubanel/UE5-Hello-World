@@ -119,7 +119,7 @@ It is good practice to run **UE5** while you have **P4V** loaded.  So it is good
 
 ##### `Step 11.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: 
 
-Now this should load the **UE5** project and you should see the UE5 screen.  If you do you can move to the next step in the [walk through]() and skip the following steps.
+Now this should load the **UE5** project and you should see the UE5 screen.  If you do you can move to [step 17](#step-17ue5hw-large_blue_diamond-small_orange_diamond-small_blue_diamond-small_blue_diamond) and skip the following steps.
 
 ![ue5 engine loaded](images/loadsUE5.png)
 
