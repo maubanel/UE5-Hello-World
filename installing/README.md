@@ -78,7 +78,7 @@ You will also need to select which components to install.  I saved room on my co
 
 ##### `Step 7.`\|`FHIU`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-The version control that we will be using is **Perforce**.  If you have access to a P4 server (you can install one on your own) download **[Perforce Helix P4V Tools](https://www.perforce.com/downloads/helix-visual-client-p4v)**  now. If you are an LSU student you can find more detailed installation instructions at [Installing P4V](https://github.com/maubanel/p4v-unreal/blob/main/installing/README.md#user-content-installing-p4v). You will need to go there to find out the name of the server.  Return here when you have completed this one page.
+The version control that we will be using is **Perforce**.  If you have access to a P4 server (you can install one on your own) download **[Perforce Helix P4V Tools](https://www.perforce.com/downloads/helix-visual-client-p4v)**  now. If you are an LSU student you can find more detailed installation instructions at [Installing P4V](https://github.com/maubanel/p4v-unreal/blob/main/installing/README.md#user-content-installing-p4v). The server you will be using is: `ssl:helixcore.cct.lsu.edu:1818`.
 
 ![download helix](images/helixP4v.png)
 
@@ -97,6 +97,8 @@ Log into the Perforce by running the newly installed **P4V** using the **Server*
 The **Depot** you will be using this semester is **2023 Fall ART 2020-UE5**. It is a stream depot. 
 
 Complete the single **[P4 Workspace GitHub Page](https://github.com/maubanel/p4v-unreal/blob/main/workspaces/README.md#user-content-workspaces-in-p4v)** for creating a workspace directory then return to this walk through. You need to do this on all the computers you will be using Unreal on.
+
+Make sure you have a `.p4ignore` (and not a p4ignore.txt) and a `p4config` in your root folder (above **Hello World**).
 
 ![create workspace](images/createWorkspace.png)
 
