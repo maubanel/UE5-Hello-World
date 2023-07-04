@@ -129,7 +129,7 @@ There is not much to configure here, it is a bit more work to hand craft the clo
 
 ##### `Step 13.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-One of the coolest things about 3-D clouds is that it can affect the **Directional Light** and the clouds can cast shadows.  Click on the **Directional Light** and set the **Atmoshpere and Cloud | Casdt Cloud Shadows** to `true`.
+One of the coolest things about 3-D clouds is that it can affect the **Directional Light** and the clouds can cast shadows.  Click on the **Directional Light** and set the **Atmoshpere and Cloud | Cast Cloud Shadows** to `true`.
 
 https://user-images.githubusercontent.com/5504953/172861626-ffad3d92-ff55-48dd-801d-10125881e425.mp4
 
