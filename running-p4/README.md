@@ -64,7 +64,7 @@ Now there is a small message on the bottom right stating a link to **Revision Co
 
 ##### `Step 4.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now we enter the provider as **Perforce**, the **Server** as `helixcore.cct.lsu.edu:1818`, the user name and the workspace. Press the <kbd>Accept Settings</kbd> button.
+Now we enter the provider as **Perforce**, the **Server** as `ssl:helixcore.cct.lsu.edu:1818`, the user name and the workspace. Press the <kbd>Accept Settings</kbd> button.
 
 ![set up version control](images/p4location.png)
 
