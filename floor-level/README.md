@@ -80,7 +80,7 @@ https://user-images.githubusercontent.com/5504953/172624138-fdd5d5eb-28ad-4adc-9
 
 ##### `Step 8.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now we are in a black world - lets create a sky.  Go back to the environmental light mixer and a **Sky Atmosphere**.
+Now we are in a black world - lets create a sky.  Go back to the environmental light mixer and a **Create Sky Atmosphere**.
 
 >The Sky Atmosphere component in Unreal Engine is a physically-based sky and atmosphere-rendering technique. It's flexible enough to create an Earth-like atmosphere with time-of-day featuring sunrise and sunset, or to create extraterrestrial atmospheres of an exotic nature. - [UE5 Manual](https://docs.unrealengine.com/5.2/en-US/sky-atmosphere-component-in-unreal-engine/).
 
