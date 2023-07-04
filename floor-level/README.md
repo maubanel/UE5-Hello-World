@@ -189,8 +189,7 @@ We can copy and paste using the windows shortcuts like <kbd>cntrl c</kbd> and <k
 
 Repeat this three times to create a large surface with 4 seamlessly tied together floor pieces.
 
-https://user-images.githubusercontent.com/5504953/172875319-445ad9fe-4dbe-409b-8531-46f32aaa7ed6.mp4
-
+https://github.com/maubanel/UE5-Hello-World/assets/5504953/7e772595-82c2-4694-a01d-42ff7a6379d3
 
 ![](../images/line2.png)
 
