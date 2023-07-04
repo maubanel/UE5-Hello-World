@@ -137,7 +137,7 @@ Sometimes Unreal doesn't register the `.uproject` with windows so only complete 
 
 Right click on `.uproject` and select **Open With...**. Click on the `More Apps` link and we will locate it manually.
 
-![select more apps](images/MoreApps.jpg)
+![select more apps](images/MoreApps.png)
 
 ![](../images/line2.png)
 
