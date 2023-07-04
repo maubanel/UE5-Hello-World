@@ -107,7 +107,7 @@ Now in our **Texture** editor the texture looks wrong and is pink. Why is the mo
 
 ##### `Step 12.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-In 3-D the texture can use different channels for different parts of the material. In this case the **Base Color** is only getting data from the **R** (red) channel.  So click on **G** and **B** to turn off those channels.  Now we have a grey and white texture that look a lot more like the render on the sphere.
+In 3-D the texture can use different channels for different parts of the material. In this case the **Base Color** is only getting data from the **R** (red) channel.  So click on **G** and **B** to turn off those channels.  Now we have a grey and white texture that look a lot more like the render on the sphere. This material is packing its masks into a single texture with the **R** channel for the base color, and the **G** channel for metallic.
 
 ![red channel only in texture](images/clickGB.png)
 
