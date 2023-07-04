@@ -115,7 +115,7 @@ In 3-D the texture can use different channels for different parts of the materia
 
 ##### `Step 13.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-So what does the multiply node do?  If we don't multiply our color is more like the one in the texture and is fairly light (go back above and look at the texture).  When we multiply it by gray it is getting darker.  That is all this multiply node is doing. So not only can the texture represent different things to the material but we can change the properties in other nodes.  Cool!
+So what does the multiply node do?  If we don't multiply our color is more like the one in the texture and is fairly light (go back above and look at the texture).  When we multiply it by gray it is getting darker.  We can change the color gray by double cliking on it and adjust the hue in the **Color Picker**.  We can then change the hue and have a different looking floor. That is all this multiply node is doing. So not only can the texture represent different things to the material but we can change the properties in other nodes.  Cool!
 
 ![multiply and no multiply](images/multiplyNoMult.png)
 
