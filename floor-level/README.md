@@ -15,7 +15,13 @@ Now lets add the floor static mesh we looked at to the level as it is completely
 
 ##### `Step 1.`\|`UE5HW`|:small_blue_diamond:
 
-Make sure you booted up the game from **P4V** and that **Source Control** is green.  Make sure you are in the **Hello World** level. Now access the **Content Drawer** (<kbd>Cntrl Space</kbd>) and select the **Static Mesh** folder and drag `SM_Floor` into the level.  Notice everything is black. It did add an instance of the loor to the **Outliner**.
+Make sure you booted up the game from **P4V** and that **Source Control** is green.  Make sure you are in the **Hello World** level. Now access the **Content Drawer** (<kbd>Cntrl Space</kbd>) and select the **Static Mesh** folder and drag `SM_Floor` into the level.  
+
+When you drag a static mesh into the level it shows up in the **World Outliner**.  This is what we call a single instance in level HelloWorld of the SM_Floor static mesh.  Now you can have more instances of this object in the level, but there is only a single mesh in the game.
+
+In the **Transform | Location** in the details pane you will notice that it dropped it in a random area.  Press the white <kbd>Arrow</kbd> icon and reset the location to `0.0, 0.0, 0.0`.
+
+Notice everything is black. Why can't we see anything?
 
 ![drag SM_Floor into level](images/DragStaticMesh.png)
 
