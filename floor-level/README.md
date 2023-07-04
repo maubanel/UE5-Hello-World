@@ -139,7 +139,9 @@ https://user-images.githubusercontent.com/5504953/172861626-ffad3d92-ff55-48dd-8
 
 The third element that works together with the atmosphere and clouds in the [Skylight](https://docs.unrealengine.com/5.0/en-US/sky-lights-in-unreal-engine/).
 
->The Sky Light captures the distant parts of your level and applies that to the scene as a light. That means the sky's appearance and its lighting/reflections will match, even if your sky is coming from atmosphere, or layered clouds on top of a skybox, or distant mountains. You can also manually specify a cubemap to use. - [UE5 Manual](Skylight](https://docs.unrealengine.com/5.0/en-US/sky-lights-in-unreal-engine/)
+>The Sky Light captures the distant parts of your level and applies that to the scene as a light. That means the sky's appearance and its lighting/reflections will match, even if your sky is coming from atmosphere, or layered clouds on top of a skybox, or distant mountains. You can also manually specify a cubemap to use. - [UE5 Manual](Skylight](https://docs.unrealengine.com/5.2/en-US/sky-lights-in-unreal-engine/).
+
+This essentially acts to generate reflections and is a fill light to make up for the fact that our ray tracer can only pick up so many bounces of light (so we need the skylight to fill in and add detail to the shadows as well as tint the entire scene by the color of the sky).
 
 ![add skylight to scene](images/placeSkylight.png)
 
