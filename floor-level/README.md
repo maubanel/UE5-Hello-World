@@ -112,7 +112,7 @@ In previous versions of Unreal the clouds in the sky was a texture on the skydom
 
 In **UE5** we have a more realistic solution with 3-D volumetric clouds.  Select the **Create Volumetric Cloud** from the environmental light mixer.
 
-[More Information UE5 Manual](https://docs.unrealengine.com/5.0/en-US/volumetric-cloud-component-properties-in-unreal-engine/).
+[More Information UE5 Manual](https://docs.unrealengine.com/5.2/en-US/volumetric-cloud-component-properties-in-unreal-engine/).
 
 ![add volumetric clouds to scene](images/volumetricClouds.png)
 
