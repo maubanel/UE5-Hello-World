@@ -135,7 +135,7 @@ Sometimes Unreal doesn't register the `.uproject` with windows so only complete 
 
 ##### `Step 13.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Right click on `.uproject` and select **Open With...**. Click on the `More Apps` link and we will locate it manually.
+Right click on `.uproject` and select **Open With...**. Click on the `Choose another app` link and we will locate it manually.
 
 ![select more apps](images/MoreApps.png)
 
@@ -146,7 +146,7 @@ Right click on `.uproject` and select **Open With...**. Click on the `More Apps`
 
 Scroll to the bottom and select the `Look for another app on this PC` link.
 
-![at bottom select look for another app](images/LookForAnotherApp.jpg)
+![at bottom select look for another app](images/LookForAnotherApp.png)
 
 ![](../images/line2.png)
 
