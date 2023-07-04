@@ -178,7 +178,7 @@ You should now see the informaiton you entered with the correct username, correc
 p4 set P4IGNORE=.p4ignore
 ```
 
-![empty github repository](images/ignoreset.png)
+![empty github repository](images/p4ignoreset.png)
 
 ![](../images/line.png)
 
