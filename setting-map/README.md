@@ -24,7 +24,7 @@ OK, lets open **UE5** again through **P4V**.   Open the **Content Drawer** (<kbd
 
 Name the folders `Materials`, `Static Meshes` and `Textures`.
 
-![name the three folders Materials, Static Meshes and Textures](images/threeNewFolders.png)
+![name the three folders Materials, StaticMeshes and Textures](images/threeNewFolders.png)
 
 ![](../images/line2.png)
 
