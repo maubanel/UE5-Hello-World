@@ -15,9 +15,9 @@ Lets now make a change to an existing file in Perforce.  Lets make this new leve
 
 ##### `Step 1.`\|`UE5HW`|:small_blue_diamond:
 
-Closwe **UE5** and reopen it.  Does it boot up to the new **Hello World** room?  Look at the tab and see what level is loaded.  It says default!
+Close **UE5** and reopen it.  Does it boot up to the new **Hello World** room?  Look at the tab and see what level is loaded.  It says default! Unreal will not load the room your want to start in unless you set it.
 
-![defaylt level load](images/defaultLevel.png)
+![default level load](images/defaultLevel.png)
 
 ![](../images/line2.png)
 
@@ -51,6 +51,15 @@ If it succeeded you will see that it submitted a changelist.  Your number will b
 
 ![boot up to hello world map](images/hw.png)
 
+![](../images/line2.png)
+
+##### `Step 6.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond:
+
+Now if we look at **P4V** we have two tabs on the left.  The first is **Depot** and the second is **Workspace**.  What is in your workspace is local, and what is in the **Depot** is on the server (and backed up).  Every time you press **Submit** you are sending what is in your **Workspace** to the **Server/Depot**.  
+
+Notice that the depot does not contain the **Intermediate** and **Saved** folders.  These are created locally on each of our machines and are not shared.  That way we can configure our local settings as well like and the game is customized to our GPU (NVidia, AMD etc...). 
+
+![file structure Unreal](images/files.png)
 
 | `ue4.generated.folders`\|`Intermediate & Saved Folders`| 
 | :--- |
