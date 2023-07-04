@@ -152,13 +152,13 @@ Scroll to the bottom and select the `Choose an app on your PC` link.
 
 ##### `Step 15.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond:
 
-Now locate the folder where you installed this version of Unreal.  By default it will be in `Program Files | Epic Games | UE_5.1 | Engine | Binaries | Win64 | ` and look for the `UE4Editor.exe` and select the <kbd>Open</kbd> button.  This links the Unreal Editor to the`.uproject` file type.  This way when you double click any `.uproject` file it should load it in editor like you want!
+Now locate the folder where you installed this version of Unreal.  By default it will be in `Program Files | Epic Games | UE_5.2 | Engine | Binaries | Win64 | ` and look for the `UE4Editor.exe` and select the <kbd>Open</kbd> button.  This links the Unreal Editor to the`.uproject` file type.  This way when you double click any `.uproject` file it should load it in editor like you want!
 
 ![Go to Epic Games Folder and find UE4Editor.exe and select](images/EpicGamesFolder.png)
 
 ##### `Step 16.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-Now you should be able to <kbd>RMB</kbd> and select the <kbd>Properties</kbd> button. If you see that it opens with Unreal engine it will work from now on with any new project moving forward! Now you can go back to **[Step 10](#user-content-step-10suug-large_blue_diamond)** to run the project from **P4V**.
+Now you should be able to <kbd>RMB</kbd> and select the <kbd>Properties</kbd> button. If you see that it opens with Unreal engine it will work from now on with any new project moving forward! Now you can run the project from **P4V**.
 
 ![Select uproject properties](images/UE4EdtiorInProps.jpg)
 
