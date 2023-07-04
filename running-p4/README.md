@@ -20,6 +20,7 @@ Unreal integrates **Perforce** into their workflow nicely.  They make it easy to
 :small_blue_diamond: You can forget the data on another computer<br>
 :small_blue_diamond: Your hard drive can die and all the data can be lost<br>
 :small_blue_diamond: Two people can work on the same file and they cannot be reconciled<br>
+:small_blue_diamond: You don't have to save each step in a file's creation proecess.  You can go back in time and load an older version.<br>
 All of these problems can be avoided if we use **version control** to back up our data.  This way we can recover lost work, *clone* the data on another computer and collaborate as a team.  It is a good idea to get used to using version control as all large projects use them. The good news is that you have the tools integrated right in Unreal. |
 
 ---
