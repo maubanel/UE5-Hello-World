@@ -15,7 +15,7 @@ Lets add a new file to the project and submit it to **Perforce**. Lets add a new
 
 ##### `Step 1.`\|`UE5HW`|:small_blue_diamond:
 
-Open up your **Workspace** in **P4V** and open up your project by double left mouse clicking on the `.uproject` to open Unreal.
+If the project is **not** already running, *open* up your **Workspace** in **P4V** and open up your project by *double left mouse* clicking on the `.uproject` to open you work in the Unreal Editor.
 
 ![open up project](images/doubleClickProject.png)
 

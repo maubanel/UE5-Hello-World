@@ -32,7 +32,7 @@ All of these problems can be avoided if we use **version control** to back up ou
 
 ##### `Step 1.`\|`UE5HW`|:small_blue_diamond:
 
-It is best practice to have **P4V** running when working in **UE5**.  To make sure you are doing this, it is good to launch the game from within the **P4V** interface.  Double click on the `.uproject` within **P4V** to open the project.
+It is best practice to have **P4V** running when working in **UE5**.  To make sure you are doing this, it is good to launch the game from within the **P4V** interface.  If your project is **not** open already, *double click* on the `.uproject` within **P4V** to open the project.
 
 ![open project through Perforce](images/doubleClickProject.png)
 
