@@ -92,8 +92,6 @@ Feel free to read the instructions and tweak any values.
 
 ##### `Step 9.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-If it is not working make sure that in your **Directional Light** that 
-
 If you do not see the sky above the black ground plane you can click on the **Directional Light** in the **Outliner** and make sure that **Atmosphere Sun Light** is set to `true`.
 
 ![make sure atmosphere sun light in directional light is turned on](images/notWorking.png)
@@ -112,7 +110,7 @@ https://user-images.githubusercontent.com/5504953/172628932-27a4fd2c-9db8-4ccd-8
 
 In previous versions of Unreal the clouds in the sky was a texture on the skydome, was two dimensional and suffered from the pinching issues of texture mapping a sphere.  Also it had no effect on the light.
 
-In **UE5** we have a more realistic solution with 3-D volumetric clouds.  Select the **Place Actors | VIsual Effects | Volumetric Cloud**
+In **UE5** we have a more realistic solution with 3-D volumetric clouds.  Select the **Create Volumetric Cloud** from the environmental light mixer.
 
 [More Information UE5 Manual](https://docs.unrealengine.com/5.0/en-US/volumetric-cloud-component-properties-in-unreal-engine/).
 
