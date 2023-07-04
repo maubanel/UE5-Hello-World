@@ -54,7 +54,7 @@ https://user-images.githubusercontent.com/5504953/172620693-5a0f5f9e-9879-4601-8
 
 Now we need to add a light.  This will be an outdoor scene so lets start with the **Sun**.  This is in game terms a light with no fall off so it runs for infinity. In **Unreal** we have a special panel that makes this very quick to do.  Go to **Window | Env Light Mixer** to bring up our light mixer.  Add a **Create Atmospheric Light**.  This will add a directional light to the level.
 
->The Directional Light simulates light that is being emitted from a source that is infinitely far away. This means that all shadows cast by this light will be parallel, making this the ideal choice for simulating sunlight - [UE5 Manual](https://docs.unrealengine.com/5.0/en-US/directional-lights-in-unreal-engine/)
+>The Directional Light simulates light that is being emitted from a source that is infinitely far away. This means that all shadows cast by this light will be parallel, making this the ideal choice for simulating sunlight - [UE5 Manual](https://docs.unrealengine.com/5.2/en-US/directional-lights-in-unreal-engine/)
 
 To find the lights click on the **Place Actors** pull down menu at the top left under the **Tools** menu and select **Light | Directional Light**.
 
