@@ -149,7 +149,7 @@ This essentially acts to generate reflections and is a fill light to make up for
 
 ##### `Step 15.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: 
 
-The one thing that is missing is visibility in the air.  Normally there is a bit of haze, particles or fog that restricts your viewing distance. The final element that will help bring this scene together is [Exponential Height Fog](https://docs.unrealengine.com/5.0/en-US/exponential-height-fog-in-unreal-engine/).
+The one thing that is missing is visibility in the air.  Normally there is a bit of haze, particles or fog that restricts your viewing distance. The final element that will help bring this scene together is [Exponential Height Fog](https://docs.unrealengine.com/5.2/en-US/exponential-height-fog-in-unreal-engine/).
 
 >Exponential Height Fog creates more density in low places of a map and less density in high places. The transition is smooth, so you never get a hard cutoff as you increase altitude. Exponential Height Fog also provides two fog colors—one for the hemisphere facing the dominant directional light (or straight up if none exists), and another color for the opposite hemisphere. - [UE5 Manual](https://docs.unrealengine.com/5.2/en-US/exponential-height-fog-in-unreal-engine/).
 
@@ -185,7 +185,7 @@ To do this we would like to get them to snap together.  Just like snap to grid i
 
 ##### `Step 19.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-We can copy and paste using the windows shortcuts like <kbd>cntrl c</kbd> and </kbd>cntrl v</kbd>.  But they have a cool shortcut where you press <kbd>alt</kbd> while dragging on one of the translation widget arros when the object is selected in the outliner.
+We can copy and paste using the windows shortcuts like <kbd>cntrl c</kbd> and <kbd>cntrl v</kbd>.  But they have a cool shortcut where you press <kbd>alt</kbd> while dragging on one of the translation widget arros when the object is selected in the outliner.
 
 Repeat this three times to create a large surface with 4 seamlessly tied together floor pieces.
 
