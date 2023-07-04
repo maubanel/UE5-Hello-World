@@ -30,7 +30,7 @@ Name the folders `Materials`, `Static Meshes` and `Textures`.
 
 ##### `Step 3.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Go to the **Open Assets** folder and look for a file called `SM_Floor`.  This is a static mesh of a floor we will be using. Double click it to open it in the static mesh editors.
+Go to the **Outside Assets** folder and look for a file called `SM_Floor`.  This is a static mesh of a floor we will be using. Double click it to open it in the static mesh editors.
 
 ![open static mesh editor](images/doubleClickStaticMesh.png)
 
