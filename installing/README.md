@@ -164,7 +164,7 @@ Now you should be able to <kbd>RMB</kbd> and select the <kbd>Properties</kbd> bu
 
 ##### `Step 17.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now we need to make sure our **P4 Ignore** file will be recognized by **Perforce** and that we have properly set up our `.p4config`.  Enter `cmd` in your windows menu to run **Command Prompt**.  Type `p4 set` then enter.  You will see if you have a P4IGNORE setting set? If you see `P4IGNORE=.p4ignore (set)` then you can move on to [Step 12](#step-12ue5ld-large_blue_diamond-small_blue_diamond-small_blue_diamond) otherwise fix this in the next step.
+Now we need to make sure our **P4 Ignore** file will be recognized by **Perforce** and that we have properly set up our `.p4config`.  *Right click* the `.p4config` in **P4V** and select **Open Commnand Window Here**.  Type in `p4 set` and press return.
 
 ![p4 set in command prompt](images/p4set.png)
 
@@ -172,7 +172,11 @@ Now we need to make sure our **P4 Ignore** file will be recognized by **Perforce
 
 ##### `Step 18.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-In command prompt type `p4 set P4IGNORE=.p4ignore`.  Make sure there are no spaces between or after the `=` sign.  Then type in and enter a `p4 set` again and you should see that it is now showing: `P4IGNORE=.p4ignore (set)`.  Now you are ready to move to the next step.
+You should now see the informaiton you entered with the correct username, correct workspace and correct host.  It is very important the your `.p4ignore` is being set to the right filename.  If it is not type:
+
+```
+p4 set P4IGNORE=.p4ignore
+```
 
 ![empty github repository](images/ignoreset.png)
 
