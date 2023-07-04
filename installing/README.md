@@ -144,7 +144,7 @@ Right click on `.uproject` and select **Open With...**. Click on the `Choose ano
 ##### `Step 14.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
 
-Scroll to the bottom and select the `Look for another app on this PC` link.
+Scroll to the bottom and select the `Choose an app on your PC` link.
 
 ![at bottom select look for another app](images/LookForAnotherApp.png)
 
