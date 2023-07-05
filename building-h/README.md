@@ -150,7 +150,7 @@ https://user-images.githubusercontent.com/5504953/173234638-01d7a97b-d309-4589-b
 
 ##### `Step 17.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Select **UVs | Project**.  We will do a **Box** projection.  In my case the tiles were not square so you need to click on the **Proportional Dimensions** option.  The scale now looks like our reference cube. If that doesn't work then unselect **Proportional Dimensions** and change the Press the <kbd>Accept</kbd> button at the bottom.
+What we want to do is match the scale of the texture on the letter **H** to match the same density as the cube. You can try an auto UV process and see if it works.  Otherwise select **UVs | Project**.  We will do a **Box** projection.  In my case the tiles were not square so you need to click on the **Proportional Dimensions** option.  The scale now looks like our reference cube. If that doesn't work then unselect **Proportional Dimensions** and change the dimensions to `60` on all planes. Press the <kbd>Accept</kbd> button at the bottom.
 
 ![uv project](images/uvProject.png)
 
