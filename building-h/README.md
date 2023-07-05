@@ -81,7 +81,7 @@ Click in the **Shapes** menu and select a **Box**.  Set the **Width** and **Dept
 
 ##### `Step 9.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now click on the top left button **Perspective** and select **Wireframe**.  This will show you the model in triangles.  You will notice you have only 2 triangles per face.
+Now click on the top left button **Lit** and select **Wireframe**.  This will show you the model in triangles.  You will notice you have only 2 triangles per face.
 
 ![wireframe cube](images/wireFrameMode.png)
 
@@ -97,7 +97,7 @@ Lets subdivide the faces so that they end up being square. Lets put 6 triangles 
 
 ##### `Step 11.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: 
 
-So lets subivide the **Depth** by `3` and the **Height** by `20`. Now while still in **Wireframe** mode we can see that we have subdivided the faces with perfectly square polygons. Press the **Complete** button so that we can start to form the bridge on the **H**.
+So lets subivide the **Width Subdivision** and **Depth Subdivision** by `3` and the **Height Subdivision** by `20`. Now while still in **Wireframe** mode we can see that we have subdivided the faces with perfectly square polygons. Press the **Complete** button so that we can start to form the bridge on the **H**.
 
 ![subivide shape by 3 and 20 for depth and height](images/subdivideLeftOfH.png)
 
