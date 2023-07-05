@@ -97,7 +97,7 @@ Lets subdivide the faces so that they end up being square. Lets put 6 triangles 
 
 ##### `Step 11.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: 
 
-So lets subivide the **Width Subdivision** and **Depth Subdivision** by `3` and the **Height Subdivision** by `20`. Now while still in **Wireframe** mode we can see that we have subdivided the faces with perfectly square polygons. Press the **Complete** button so that we can start to form the bridge on the **H**.
+So lets subivide the **Width Subdivision** and **Depth Subdivision** by `3` and the **Height Subdivision** by `20`. Now while still in **Wireframe** mode we can see that we have subdivided the faces with perfectly square polygons. Press the **Accept** button so that we can start to form the bridge on the **H**. Switch back to **Lit** mode to see the game world with materials and lighting again.
 
 ![subivide shape by 3 and 20 for depth and height](images/subdivideLeftOfH.png)
 
@@ -106,7 +106,7 @@ So lets subivide the **Width Subdivision** and **Depth Subdivision** by `3` and 
 
 ##### `Step 12.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-Go back to **Perspective** mode so we do not just see triangles on screen. Now in the **Tri Model** menue select **TriSet**.  We will then want to select the 6 middle polygons (12 triangles) on the inside face so we can extrude the bridge of the **H**.  First we need to turn `off` **Hit Back Faces** so that we do not select all polygons around the entire circumpherence.
+Go back to **Lit** mode so we do not just see triangles on screen. Now in the **Tri Model** menue select **TriSet**.  We will then want to select the 6 middle polygons (12 triangles) on the inside face so we can extrude the bridge of the **H**.  First we need to turn `off` **Hit Back Faces** so that we do not select all polygons around the entire circumpherence.
 
 ![select triset mode and turn of hit back faces](images/wantToExtrude.png)
 
@@ -114,7 +114,7 @@ Go back to **Perspective** mode so we do not just see triangles on screen. Now i
 
 ##### `Step 13.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Adjust the **Brush | Size** and select the 6 middle polygons.  If you select too many you can press the <kbd>Shift</kbd> button to deselect them.  It should be easy to pick the 12 triangles in the middle of the **H**.
+Adjust the **Brush | Size** and select the 6 middle polygons.  If you select too many you can press the <kbd>Shift</kbd> button to deselect them.  It should be easy to pick the 12 triangles in the middle of the **H**. There should be 9 cubes above and below your selection.
 
 ![select middle triangles](images/select6Polys.png)
 
@@ -122,7 +122,7 @@ Adjust the **Brush | Size** and select the 6 middle polygons.  If you select too
 
 ##### `Step 14.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Now we want to manupulate the entire set of them (we want to extrude them) so lets create a **Polygroup** by pressing the **Mesh Edit | Creaet Polygroup** button.
+Now we want to manupulate the entire set of them (we want to extrude them) so lets create a **Polygroup** by pressing the **Mesh Edit | Create Polygroup** button.
 
 ![create polygroup](images/createPolygroup.png)
 
@@ -150,7 +150,7 @@ https://user-images.githubusercontent.com/5504953/173234638-01d7a97b-d309-4589-b
 
 ##### `Step 17.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Select **UVs | Project**.  We will do a **Cube** projection.  In my case the tiles were not square so you need to click on the **Uniform Dimensions** option.  The scale now looks like our reference cube. Press the <kbd>Accept</kbd> button at the bottom.
+Select **UVs | Project**.  We will do a **Box** projection.  In my case the tiles were not square so you need to click on the **Proportional Dimensions** option.  The scale now looks like our reference cube. Press the <kbd>Accept</kbd> button at the bottom.
 
 https://user-images.githubusercontent.com/5504953/173235268-2c695fb4-5e5d-4b7d-83c5-77bc3278686e.mp4
 
@@ -192,7 +192,7 @@ https://user-images.githubusercontent.com/5504953/173236984-5435c0c6-828f-4148-b
 
 Now that we are done with the letter H lets name it properly and submit all of your changes to **Perforce**.  Select the **H** in the **Outlinder**, right click and select **Browse to Asset**.
 
-This should take you to the folder that you set up at the beginining to hold all the models you create.  If there are extra ones delete them now.  Lets right click on the mesh and select **Rename**.  Call this mesh `SM_H`. If it prompts you to check out the file please do so.
+This should take you to the folder that you set up at the beginining to hold all the models you create.  If there are extra ones delete them now.  Lets right click on the mesh and select **Rename**.  Call this mesh `SM_H`. If it prompts you to check out the file please do so. Move it to your **Static Mesh** folder and fix up redirectors again.
 
 Select **File | Save All**. Go to the bottom right and press the <kbd>Source Contro</kbd> button and select **Submit**.  Enter a descriptive message then press the <kbd>Submit</kbd> button. You will receive a confimation of the changelist.   
 
