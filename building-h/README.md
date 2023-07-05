@@ -208,6 +208,8 @@ This will either give a message saying ther is nothing to reconcile or bring up 
 
 If the files are in **Content** or **Configuration** then press the <kbd>Reconcile</kbd> button.  Then submit the changes with a message and press the <kbd>Submit</kbd> button.
 
+![fnothing to reconcile](images/nothingToReconcile.png)
+
 ___
 
 ![](../images/line.png)
