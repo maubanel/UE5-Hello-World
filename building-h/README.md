@@ -33,7 +33,7 @@ I changed the **Auto Generated Asset Path** to `MarcMeshes` and made sure the **
 
 ##### `Step 3.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now go back to our **HelloWorld** level and selecdt **Place Actors | Shapes Cube** to add a 1 meter cube square for reference.  This is 3.2 feet squared for reference.
+Now go back to our **HelloWorld** level and selecdt **Place Actors | Shapes Cube** to add a 1 meter cube square for reference.  This is 3.3 feet squared for reference (1 meter is 3.3 feet).
 
 ![add cube to level](images/AddCube.png)
 
@@ -89,7 +89,7 @@ Now click on the top left button **Lit** and select **Wireframe**.  This will sh
 
 ##### `Step 10.`\|`UE5HW`| :large_blue_diamond:
 
-Lets subdivide the faces so that they end up being square. Lets put 6 triangles (or 3 polygons) along the shor 30 cm sides.  So how many triangles do we need for the 200 cm face.  Well we can divide 200 cm by 30 cm to find the ratio and multiply it by 3 polygons.  This leaves us with 20 polygons or 40 triangles.
+Lets subdivide the faces so that they end up being square. Lets put 6 triangles (or 3 polygons) along the short 30 cm sides.  So how many triangles do we need for the 200 cm face.  Well we can divide 200 cm by 30 cm to find the ratio and multiply it by 3 polygons.  This leaves us with 20 polygons or 40 triangles.
 
 ![calculate subdivision](images/subdivideFaces.png)
 
