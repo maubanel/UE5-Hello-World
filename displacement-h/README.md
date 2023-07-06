@@ -95,7 +95,7 @@ Now we can drag the `T_H.png` into the **Textures** folder in the **Content Draw
 
 ##### `Step 10.`\|`UE5HW`| :large_blue_diamond:
 
-Now double click on **T_H** texture to open up the texture editor.  Change the **Compression Settings** to `HDR (RGB no sRGB)`.
+Now double click on **T_H** texture to open up the texture editor.  Change the **Compression Settings** to `HDR (RGBA16F, no sRGB)`.
 
 ![change compression on h texture to hdr](images/hdrUncompressed.png)
 
@@ -113,7 +113,7 @@ Now press the **Select Mode** drop down and pick the **Modeling** mode.  Now pic
 
 ##### `Step 12.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-We want to deform this mesh, so go to the **Deform | Displce** tool. Notice it is using perlin noise to randomly deform the mesh.  
+We want to deform this mesh, so go to the **Deform | Displace** tool. Notice it is using perlin noise to randomly deform the mesh.  
 
 ![select deform displace tool](images/displaceDeform.png)
 
