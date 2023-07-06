@@ -89,7 +89,9 @@ Now click on the top left button **Lit** and select **Wireframe**.  This will sh
 
 ##### `Step 10.`\|`UE5HW`| :large_blue_diamond:
 
-Lets subdivide the faces so that they end up being square. Lets put 6 triangles (or 3 polygons) along the short 30 cm sides.  So how many triangles do we need for the 200 cm face.  Well we can divide 200 cm by 30 cm to find the ratio and multiply it by 3 polygons.  This leaves us with 20 polygons or 40 triangles.
+Lets subdivide the faces so that they end up being square. Lets put 6 triangles (or 3 polygons) along the short 30 cm sides.  So how many triangles do we need for the 200 cm face.  Well we can divide 200 cm by 30 cm to find the ratio and multiply it by 3 polygons.  
+
+200 / 30 * 3 = 20. This leaves us with 20 polygons or 40 triangles.
 
 ![calculate subdivision](images/subdivideFaces.png)
 
@@ -114,7 +116,7 @@ Go back to **Lit** mode so we do not just see triangles on screen. Now in the **
 
 ##### `Step 13.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Adjust the **Brush | Size** and select the 6 middle polygons.  If you select too many you can press the <kbd>Shift</kbd> button to deselect them.  It should be easy to pick the 12 triangles in the middle of the **H**. There should be 9 cubes above and below your selection.
+Adjust the **Brush | Size** and select the 6 middle polygons.  If you select too many you can press the <kbd>Shift</kbd> button to deselect them.  It should be easy to pick the 12 triangles in the middle of the **H**. There should be 9 cubes above and below your selection. Make sure that you have selected the polygons along a single face.  Start over if have selected too many triangles.
 
 ![select middle triangles](images/select6Polys.png)
 
@@ -190,6 +192,14 @@ https://user-images.githubusercontent.com/5504953/173236984-5435c0c6-828f-4148-b
 
 ##### `Step 22.`\|`UE5HW`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:  :small_blue_diamond:
 
+Now move the newly created model from your working folder to **StaticMeshes**.  Rename it to `SM_H`.
+
+![move and rename h](images/MoveRenameH.png)
+
+![](../images/line2.png)
+
+##### `Step 23.`\|`UE5HW`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:  :small_blue_diamond: :small_blue_diamond:
+
 Now that we are done with the letter H lets name it properly and submit all of your changes to **Perforce**.  Select the **H** in the **Outlinder**, right click and select **Browse to Asset**.
 
 This should take you to the folder that you set up at the beginining to hold all the models you create.  If there are extra ones delete them now.  Lets right click on the mesh and select **Rename**.  Call this mesh `SM_H`. If it prompts you to check out the file please do so. Move it to your **Static Mesh** folder and fix up redirectors again.
@@ -200,7 +210,7 @@ https://user-images.githubusercontent.com/5504953/173236994-ae1922fe-c57f-4534-a
 
 ![](../images/line2.png)
 
-##### `Step 23.`\|`UE5HW`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:  :small_blue_diamond: :small_blue_diamond:
+##### `Step 24.`\|`UE5HW`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:  :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Sometimes not all files get submitted to Unreal especially for files that don't show up in the editor.  It is good practice one you submit in **Unreal** and quit the game to right click on the top most project folder and select **Reconcile Offline Work...**.
 
