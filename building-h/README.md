@@ -152,7 +152,7 @@ https://user-images.githubusercontent.com/5504953/173234638-01d7a97b-d309-4589-b
 
 ##### `Step 17.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-We want to UV unwrap our H.  Since it is very geometric we can assign each face a UV Island.  There is a quick way of doing this. Select the **H** model and go to **Attributes | GrpGen** and notice it assigns a separate colored group to each face.
+We want to UV unwrap our H.  Since it is very geometric we can assign each face a UV Island.  There is a quick way of doing this. Select the **H** model and go to **Attributes | GrpGen** and notice it assigns a separate colored group to each face. Press the <kbd>Select</kbd> button.
 
 ![create a ploygroup per face](images/groupGenSeparateFaces.png)
 
@@ -161,6 +161,8 @@ We want to UV unwrap our H.  Since it is very geometric we can assign each face 
 ##### `Step 18.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 We are going to create UV Islands based on the Polygroups.  Select **UVs | Unwrap** and change the **Island Generation** to `PolyGroups`.  
+
+ <kbd>Select</kbd> button
 
 ![unwrap based on polygroups](images/unwrapUVs.png)
 
