@@ -170,7 +170,7 @@ You might need to **Actions | Flip Plane** if it is cutting from the wrong direc
 ##### `Step 19.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
  I find the edges a bit rough as the displacement map has a hard time with steep drop offs as well as photoshop maybe not being the best tool for the job. Also, the UV's are going to be very hard to create properly in such a dense mesh.  
 
- So I am going to reduce the poly count to remov some of the noise.  I go to **MeshOps** and select **Simplify**. I set the **Target Percentage** to `1` %.  I like the poly flow much better now.
+ So I am going to reduce the poly count to remov some of the noise.  I go to **MeshOps** and select **Simplify**. I set the **Target Percentage** to `1` to `20` %.  I like the poly flow much better now.
 
 ![poly reduce to 1% using simplify](images/SmoothoutMesh.png)
 
