@@ -47,7 +47,7 @@ https://user-images.githubusercontent.com/5504953/173236984-5435c0c6-828f-4148-b
 
 ##### `Step 5.`\|`UE5HW`| :small_orange_diamond:
 
-Now move the newly created model from your working folder to **StaticMeshes**.  Rename it to `SM_H`.
+Now move the newly created model from your working folder to **StaticMeshes**.  Rename it to `SM_H`. Fix up your redirectors again.
 
 ![move and rename h](images/MoveRenameH.png)
 
@@ -56,8 +56,6 @@ Now move the newly created model from your working folder to **StaticMeshes**.  
 ##### `Step 6.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond:
 
 Now that we are done with the letter H lets submit all of your changes to **Perforce**.  Select the **H** in the **Outlinder**, right click and select **Browse to Asset**.
-
-This should take you to the folder that you set up at the beginining to hold all the models you create.  If there are extra ones delete them now.  Lets right click on the mesh and select **Rename**.  Call this mesh `SM_H`. If it prompts you to check out the file please do so. Move it to your **Static Mesh** folder and fix up redirectors again.
 
 Select **File | Save All**. Go to the bottom right and press the <kbd>Source Contro</kbd> button and select **Submit**.  Enter a descriptive message then press the <kbd>Submit</kbd> button. You will receive a confimation of the changelist.   
 
