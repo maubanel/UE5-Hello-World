@@ -92,6 +92,9 @@ We need to save all of our work to date and submit to **Perforce**.  Press **Fil
 
 ![save all and submit to Perforce](images/addMessageSubmit.png)
 
+![](../images/line2.png)
+
+##### `Step 11.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond:
 
 Sometimes not all files get submitted to Unreal especially for files that don't show up in the editor.  It is good practice one you submit in **Unreal** and quit the game to right click on the top most project folder and select **Reconcile Offline Work...**.
 
