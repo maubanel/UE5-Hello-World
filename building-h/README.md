@@ -2,7 +2,7 @@
 
 ### Building The Letter H
 
-<sub>[previous](../floor-level/README.md#user-content-adding-floor-and-sky-to-level) • [home](../README.md#user-content-ue4-hello-world) • [next](../displacement-h/README.md#displacment-h)</sub>
+<sub>[previous](../floor-level/README.md#user-content-adding-floor-and-sky-to-level) • [home](../README.md#user-content-ue4-hello-world) • [next](../building-h-II/README.md#user-content-building-the-letter-h-II)</sub>
 
 ![](../images/line3.png)
 
@@ -176,9 +176,9 @@ Now I find the scale of the UV's to be large compared to the cube.  Lets select 
 
 ![](../images/line.png)
 
-![next up displacement letter h](images/banner.png)
+![next up building letter h 2](images/banner.png)
 
 ![](../images/line.png)
 
-| [previous](../floor-level/README.md#user-content-adding-floor-and-sky-to-level)| [home](../README.md#user-content-ue4-hello-world) | [next](../displacement-h/README.md#displacment-h)|
+| [previous](../floor-level/README.md#user-content-adding-floor-and-sky-to-level)| [home](../README.md#user-content-ue4-hello-world) | [next](../building-h-II/README.md#user-content-building-the-letter-h-II)|
 |---|---|---|

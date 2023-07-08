@@ -76,96 +76,9 @@ If the files are in **Content** or **Configuration** then press the <kbd>Reconci
 
 ![fnothing to reconcile](images/nothingToReconcile.png)
 
-![](../images/line2.png)
-
-##### `Step 8.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-![alt text](images/.jpg)
-
-![](../images/line2.png)
-
-##### `Step 9.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-![alt text](images/.jpg)
-
-![](../images/line2.png)
-
-##### `Step 10.`\|`UE5HW`| :large_blue_diamond:
-
-![alt text](images/.jpg)
-
-![](../images/line2.png)
-
-##### `Step 11.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: 
-
-![alt text](images/.jpg)
-
-![](../images/line2.png)
-
-
-##### `Step 12.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
-
-![alt text](images/.jpg)
-
-![](../images/line2.png)
-
-##### `Step 13.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
-
-![alt text](images/.jpg)
-
-![](../images/line2.png)
-
-##### `Step 14.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
-
-![alt text](images/.jpg)
-
-![](../images/line2.png)
-
-##### `Step 15.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: 
-
-![alt text](images/.jpg)
-
-![](../images/line2.png)
-
-##### `Step 16.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
-
-![alt text](images/.jpg)
-
-![](../images/line2.png)
-
-##### `Step 17.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
-
-![alt text](images/.jpg)
-
-![](../images/line2.png)
-
-##### `Step 18.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-![alt text](images/.jpg)
-
-![](../images/line2.png)
-
-##### `Step 19.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-![alt text](images/.jpg)
-
-![](../images/line2.png)
-
-##### `Step 20.`\|`UE5HW`| :large_blue_diamond: :large_blue_diamond:
-
-![alt text](images/.jpg)
-
-![](../images/line2.png)
-
-##### `Step 21.`\|`UE5HW`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
-
-![alt text](images/.jpg)
-
-___
-
 ![](../images/line.png)
 
-<img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - README.md File">
+<img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - Displacement H">
 
 ![](../images/line.png)
 
