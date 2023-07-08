@@ -20,7 +20,7 @@ Now the model is pointing in the wrong diretion.  It is lying along the ground a
 
 ![rotate by -90 degrees](images/rotateModel90.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 2.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: 
 
@@ -28,7 +28,7 @@ Now we want this to be the default baked position.  Go to **Transform | BakeRS**
 
 ![bake rotations to 0](images/bakeRotation.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 3.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -36,7 +36,7 @@ Go back to **Select** mode. Move the new cursive H next to the blocky one. Press
 
 ![snap h to ground and delete reference cube](images/snapH.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 4.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -44,7 +44,7 @@ Go to the **OutsideContent** folder and drag **M_Grad_Grass** to the **Materials
 
 ![move m_grad_grass to materials folder](images/moveGreenMat.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 5.`\|`UE5HW`| :small_orange_diamond:
 
@@ -52,7 +52,7 @@ Now when moving a file it is best to fix up redirectors.  Right click on the **C
 
 ![fix up redirects in folders](images/fixRedirectA.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 6.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond:
 
@@ -60,7 +60,7 @@ Another way to assign materials is to drag and drop the material on the letter. 
 
 https://user-images.githubusercontent.com/5504953/173255516-8a0f4b77-2e1a-4514-8b0a-714539ab43fc.mp4
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 7.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -68,7 +68,7 @@ Now right click on the new static mesh you built and **Rename** it to `SM_H_Alt`
 
 https://user-images.githubusercontent.com/5504953/173255732-7400bd5f-d5e6-4f4a-82e7-f4c0fe8478aa.mp4
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 8.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -76,7 +76,7 @@ Now you can move both the **SM_H** and **SM_H_Alt** into our **Static Meshes** f
 
 ![move two static meshes to proper folder](images/moveStaticMeshes.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 9.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -84,7 +84,7 @@ Whenever we move files we need to fix up the redirectors.  Click on **Content** 
 
 ![fix up redirectors in content folders](images/fixUpRedirects.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 10.`\|`UE5HW`| :large_blue_diamond:
 
@@ -92,8 +92,14 @@ We need to save all of our work to date and submit to **Perforce**.  Press **Fil
 
 ![save all and submit to Perforce](images/addMessageSubmit.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
+Sometimes not all files get submitted to Unreal especially for files that don't show up in the editor.  It is good practice one you submit in **Unreal** and quit the game to right click on the top most project folder and select **Reconcile Offline Work...**.
+
+This will either give a message saying ther is nothing to reconcile or bring up a tab.  Make sure that these are **NOT** files in the **Intermediate** and **Saved** folders as these should be ignored from the `.p4ignore`.
+
+If the files are in **Content** or **Configuration** then press the <kbd>Reconcile</kbd> button.  Then submit the changes with a message and press the <kbd>Submit</kbd> button.
+
+![](../images/line2.png)
 ![](../images/line.png)
 
 ![next up making it juicy...](images/banner.png)
