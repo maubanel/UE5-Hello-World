@@ -190,11 +190,15 @@ Now we need to create proper uvs.  The group gen will not work as our faces are 
 
 ##### `Step 21.`\|`UE5HW`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: 
 
+Now lets unwrap the UVs based on those 6 polygroups.  Go to **UVs | Unwrap** and select the **Island Generation** to `Polygroups`. Press the <kbd>Accept</kbd> button to take the changes.
+
 ![creat auto uvs](images/createUVs.png)
 
 ![](../images/line2.png)
 
 ##### `Step 22.`\|`UE5HW`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Go to **UVs | Layout** and adjust the scale so the texture is the same as the cube and the simple H.
 
 ![scale UVs](images/scaleUVs.png)
 ___
