@@ -172,6 +172,8 @@ We are going to create UV Islands based on the Polygroups.  Select **UVs | Unwra
 
 Now I find the scale of the UV's to be large compared to the cube.  Lets select the **Uvs | Layout** and adjust the **Scale**.  In my case `3.0` was close to teh size on the cube of the existing default texture.
 
+ Finish by *pressing* the <kbd>Select</kbd> button.
+
 ![scale UVs](images/scaleUVs.png)
 
 ![](../images/line.png)
