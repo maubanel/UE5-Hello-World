@@ -170,7 +170,7 @@ We are going to create UV Islands based on the Polygroups.  Select **UVs | Unwra
 
 ##### `Step 19.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now I find the scale of the UV's to be large compared to the cube.  Lets select the **Uvs | Layout** and adjust the **Scale**.  In my case `3.0` was close to teh size on the cube of the existing default texture.
+Now I find the scale of the UV's to be large compared to the cube.  Lets select the **Uvs | Layout** and adjust the **Scale**.  In my case `3.0` was close to the size on the cube of the existing default texture.
 
  Finish by *pressing* the <kbd>Select</kbd> button.
 
