@@ -182,10 +182,21 @@ You might need to **Actions | Flip Plane** if it is cutting from the wrong direc
 
 ##### `Step 20.`\|`UE5HW`| :large_blue_diamond: :large_blue_diamond:
 
-Now we need to create proper uvs.  Press the **UVs | AutoUV** and it will do a good enough job for us. Press the <kbd>Accept</kbd> button.
+Now we need to create proper uvs.  The group gen will not work as our faces are not so orthogonal as it was in our simple geometric H.  We need to use the **Attributes | GrpPaint** tool and paint 6 polygroups with the brush: The top, the bottom, the front, the back and left and right.  We should have six different poly groups.  <kbd>Shift Q</kbd> is a quick way to change the **Set Group** number.  If you need to select a prior group you can highlight it with the cursor (paintbrush) and select <kbd>Shift G</kbd> and it will select the color.  When you are happy with your 6 polygroups press the <kbd>Accept</kbd> button. 
 
 ![creat auto uvs](images/autoUv.png)
 
+![](../images/line2.png)
+
+##### `Step 21.`\|`UE5HW`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: 
+
+![creat auto uvs](images/createUVs.png)
+
+![](../images/line2.png)
+
+##### `Step 22.`\|`UE5HW`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+![scale UVs](images/scaleUVs.png)
 ___
 
 ![](../images/line.png)
