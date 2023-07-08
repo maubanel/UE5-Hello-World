@@ -152,9 +152,11 @@ https://user-images.githubusercontent.com/5504953/173234638-01d7a97b-d309-4589-b
 
 ##### `Step 17.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
+We want to UV unwrap our H.  Since it is very geometric we can assign each face a UV Island.  There is a quick way of doing this.  
+
 What we want to do is match the scale of the texture on the letter **H** to match the same density as the cube. You can try an auto UV process and see if it works.  Otherwise select **UVs | Project**.  We will do a **Box** projection.  In my case the tiles were not square so you need to click on the **Proportional Dimensions** option.  The scale now looks like our reference cube. If that doesn't work then unselect **Proportional Dimensions** and change the dimensions to `60` on all planes. Press the <kbd>Accept</kbd> button at the bottom. I find there is a bit of trial and error with the UV tools in 5.2.
 
-![uv project](images/uvProject.png)
+![create a ploygroup per face](images/groupGenSeparateFaces.png)
 
 ![](../images/line2.png)
 
