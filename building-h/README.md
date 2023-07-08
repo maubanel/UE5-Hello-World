@@ -160,19 +160,24 @@ We want to UV unwrap our H.  Since it is very geometric we can assign each face 
 
 ##### `Step 18.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-We are going to create UV Islands based on the Polygroups.  Select **UVs | Unwrap** and change the **Island Generation** to `PolyGroups`.  
+We are going to create UV Islands based on the Polygroups.  Select **UVs | Unwrap** and change the **Island Generation** to `PolyGroups`.  If you turn on **Preview UV Layout | Enabled** you can see that it creates a UV island for each face.
 
- <kbd>Select</kbd> button
+ Finish by *pressing* the <kbd>Select</kbd> button.
 
 ![unwrap based on polygroups](images/unwrapUVs.png)
-
-We are done with modeling mode for now.  Go back to the **Mode Select** drop down and pick `Select`.
-
-![return to select mode](images/goBackToSelect.png)
 
 ![](../images/line2.png)
 
 ##### `Step 19.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Now I find the scale of the UV's to be large compared to the cube.  Lets select the **Uvs**
+
+
+![scale UVs](images/scaleUVs.png)
+
+We are done with modeling mode for now.  Go back to the **Mode Select** drop down and pick `Select`.
+
+![return to select mode](images/goBackToSelect.png)
 
 Now lets put a material on the **H** to make it look nice.  I have included a few in the **OutsideAssets** folder.  I am picking **M_Grad_Cobblestone** and dragging it into my **Materials** folder.  I select **Move**.  It will then prompt me to check out the file which I accept.
 
