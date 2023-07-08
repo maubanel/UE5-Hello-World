@@ -116,7 +116,7 @@ Go back to **Lit** mode so we do not just see triangles on screen. Now in the **
 
 ##### `Step 13.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Adjust the **Brush | Size** and select the 6 middle polygons.  If you select too many you can press the <kbd>Shift</kbd> button to deselect them.  It should be easy to pick the 12 triangles in the middle of the **H**. There should be 9 cubes above and below your selection. Make sure that you have selected the polygons along a single face.  Use <kbd>Shift Left Mouse<kbd> button to erase any tris you do not want.
+Adjust the **Brush | Size** and select the 6 middle polygons.  If you select too many you can press the <kbd>Shift</kbd> button to deselect them.  It should be easy to pick the 12 triangles in the middle of the **H**. There should be 9 cubes above and below your selection. Make sure that you have selected the polygons along a single face.  Use <kbd>Shift Left Mouse</kbd> button to erase any tris you do not want.
 
 ![select middle triangles](images/select6Polys.png)
 
