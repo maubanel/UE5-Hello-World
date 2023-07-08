@@ -76,8 +76,6 @@ If the files are in **Content** or **Configuration** then press the <kbd>Reconci
 
 ![](../images/line.png)
 
-<img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - Displacement H">
-
 ![next up displacement H](images/banner.png)
 
 | [previous](../building-h/README.md#user-content-building-the-letter-h)| [home](../README.md#user-content-ue4-hello-world) | [next](../displacement-h/README.md#user-content-displacment-h)|
