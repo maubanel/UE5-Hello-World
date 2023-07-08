@@ -16,6 +16,7 @@
 <kbd></kbd> &nbsp;&nbsp; [Setting up the Map](setting-map/README.md#user-content-setting-up-the-map)<br>
 <kbd></kbd> &nbsp;&nbsp; [Adding Floor and Sky to Level](floor-level/README.md#user-content-adding-floor-and-sky-to-level)<br>
 <kbd></kbd> &nbsp;&nbsp; [Building The Letter H](building-h/README.md#user-content-building-the-letter-h)<br>
+<kbd></kbd> &nbsp;&nbsp; [Building The Letter H II](building-h-II/README.md#user-content-building-the-letter-h-II)<br>
 <kbd></kbd> &nbsp;&nbsp; [Displacement H](displacement-h/README.md#user-content-displacment-h)<br>
 <kbd></kbd> &nbsp;&nbsp; [Displacement H II](displacement-ii/README.md#diplacement-h-ii)<br>
 <kbd></kbd> &nbsp;&nbsp; [Making it Juicy](juice/README.md#user-content-making-it-juicy)<br>
