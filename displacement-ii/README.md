@@ -102,7 +102,8 @@ This will either give a message saying ther is nothing to reconcile or bring up 
 
 If the files are in **Content** or **Configuration** then press the <kbd>Reconcile</kbd> button.  Then submit the changes with a message and press the <kbd>Submit</kbd> button.
 
-![](../images/line2.png)
+![reconcile offline work](images/reconcile.png)
+
 ![](../images/line.png)
 
 ![next up making it juicy...](images/banner.png)
