@@ -25,7 +25,7 @@ Go to **Place Actors** and type `Camera` and drag a **All Classes | Camera Actor
 ![drag camera actor to level](images/AddCamToLevel.png)
 
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 2.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: 
 
@@ -37,7 +37,7 @@ Now we want to make a blueprint to add logic to it so that it rotates around its
 ![turn actor to BP](images/TurnActorToBP.png)
 
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 3.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -45,7 +45,7 @@ Now you should see a new **Blueprint** based on the camera actor in the root **C
 
 ![turn actor to BP](images/NameCamBP.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 4.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -55,7 +55,7 @@ In the **Components** tab, press the **+ Add** button and search for `Billboard`
 
 ![add billboard component to scene](images/AddBillboard.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 5.`\|`UE5HW`| :small_orange_diamond:
 
@@ -65,7 +65,7 @@ Press **+ Add** again to add a `Rotating Movement` component.
 ![add rotating movement component to scene](images/RotatingMovement.png)
 
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 6.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond:
 
@@ -73,7 +73,7 @@ The camera needs to be around 3/4 of the length of the ground surface away from 
 
 https://user-images.githubusercontent.com/5504953/174885850-cfaeb794-904b-4ba1-955e-0e7772283fa5.mp4
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 7.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -81,7 +81,7 @@ Make sure the billboard component is at a **Location** where you want to rotate 
 
 ![adjust position of camera in scene](images/AdjustPosition.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 8.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -94,7 +94,7 @@ We can have a unique gamemode for a specific level. Lets do it this way. Go to t
 ![global game mode in project settings](images/gamemodeBase.png)
 
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 9.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -106,7 +106,7 @@ Lets fix this and use our desired camera as teh **Default** camera when we hit p
 
 ![spawns new camera actor](images/camerasDontMatch.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 10.`\|`UE5HW`| :large_blue_diamond:
 
@@ -114,7 +114,7 @@ Every level comes with its own blueprint where you can put level specific script
 
 ![open level blueprint](images/openLevelBP.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 11.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: 
 
@@ -122,7 +122,7 @@ Now you can see that the blueprint has the same name as the map.  Make sure you 
 
 ![get player controller](images/getPlayerController.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 
 ##### `Step 12.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
@@ -131,7 +131,7 @@ Pull off of the **Return Value** pin and add a **Set View Target with Blend** no
 
 ![set view target with blend](images/setViewTargetWBlend.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 13.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
@@ -139,7 +139,7 @@ Go to the game window and select the **BP_Camera** actor in the scene.
 
 ![select camera actor in game level](images/selectCamInScene.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 14.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
@@ -150,7 +150,7 @@ Connect the output of the camera node to the **New View Target** pin in the **Se
 ![create a camera reference](images/linkTwoNewTargets.png)
 
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 15.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: 
 
@@ -159,7 +159,7 @@ Compile the blueprint then go to the game and press run.  The camera should now 
 https://user-images.githubusercontent.com/5504953/174898029-2cde2d92-1c5c-4b4c-ad09-25f52b088055.mp4
 
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 16.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
@@ -169,7 +169,7 @@ Notice that there is an actor we didn't place that is showing up in the rotation
 
 https://user-images.githubusercontent.com/5504953/174899628-fcc140f0-ed47-4da2-9b2c-1b7dbc3e5928.mp4
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 17.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -178,7 +178,7 @@ The default game mode base is spawning a default pawn that is creating this acto
 ![add new game mode base](images/newGameModeBase.png)
 
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 18.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -194,7 +194,7 @@ Press play and now we should have the rotation working without the extra unwante
 
 https://user-images.githubusercontent.com/5504953/174901849-34ea905d-acc2-4e66-8043-c2b2b05056bc.mp4
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 20.`\|`UE5HW`| :large_blue_diamond: :large_blue_diamond:
 
@@ -203,7 +203,17 @@ Select the **File | Save All** then press the <kbd>Source Control</kbd> button a
 
 https://user-images.githubusercontent.com/5504953/174902712-729d14df-40b5-41c4-9b11-460e4a67d16a.mp4
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+##### `Step 21.`\|`UE5HW`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: 
+
+Sometimes not all files get submitted to Unreal especially for files that don't show up in the editor.  It is good practice one you submit in **Unreal** and quit the game to right click on the top most project folder and select **Reconcile Offline Work...**.
+
+This will either give a message saying ther is nothing to reconcile or bring up a tab.  Make sure that these are **NOT** files in the **Intermediate** and **Saved** folders as these should be ignored from the `.p4ignore`.
+
+If the files are in **Content** or **Configuration** then press the <kbd>Reconcile</kbd> button.  Then submit the changes with a message and press the <kbd>Submit</kbd> button.
+
+![reconcile offline work](images/reconcile.png)
+
+![](../images/line2.png)
 
 | `hello.world`\|`THE END`| 
 | :--- |
