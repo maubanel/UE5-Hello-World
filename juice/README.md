@@ -176,6 +176,19 @@ Now we want to save and submit to **Perforce**.  Select **File | Save All**.  Th
 
 https://user-images.githubusercontent.com/5504953/174850463-5fbfc56c-063e-4fe7-af4e-96b0ac01cc63.mp4
 
+##### `Step 21.`\|`UE5HW`| :large_blue_diamond: :large_blue_diamond:
+
+Sometimes not all files get submitted to Unreal especially for files that don't show up in the editor.  It also happens when importing Quixel assets.  You will notice that Unreal did not submit these files.
+
+It is good practice one you submit in **Unreal** and quit the game to right click on the top most project folder and select **Reconcile Offline Work...**.
+
+This will either give a message saying ther is nothing to reconcile or bring up a tab.  Make sure that these are **NOT** files in the **Intermediate** and **Saved** folders as these should be ignored from the `.p4ignore`.
+
+If the files are in **Content** or **Configuration** then press the <kbd>Reconcile</kbd> button.  Then submit the changes with a message and press the <kbd>Submit</kbd> button.
+
+![reconcile changes](images/reconcile.png)
+
+
 ![](../images/line.png)
 
 ![next up we will add a camera to the level](images/addingCam.png)
