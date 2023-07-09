@@ -178,7 +178,7 @@ https://user-images.githubusercontent.com/5504953/174850463-5fbfc56c-063e-4fe7-a
 
 ##### `Step 21.`\|`UE5HW`| :large_blue_diamond: :large_blue_diamond:
 
-Sometimes not all files get submitted to Unreal especially for files that don't show up in the editor.  It also happens when importing Quixel assets.  You will notice that Unreal did not submit these files.
+Sometimes not all files get submitted to Unreal especially for files that don't show up in the editor.  It also happens when importing Quixel assets AND migrated assets.  You will notice that Unreal did not submit these files.
 
 It is good practice one you submit in **Unreal** and quit the game to right click on the top most project folder and select **Reconcile Offline Work...**.
 
