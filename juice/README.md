@@ -140,6 +140,9 @@ If it the pluin needs to **Add to Project** then create a new empty Unreal proje
 
 ##### `Step 16.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
+Now when you try and open the project it will give you a pop up box and make sure you pick Unreal 5.2.  
+
+![open in 5.2](images/openFiveDotTwo.png)
 
 ![](../images/line2.png)
 
