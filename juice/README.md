@@ -148,14 +148,9 @@ Now when you try and open the project it will give you a pop up box and make sur
 
 ##### `Step 17.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-I load the game and browse the game.  Oooh, I like the tree.  Don' try and run the game as it won't compile. I click on the green portion of the tree and right click and select **Browse to Asset**.
+I load the game and browse the game.  Don't worry about it not being able to run.  Go to the **Content | Environment | Meshes** folder and look for meshes you might like in your HelloWorld project.  When you find out right click on the mesh and select **Asset Actions | Migrate**. This will bring up a menu to save the level.  Press <kbd>Don't Save</kbd> as we are not using the level. It will bring up an Asset Report menu that has all the assets that static mesh needs.  Two materials and two textures as well as the mesh.  We want all of them so we don't need to do anything - just press <kbd>OK</kbd>. 
 
 ![browse to tree asset](images/browseToAsset.png)
-
-
-Now the tree comes in a trunk and a top.  I selected both items and right clicked and selected **Asset Actions | Migrate...**. This brings up a menu that lists all the files needed for these static meshes (including materials and textures).  Press the <kbd>OK</kbd> button to accept.
-
-![alt text](images/migrateAssets.png)
 
 ![](../images/line2.png)
 
