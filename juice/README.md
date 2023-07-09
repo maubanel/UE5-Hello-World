@@ -19,7 +19,7 @@ So craft out the most creative version of Hello World and populate it on your is
 
 ![hello world on island](images/hw.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 2.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: 
 
@@ -27,7 +27,7 @@ Now we can customize the materials of the surfaces how we like.  If you open up 
 
 ![green material](images/alterMaterials.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 3.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -35,7 +35,7 @@ Now we can also get free access as student to quixel bridge.  Go to **Get Conten
 
 ![quixel bridge surface](images/bridge.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 4.`\|`UE5HW`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -43,7 +43,7 @@ Once you have found a material you like pick the quality (medium should do for u
 
 ![download and add quixel material](images/downloadAdd.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 5.`\|`UE5HW`| :small_orange_diamond:
 
@@ -51,7 +51,7 @@ Go back to your **Content Drawer** (<kbd>Cntrl Space</kbd>) and there should now
 
 ![new material to ground plane](images/materialInstance.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 6.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond:
 
@@ -59,7 +59,7 @@ Repeat this for the letters you have created.  I picked a material from Quixel f
 
 ![rusty world material](images/repeatThisForLetters.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 7.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -67,7 +67,7 @@ When I created the model I did not scale the UV's correctly so the tiling is off
 
 ![adjust texture scale](images/uvScaleOff.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 8.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -75,7 +75,7 @@ I can zoom in and make sure I am happy with the tiling scale and offset.
 
 ![detail view of rusty letters](images/detail.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 9.`\|`UE5HW`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -83,7 +83,7 @@ I repeated this and found cool textures for all the letters / words.
 
 ![all letters have materials](images/texturedAllLetters.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 10.`\|`UE5HW`| :large_blue_diamond:
 
@@ -91,7 +91,7 @@ We can also download entire models on **Quixel**.  Go back to **Quixel** and loo
 
 ![add nanite model to level](images/naniteModel.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 11.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: 
 
@@ -99,7 +99,7 @@ Now drag the new static mesh into the level and scale it.  I like the statue at 
 
 ![add statue to level](images/HeroStatue.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 
 ##### `Step 12.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
@@ -108,7 +108,7 @@ Now I have included some animations from Epic.  Go to the **Outside Assets | Cha
 
 ![add characters to game](images/animations.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 13.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
@@ -116,7 +116,7 @@ Press the play button to see the level.
 
 https://user-images.githubusercontent.com/5504953/174844508-bd366580-9853-4a5f-9114-3ef820988454.mp4
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 14.`\|`UE5HW`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
@@ -124,33 +124,37 @@ If **Quixels** doesn't have what you want you can also check out the marketplace
 
 ![ue5 markeplace](images/marketplace.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 15.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: 
 
-You can search all of the free assets available.  I am picking **Stylized Rendering** a UE4 sample project that is free.  There will be two options with assets.  One is **Create Project** and the other is **Add to Project**.  In this case we will create a new project then migrate the assets to our working directory.  This is important as these asset packs can be gigabytes and chew up large hard disk space.  This way when you are done migrating you can delete this project.
+You can search all of the free assets available.  I am picking **Stylized Rendering** a UE4 sample project that is free.  There will be two options with assets.  One is **Create Project** and the other is **Add to Project**.  In this case we will create a new project then migrate the assets to our working directory.  This is important as these asset packs can be gigabytes and chew up large hard disk space.  This way when you are done migrating you can delete this project and only keep what you need.
 
-If it needs to **Add to Project** then create a new empty Unreal project and add it to this scratch project.  You can then migrate and export from it just like the above.
+Also, this project says it is only compatible with Unreal Engine 4. This is not an issue as we don't want to run the game, just use the models which are compatible with 5.2.X.
+
+If it the pluin needs to **Add to Project** then create a new empty Unreal project and add it to this scratch project.  You can then migrate and export from it just like the above.
 
 ![create sylized rendering project for UE4](images/sylizedMarket.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 16.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-I load the game and browse the game.  Oooh, I like the tree.  I click on the green portion of the tree and right click and select **Browse to Asset**.
+
+![](../images/line2.png)
+
+##### `Step 17.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
+
+I load the game and browse the game.  Oooh, I like the tree.  Don' try and run the game as it won't compile. I click on the green portion of the tree and right click and select **Browse to Asset**.
 
 ![browse to tree asset](images/browseToAsset.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
-
-##### `Step 17.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Now the tree comes in a trunk and a top.  I selected both items and right clicked and selected **Asset Actions | Migrate...**. This brings up a menu that lists all the files needed for these static meshes (including materials and textures).  Press the <kbd>OK</kbd> button to accept.
 
 ![alt text](images/migrateAssets.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 18.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -158,7 +162,7 @@ Now when migrating content you have to select your **Hello World** project and t
 
 ![migrate trunk and tree top](images/migrateToContent.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 19.`\|`UE5HW`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -166,7 +170,7 @@ Now we can drag these new meshes into the level and adjust the scale to your lik
 
 ![and mesh and scale to liking](images/meshAndScale.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 20.`\|`UE5HW`| :large_blue_diamond: :large_blue_diamond:
 
